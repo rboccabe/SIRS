@@ -30,6 +30,7 @@
 		break;
 	}
 
+
 	StringBuffer json_r = new StringBuffer();
 	%><%
 	for (int i=0; i<rs.getResultSize(); i++) {

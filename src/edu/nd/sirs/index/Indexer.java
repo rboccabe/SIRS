@@ -35,12 +35,12 @@ public class Indexer {
 	private static final String IDX = "./data/idx.txt";
 	private static final String IDXTERMOFFSET = "./data/idx_term_offset.txt";
 
-	private static final Integer RUN_SIZE = 10000;
+	private static final Integer RUN_SIZE = 1000000;
 	private static final Boolean COMPRESS = false;
 
 	private int wordId;
 	private int docId;
-	private List<Posting> run;
+	private List<DocumentTerm> run;
 	private int runNumber;
 
 	private TreeMap<String, Integer> voc;
@@ -72,7 +72,7 @@ public class Indexer {
 
 			// start the first run
 			logger.info("Starting the first indexer run.");
-			run = new ArrayList<Posting>();
+			run = new ArrayList<DocumentTerm>();
 			int written = 0;
 			for (File file : filesToIndex) {
 				logger.info("Indexing document " + file.getName());
@@ -134,11 +134,11 @@ public class Indexer {
 	private void mergeRuns() throws FileNotFoundException {
 
 		// Create the heap
-		PriorityQueue<MergePosting> mergeHeap = new PriorityQueue<MergePosting>();
+		PriorityQueue<MergeDocumentTerms> mergeHeap = new PriorityQueue<MergeDocumentTerms>();
 		List<RunFile> rfv = new ArrayList<RunFile>();
 		String filename;
-		Posting ocurr;
-		MergePosting ro;
+		DocumentTerm ocurr;
+		MergeDocumentTerms ro;
 		for (int i = 0; i < runNumber; ++i) {
 			filename = RUNSPREFIX + i;
 			rfv.add(new RunFile(new File(filename), RUN_SIZE / runNumber));
@@ -148,7 +148,7 @@ public class Indexer {
 				logger.error("Error: Record was not found.");
 				return;
 			}
-			ro = new MergePosting(ocurr, i);
+			ro = new MergeDocumentTerms(ocurr, i);
 			mergeHeap.add(ro);
 		}
 		long currentTerm = 0l;
@@ -157,10 +157,13 @@ public class Indexer {
 		PrintWriter tosFile = new PrintWriter(IDXTERMOFFSET);
 		String wid = wordId + "\n";
 		tosFile.print(wid);
-		tosFile.println(0);
 
-		MergePosting first;
+		MergeDocumentTerms first;
 		logger.info("Merging run files...");
+		
+		int df = 0;
+		StringBuffer posting = new StringBuffer();
+		
 		while (!mergeHeap.isEmpty()) {
 			first = mergeHeap.poll();
 
@@ -168,23 +171,27 @@ public class Indexer {
 			// put it in the heap, if possible
 			ocurr = rfv.get(first.run).getRecord();
 			if (ocurr != null) {
-				ro = new MergePosting(ocurr, first.run);
+				ro = new MergeDocumentTerms(ocurr, first.run);
 				mergeHeap.add(ro);
 			}
 			// Saving to the file
 			if (first.getTermId() > currentTerm) {
 				tosFile.println(currentTermOffset);
+				String p = currentTerm + ":" + df + "\t" + posting + "\n";
+				outFile.print(p);
+				currentTermOffset += p.getBytes().length;
 				currentTerm = first.getTermId();
+				posting = new StringBuffer();
+				df=0;
 			} else if (first.getTermId() < currentTerm) {
 				logger.error("Term ids messed up, something went wrong with the sorting");
 			}
 			if (COMPRESS) {
 				// not yet
 			} else {
-				String s = new String(currentTerm + "\t" + first.getDocId()
-						+ "\t" + first.getFrequency() + "\n");
-				outFile.print(s);
-				currentTermOffset += s.getBytes().length;
+				df++;
+				posting.append("(" + first.getDocId() + ","
+						+ first.getFrequency() + ");");
 			}
 		}
 		outFile.close();
@@ -199,12 +206,15 @@ public class Indexer {
 	 *            list of tokens for indexing
 	 */
 	private void index(List<String> tokens) {
-		HashMap<Integer, Posting> lVoc = new HashMap<Integer, Posting>();
+		HashMap<Integer, DocumentTerm> lVoc = new HashMap<Integer, DocumentTerm>();
 		for (String token : tokens) {
+			if(token.equals("weninger")){
+				System.out.println();
+			}
 			index(token, docId, lVoc);
 		}
 
-		for (Posting p : lVoc.values()) {
+		for (DocumentTerm p : lVoc.values()) {
 			if (run.size() < RUN_SIZE) {
 				run.add(p);
 			} else {
@@ -237,7 +247,7 @@ public class Indexer {
 			Collections.sort(run);
 
 			// Storing it
-			for (Posting p : run) {
+			for (DocumentTerm p : run) {
 				outFile.println(p.getDocId() + "\t" + p.getTermId() + "\t"
 						+ p.getFrequency());
 			}
@@ -264,7 +274,7 @@ public class Indexer {
 	}
 
 	/**
-	 * Creates a posting from token and docid pair and adds it to the local
+	 * Creates a DocumentTerm pair from token and docid and adds it to the local
 	 * vocabulary
 	 * 
 	 * @param token
@@ -272,9 +282,9 @@ public class Indexer {
 	 * @param docId
 	 *            Document Id containing Token
 	 * @param lVoc
-	 *            local dictionary of Tokens->Postings
+	 *            local dictionary of Tokens->DocumentTerm
 	 */
-	private void index(String token, int docId, HashMap<Integer, Posting> lVoc) {
+	private void index(String token, int docId, HashMap<Integer, DocumentTerm> lVoc) {
 		int termId;
 		if (!voc.containsKey(token)) {
 			termId = getNewId();
@@ -284,10 +294,10 @@ public class Indexer {
 		}
 
 		if (!lVoc.containsKey(termId)) {
-			Posting p = new Posting(termId, docId, 1);
+			DocumentTerm p = new DocumentTerm(termId, docId, 1);
 			lVoc.put(termId, p);
 		} else {
-			Posting p = lVoc.get(termId);
+			DocumentTerm p = lVoc.get(termId);
 			p.incrementFrequency();
 			// do we need this?
 			lVoc.put(termId, p);
