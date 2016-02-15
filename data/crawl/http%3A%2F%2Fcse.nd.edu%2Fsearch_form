@@ -1,0 +1,1047 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://cse.nd.edu/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://cse.nd.edu/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-cachekey5311.css" title="jQuery CSS" />
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery.select2uislider-cachekey4754.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/base-cachekey1847.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/dropdown-menu-cachekey4039.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneKss-cachekey1587.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.discussion.stylesheetsdiscussion-cachekey2492.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.jquerytools.dateinput-cachekey8245.css);</style>
+        <!--[if lte IE 7]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://cse.nd.edu/portal_css/ND%20Theme/IEFixes-cachekey9920.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0248.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.dexterity.overlays-cachekey3343.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey6679.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/visualeditor-cachekey5643.css" />
+    <style type="text/css">@import url(http://cse.nd.edu/portal_css/ND%20Theme/slideshow-cachekey0067.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8752.css);</style>
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/faceted_view-cachekey0307.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneCustom-cachekey9913.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/cseStyles-cachekey5695.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/leastCenterStyles-cachekey3180.css" />
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.js.chosenchosen-cachekey4409.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/labStyles-cachekey2020.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://cse.nd.edu/portal_css/ND%20Theme/print-cachekey0402.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/brandbarOverrideStyles-cachekey4132.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://cse.nd.edu/portal_kss/ND%20Theme/at-cachekey5249.kss" />
+  
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cachekey5527.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery.tagcloud-cachekey4878.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/table_sorter-cachekey4070.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcedropdown-menu-cachekey8189.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.app.discussion.javascriptscomments-cachekey7910.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/iefixes-cachekey9038.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey1034.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/basic-cachekey2230.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cycle-cachekey0203.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery-ui.min-cachekey8119.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery.jqEasyCharCounter.min-cachekey4265.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/cseAnalytics-cachekey7388.js"></script>
+
+
+<title>Department of Computer Science and Engineering</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://cse.nd.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://cse.nd.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://cse.nd.edu" title="Front page" />
+
+    <link rel="contents" href="http://cse.nd.edu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://cse.nd.edu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-search_form portaltype-nd-content-department navroot-cse" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <div id="brandBar">
+		<p class="undBrand"><a href="http://www.nd.edu/" target="_blank" title="University of Notre Dame">UNIVERSITY of NOTRE DAME</a></p>
+		<p class="orgBrand"><a href="http://engineering.nd.edu/" title="College of Engineering">COLLEGE of ENGINEERING</a></p>
+                <p class="orgBrand provost"><a href="http://provost.nd.edu/" title="Office of the Provost">OFFICE of the PROVOST</a></p>
+	</div>
+	<p class="hiddenStructure">
+  <a accesskey="2" href="http://cse.nd.edu/search_form#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://cse.nd.edu/search_form#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+
+    <a id="portal-logo" title="Home" accesskey="1" href="http://cse.nd.edu">
+       <span>Department of Computer Science and Engineering</span>
+       
+    </a>
+    
+    
+
+
+
+<div id="portal-searchbox"> 
+                 
+     <form name="searchform" id="searchGadget_form" action="http://cse.nd.edu/search">
+       <div class="LSBox">
+           <label class="hiddenStructure" for="searchGadget">Search Site</label>
+        
+            <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+                   
+            <button type="submit" class="searchButton" id="search-button">Search</button>
+        
+            <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div>
+        </div>
+    </div></form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://cse.nd.edu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+	<!--<dt>
+		<a href="#">Contact</a>
+	<a href="#">Directory</a>
+	<a title="Home"
+	   accesskey="1"
+	   tal:attributes="href view/navigation_root_url"
+	   i18n:domain="plone"
+	   i18n:attributes="title">Home</a></dt>-->
+  <dt id="anon-personalbar">
+    
+        <a href="http://cse.nd.edu/login" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="selected"><a href="http://cse.nd.edu" class="plain" title="">Home</a></li><li id="portaltab-academics" class="plain"><a href="http://cse.nd.edu/academics" class="plain" title="">ACADEMICS</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published" title="">
+            
+            Current Courses
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published" title="">
+            
+            Course Catalog
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published" title="">
+            
+            Course Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published" title="">
+            
+            Information for Undergraduates
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published" title="">
+            
+            Information for Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published" title="">
+            
+            Honor Code
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-research" class="plain"><a href="http://cse.nd.edu/research" class="plain" title="">RESEARCH</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published" title="">
+            
+            Research Labs
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published" title="">
+            
+            Research Areas
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published" title="">
+            
+            Current Projects
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published" title="">
+            
+            Tech Reports
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-people" class="plain"><a href="http://cse.nd.edu/people" class="plain" title="">PEOPLE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published" title="">
+            
+            Faculty
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published" title="">
+            
+            Staff
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published" title="">
+            
+            Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published" title="">
+            
+            PhD Alumni
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published" title="">
+            
+            Directory
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-resources" class="plain"><a href="http://cse.nd.edu/resources" class="plain" title="">RESOURCES</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/computer-facilities" class="state-published" title="">
+            
+            Computer Facilities
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/installed-software" class="state-published" title="">
+            
+            Installed Software
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/current-cse-newsletter" class="state-published" title="">
+            
+            Current CSE Newsletter
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/newsletter-archives" class="state-published" title="">
+            
+            Newsletter Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/university-resources" class="state-published" title="">
+            
+            University Resources
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-join-us" class="plain"><a href="http://cse.nd.edu/join-us" class="plain" title="">JOIN US</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/graduate" class="state-published" title="">
+            
+            Graduate Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/undergrad-admissions" class="state-published" title="">
+            
+            Undergrad Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/faculty-job-openings" class="state-published" title="">
+            
+            Faculty Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/staff-job-openings" class="state-published" title="">
+            
+            Staff Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/student-job-openings" class="state-published" title="">
+            
+            Student Job Openings
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-about" class="plain"><a href="http://cse.nd.edu/about" class="plain" title="">ABOUT</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/about/academic-mission" class="state-published" title="">
+            
+            Academic Mission
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/department-news" class="state-published" title="">
+            
+            Department News
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/careers-in-cse" class="state-published" title="">
+            
+            Careers in CSE
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li></ul>
+
+
+</div>
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <!--<span id="breadcrumbs-you-are-here" i18n:translate="you_are_here">You
+are here:</span>-->
+    <span id="breadcrumbs-home">
+        <a href="http://cse.nd.edu">Home</a>
+        
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+    <h1 class="documentFirstHeading">Advanced search for content</h1>
+
+    <div class="documentDescription">
+        This search form enables you to find content on the site by
+        specifying one or more search terms.
+        <br />
+        Remember that you can use the quick search anytime, it's normally
+        good enough, this search form is just if you want to be more specific.
+    </div>
+
+    <div id="content-core">
+
+        
+
+        <form action="search" class="enableAutoFocus" method="get" name="search" id="searchform">
+
+            <input type="hidden" name="advanced_search" value="True" />
+
+                <div class="field">
+                    <label for="SearchableText">Search text</label>
+
+                    <div class="formHelp">
+                    For a simple text search, enter your search term
+                    here. Multiple words may be found by combining
+                    them with <strong>AND</strong> and <strong>OR</strong>.
+                    The text in this field will be matched with
+                    items' contents, title and description.
+                    </div>
+
+                    <input type="text" id="SearchableText" name="SearchableText" size="25" />
+                </div>
+
+
+                <div class="field">
+
+                    <label for="Subject">Tags</label>
+
+                    <div class="formHelp">
+                    Return items matching some or all of these tags.
+                    Multiple words may be found by pressing <strong>Ctrl</strong>
+                    (or <strong>Apple</strong> key on Mac) while clicking the
+                    keywords.
+                    </div>
+
+                    <select name="Subject:list" id="Subject" size="7" multiple="multiple">
+                        <option value="2012 Archive">2012 Archive</option>
+                        <option value="2013 Archive">2013 Archive</option>
+                        <option value="Alumnae">Alumnae</option>
+                        <option value="Alumni">Alumni</option>
+                        <option value="Banner">Banner</option>
+                        <option value="CBE">CBE</option>
+                        <option value="CBE, chemical, engineering, eng, cheg, aiche, undergraduate, club, organization">CBE, chemical, engineering, eng, cheg, aiche, undergraduate, club, organization</option>
+                        <option value="CFD, Turbulence, FSI, Bluff Body, Wind Tunnel Testing">CFD, Turbulence, FSI, Bluff Body, Wind Tunnel Testing</option>
+                        <option value="College News">College News</option>
+                        <option value="Economic Development Research">Economic Development Research</option>
+                        <option value="Electrical Engineering">Electrical Engineering</option>
+                        <option value="Energy Research">Energy Research</option>
+                        <option value="Environmental Sustainability Research">Environmental Sustainability Research</option>
+                        <option value="Faculty">Faculty</option>
+                        <option value="Fitz-Cush Displays">Fitz-Cush Displays</option>
+                        <option value="Home">Home</option>
+                        <option value="Honors and Awards">Honors and Awards</option>
+                        <option value="Human Health and Well Being">Human Health and Well Being</option>
+                        <option value="Human Health and Well Being Research">Human Health and Well Being Research</option>
+                        <option value="IBM Lecture Series">IBM Lecture Series</option>
+                        <option value="Incropera">Incropera</option>
+                        <option value="LEAST Faculty Honors">LEAST Faculty Honors</option>
+                        <option value="Leadership Seminar">Leadership Seminar</option>
+                        <option value="Leadership Seminar Series">Leadership Seminar Series</option>
+                        <option value="Lecture Series">Lecture Series</option>
+                        <option value="MS Defense">MS Defense</option>
+                        <option value="Microbiology, Molecular Biology, Pathogenesis">Microbiology, Molecular Biology, Pathogenesis</option>
+                        <option value="Personal and National Security">Personal and National Security</option>
+                        <option value="Personal and National Security Research">Personal and National Security Research</option>
+                        <option value="Ph.D. Defense">Ph.D. Defense</option>
+                        <option value="Post Doctoral Researchers">Post Doctoral Researchers</option>
+                        <option value="Press Release">Press Release</option>
+                        <option value="Publications">Publications</option>
+                        <option value="Research">Research</option>
+                        <option value="Research Collection">Research Collection</option>
+                        <option value="S&amp;E Outreach Courses">S&amp;E Outreach Courses</option>
+                        <option value="S&amp;E Outreach Projects">S&amp;E Outreach Projects</option>
+                        <option value="Slideshow">Slideshow</option>
+                        <option value="Staff">Staff</option>
+                        <option value="Student">Student</option>
+                        <option value="Undergraduate">Undergraduate</option>
+                        <option value="Video">Video</option>
+                        <option value="Wastewater treatment, Biofilm, Biological Nutrient Removal, Biofilm modeling">Wastewater treatment, Biofilm, Biological Nutrient Removal, Biofilm modeling</option>
+                        <option value="Wireless Institute">Wireless Institute</option>
+                        <option value="test 1">test 1</option>
+                        <option value="test 2">test 2</option>
+                        <option value="test 3">test 3</option>
+                        <option value="test 4">test 4</option>
+                    </select>
+                    <br />
+
+                    <input type="radio" name="Subject_usage:ignore_empty" id="Subject_or" value="" class="noborder" checked="checked" />
+                        <label for="Subject_or">
+                            Match any
+                        </label>
+                        <br />
+
+                    <input type="radio" name="Subject_usage:ignore_empty" id="Subject_and" value="operator:and" class="noborder" checked="checked" />
+                    <label for="Subject_and">
+                        Match all
+                    </label>
+                </div>
+
+
+                <h2>More search options</h2>
+
+
+                <div class="field collapsible">
+                    <label class="collapser">Item type</label>
+
+    		<div class="collapse">
+                    <div class="formHelp">
+                    Return items of a specific type.
+                    </div>
+
+                    <span class="optionsToggle">
+                        <input type="checkbox" onclick="javascript:toggleSelect(this, 'portal_type:list', true)" name="pt_toggle" value="#" id="pt_toggle" class="noborder" checked="checked" />
+                        <label for="pt_toggle">Select All/None
+                        </label>
+                    </span>
+                    <br />
+                    <div style="float: left; margin-right: 2em;">
+                        
+                        <input type="checkbox" name="portal_type:list" value="Book" class="noborder" checked="checked" id="portal_type_1_1" />
+                        <label for="portal_type_1_1">Book</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="Document" class="noborder" checked="checked" id="portal_type_1_2" />
+                        <label for="portal_type_1_2">Page</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="Event" class="noborder" checked="checked" id="portal_type_1_3" />
+                        <label for="portal_type_1_3">Event</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="File" class="noborder" checked="checked" id="portal_type_1_4" />
+                        <label for="portal_type_1_4">File</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="Folder" class="noborder" checked="checked" id="portal_type_1_5" />
+                        <label for="portal_type_1_5">Folder</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="Highlight" class="noborder" checked="checked" id="portal_type_1_6" />
+                        <label for="portal_type_1_6">Highlight</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="InTheNews" class="noborder" checked="checked" id="portal_type_1_7" />
+                        <label for="portal_type_1_7">In the News Link(s)</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="Link" class="noborder" checked="checked" id="portal_type_1_8" />
+                        <label for="portal_type_1_8">Link</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="MemberFolder" class="noborder" checked="checked" id="portal_type_1_9" />
+                        <label for="portal_type_1_9">Member Folder</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="News Item" class="noborder" checked="checked" id="portal_type_1_10" />
+                        <label for="portal_type_1_10">News Item</label>
+                        <br />
+                        
+                    </div>
+                    <div style="float: left; margin-right: 2em;">
+                        
+                        <input type="checkbox" name="portal_type:list" value="Page_with_Image" class="noborder" checked="checked" id="portal_type_2_1" />
+                        <label for="portal_type_2_1">Page with Image</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="ProfileFolder" class="noborder" checked="checked" id="portal_type_2_2" />
+                        <label for="portal_type_2_2">Profile Folder</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="Research_Page" class="noborder" checked="checked" id="portal_type_2_3" />
+                        <label for="portal_type_2_3">Research Page</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="Topic" class="noborder" checked="checked" id="portal_type_2_4" />
+                        <label for="portal_type_2_4">Collection</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="nd.content.center" class="noborder" checked="checked" id="portal_type_2_5" />
+                        <label for="portal_type_2_5">Center</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="nd.content.college" class="noborder" checked="checked" id="portal_type_2_6" />
+                        <label for="portal_type_2_6">College</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="nd.content.department" class="noborder" checked="checked" id="portal_type_2_7" />
+                        <label for="portal_type_2_7">Department</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="nd.content.lab" class="noborder" checked="checked" id="portal_type_2_8" />
+                        <label for="portal_type_2_8">Lab</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="nd.content.member" class="noborder" checked="checked" id="portal_type_2_9" />
+                        <label for="portal_type_2_9">Member</label>
+                        <br />
+                        
+                        
+                        <input type="checkbox" name="portal_type:list" value="nd.content.seminar" class="noborder" checked="checked" id="portal_type_2_10" />
+                        <label for="portal_type_2_10">Seminar</label>
+                        <br />
+                        
+                    </div>
+                <div class="visualClear" id="clear-after-item-type"><!-- --></div>
+                </div>
+    	  </div>
+
+
+                <div class="field collapsible">
+                    <label for="created" class="collapser">New items since</label>
+
+            <div class="collapse">
+                    <div class="formHelp">
+                    Return items added since you were last logged on, the last week, etc.
+                    </div>
+
+                    
+                    <select name="created:list:date" id="created">
+                        
+                        <option value="2016/01/24"> Yesterday </option>
+                        <option value="2016/01/18"> Last week </option>
+                        <option value="2015/12/25"> Last month </option>
+                        <option value="1970/02/01" class="default_option" selected="selected"> Ever </option>
+                    </select>
+                    
+                </div>
+
+                    <input type="hidden" name="created_usage" value="range:min" />
+                </div>
+
+                
+
+                <div class="field collapsible">
+                    <label for="Creator" class="collapser">Author</label>
+
+                    <div class="collapse">
+                    <div class="formHelp">
+                    Return items created by a particular person.
+                    </div>
+
+                    
+                        
+
+                        <input name="Creator" />
+                    
+            </div>
+                </div>
+
+                
+
+                
+
+                <h2>Display options</h2>
+
+                <div class="field">
+                  <label for="sort_on">Sort results</label>
+
+                  <div class="formHelp">
+                    Sort the Search Results based on the selected criterion
+                  </div>
+
+                  <select name="sort_on" id="sort_on">
+                    <option value="">Relevance</option>
+                    <option value="created">Creation Date</option>
+                    <option value="modified">Modification Date</option>
+                    <option value="sortable_title">Title</option>
+                  </select>
+
+                </div>
+
+                <div class="field">
+                  <label for="b_size">Results per page</label>
+
+                  <div class="formHelp">
+                    The number of results that is displayed on one page.
+                  </div>
+
+                  <select name="b_size:int" id="b_size">
+                    <option value="30">30</option>
+                    <option value="60">60</option>
+                    <option value="90">90</option>
+                  </select>
+
+                </div>
+
+                <div class="visualClear" id="clear-space-before-submit"><!-- --></div>
+
+                <div class="formControls">
+                    <input class="context" type="submit" name="submit" value="Search" />
+                </div>
+
+        </form>
+
+        
+    </div>
+
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+</div>
+
+            </td>
+            
+
+            
+                
+                
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+    <a href="http://www.nd.edu" class="mark" title="University of Notre Dame" target="_new"><img src="undlogo-31.png" alt="University of Notre Dame" /></a>
+    <p><a href="http://www.nd.edu/copyright/" title="Copyright" target="_new">Copyright</a> &copy; <span>2016</span><br />
+    The <a title="Home" href="http://cse.nd.edu">Department of Computer Science and Engineering</a> at the <a href="http://www.nd.edu" title="University of Notre Dame" target="_new">University of Notre Dame</a><br />
+    E-mail: <a href="mailto:cse@cse.nd.edu" title="College of Engineering E-mail">cse@cse.nd.edu</a></p>
+</div>
+
+<script type="text/javascript"
+src="/js/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://cse.nd.edu/spinner.gif" /></div>
+</body>
+</html>
+

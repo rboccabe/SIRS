@@ -1,0 +1,1230 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://cse.nd.edu/people/faculty" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://cse.nd.edu/people/faculty/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-cachekey5311.css" title="jQuery CSS" />
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery.select2uislider-cachekey4754.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/base-cachekey1847.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/dropdown-menu-cachekey4039.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneKss-cachekey1587.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.discussion.stylesheetsdiscussion-cachekey2492.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.jquerytools.dateinput-cachekey8245.css);</style>
+        <!--[if lte IE 7]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://cse.nd.edu/portal_css/ND%20Theme/IEFixes-cachekey9920.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0248.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.dexterity.overlays-cachekey3343.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey6679.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/visualeditor-cachekey5643.css" />
+    <style type="text/css">@import url(http://cse.nd.edu/portal_css/ND%20Theme/slideshow-cachekey0067.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8752.css);</style>
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/faceted_view-cachekey0307.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneCustom-cachekey9913.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/cseStyles-cachekey5695.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/leastCenterStyles-cachekey3180.css" />
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.js.chosenchosen-cachekey4409.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/labStyles-cachekey2020.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://cse.nd.edu/portal_css/ND%20Theme/print-cachekey0402.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/brandbarOverrideStyles-cachekey4132.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://cse.nd.edu/portal_kss/ND%20Theme/at-cachekey5249.kss" />
+  
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cachekey5527.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery.tagcloud-cachekey4878.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/table_sorter-cachekey4070.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcedropdown-menu-cachekey8189.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.app.discussion.javascriptscomments-cachekey7910.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/iefixes-cachekey9038.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey1034.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/basic-cachekey2230.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cycle-cachekey0203.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery-ui.min-cachekey8119.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery.jqEasyCharCounter.min-cachekey4265.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/cseAnalytics-cachekey7388.js"></script>
+
+
+<title>Faculty &mdash; Department of Computer Science and Engineering</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://cse.nd.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://cse.nd.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://cse.nd.edu" title="Front page" />
+
+    <link rel="contents" href="http://cse.nd.edu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://cse.nd.edu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-document_view portaltype-document section-people navroot-cse" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <div id="brandBar">
+		<p class="undBrand"><a href="http://www.nd.edu/" target="_blank" title="University of Notre Dame">UNIVERSITY of NOTRE DAME</a></p>
+		<p class="orgBrand"><a href="http://engineering.nd.edu/" title="College of Engineering">COLLEGE of ENGINEERING</a></p>
+                <p class="orgBrand provost"><a href="http://provost.nd.edu/" title="Office of the Provost">OFFICE of the PROVOST</a></p>
+	</div>
+	<p class="hiddenStructure">
+  <a accesskey="2" href="http://cse.nd.edu/people/faculty#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://cse.nd.edu/people/faculty#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+
+    <a id="portal-logo" title="Home" accesskey="1" href="http://cse.nd.edu">
+       <span>Department of Computer Science and Engineering</span>
+       
+    </a>
+    
+    
+
+
+
+<div id="portal-searchbox"> 
+                 
+     <form name="searchform" id="searchGadget_form" action="http://cse.nd.edu/search">
+       <div class="LSBox">
+           <label class="hiddenStructure" for="searchGadget">Search Site</label>
+        
+            <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+                   
+            <button type="submit" class="searchButton" id="search-button">Search</button>
+        
+            <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div>
+        </div>
+    </div></form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://cse.nd.edu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+	<!--<dt>
+		<a href="#">Contact</a>
+	<a href="#">Directory</a>
+	<a title="Home"
+	   accesskey="1"
+	   tal:attributes="href view/navigation_root_url"
+	   i18n:domain="plone"
+	   i18n:attributes="title">Home</a></dt>-->
+  <dt id="anon-personalbar">
+    
+        <a href="http://cse.nd.edu/login" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://cse.nd.edu" class="plain" title="">Home</a></li><li id="portaltab-academics" class="plain"><a href="http://cse.nd.edu/academics" class="plain" title="">ACADEMICS</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published" title="">
+            
+            Current Courses
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published" title="">
+            
+            Course Catalog
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published" title="">
+            
+            Course Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published" title="">
+            
+            Information for Undergraduates
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published" title="">
+            
+            Information for Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published" title="">
+            
+            Honor Code
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-research" class="plain"><a href="http://cse.nd.edu/research" class="plain" title="">RESEARCH</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published" title="">
+            
+            Research Labs
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published" title="">
+            
+            Research Areas
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published" title="">
+            
+            Current Projects
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published" title="">
+            
+            Tech Reports
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-people" class="selected"><a href="http://cse.nd.edu/people" class="plain" title="">PEOPLE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published" title="">
+            
+            Faculty
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published" title="">
+            
+            Staff
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published" title="">
+            
+            Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published" title="">
+            
+            PhD Alumni
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published" title="">
+            
+            Directory
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-resources" class="plain"><a href="http://cse.nd.edu/resources" class="plain" title="">RESOURCES</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/computer-facilities" class="state-published" title="">
+            
+            Computer Facilities
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/installed-software" class="state-published" title="">
+            
+            Installed Software
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/current-cse-newsletter" class="state-published" title="">
+            
+            Current CSE Newsletter
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/newsletter-archives" class="state-published" title="">
+            
+            Newsletter Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/university-resources" class="state-published" title="">
+            
+            University Resources
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-join-us" class="plain"><a href="http://cse.nd.edu/join-us" class="plain" title="">JOIN US</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/graduate" class="state-published" title="">
+            
+            Graduate Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/undergrad-admissions" class="state-published" title="">
+            
+            Undergrad Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/faculty-job-openings" class="state-published" title="">
+            
+            Faculty Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/staff-job-openings" class="state-published" title="">
+            
+            Staff Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/student-job-openings" class="state-published" title="">
+            
+            Student Job Openings
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-about" class="plain"><a href="http://cse.nd.edu/about" class="plain" title="">ABOUT</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/about/academic-mission" class="state-published" title="">
+            
+            Academic Mission
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/department-news" class="state-published" title="">
+            
+            Department News
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/careers-in-cse" class="state-published" title="">
+            
+            Careers in CSE
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li></ul>
+
+
+</div>
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                <td id="portal-column-one">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="http://cse.nd.edu/people/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode">
+                <div>
+                   <a href="http://cse.nd.edu/people" class="contenttype-plone-site " title="">
+                   
+                   PEOPLE
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode section-faculty">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published navTreeCurrentItem navTreeCurrentNode contenttype-document" title="">
+            
+            <span>Faculty</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-staff">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published contenttype-document" title="">
+            
+            <span>Staff</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-graduate-students">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published contenttype-document" title="">
+            
+            <span>Graduate Students</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-phd-alumni">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published contenttype-document" title="">
+            
+            <span>PhD Alumni</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-directory">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published contenttype-link" title="">
+            
+            <span>Directory</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <!--<span id="breadcrumbs-you-are-here" i18n:translate="you_are_here">You
+are here:</span>-->
+    <span id="breadcrumbs-home">
+        <a href="http://cse.nd.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            &gt;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://cse.nd.edu/people">PEOPLE</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Faculty</span>
+         
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Faculty
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+                            
+                                
+                                
+            
+                
+            
+            
+        
+                            
+
+                            
+
+
+                            <div id="content-core">
+                                
+    
+        
+        <div class="" id="parent-fieldname-text">
+            <table class="listing" style="width: 656px;">
+<tbody>
+<tr>
+<td><img src="http://cse.nd.edu/people/SmniazArifin.jpg/@@images/03fb8ccc-7015-4da9-80bf-6b869416f8fc.jpeg" alt="Niaz Arifin" class="image-inline" title="Niaz Arifin" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/sarifin"><span class="external-link"><span class="external-link"><strong>SM Niaz Arifin</strong></span></span></a><span class="position"><br />Research Assistant Professor</span><span><br /><em>Ph.D., Computer Science and Engineering, University of Notre Dame, 2013</em></span></p>
+<p>Agent-based modeling &amp; simulation, multi-agent simulation, spatial agent-based models, malaria epidemiology, data warehouse, computational biology, bioinformatics, and geographic information system.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/marina_blanton.jpg/@@images/13b7b8ca-94bf-4fbd-8cce-4451754e66d8.jpeg" alt="Marina Blanton" class="image-inline" title="Marina Blanton" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/mblanton"><span class="external-link"><span class="external-link"><strong>Marina Blanton</strong></span></span></a><span class="position"><br />Assistant Professor</span><span><br /><em>Ph.D., Computer Science, Purdue University, 2007</em></span></p>
+<p>Information security, privacy, and applied cryptography.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/kevin_bowyer.jpg/@@images/7bbf8b91-189f-4e05-ab3b-27cbfc7a5d37.jpeg" alt="Kevin Bowyer" class="image-inline" title="Kevin Bowyer" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/kbowyer"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Kevin Bowyer</strong></span></span></span></a><span class="position"><br />Schubmehl-Prein Professor, Concurrent Professor of Electrical Engineering, and Department Chair</span><span><em></em><br /><em>Ph.D., Computer Science, Duke, 1980</em></span></p>
+<p>Computer vision and pattern recognition, including biometrics, data mining, object recognition and medical image analysis.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/no_photoND.jpeg/@@images/b473bbb4-9904-443c-8726-ddd08c0d1191.jpeg" alt="Jay Brockman" class="image-inline" title="Jay Brockman" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jbrockman"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Jay Brockman</strong></span></span></span></a><span class="position"><br /></span><span>Professional Specialist and Associate Dean of Community Engagement and Experiential Learning for the College of Engineering<br /><em>Ph.D., from Carnegie Mellon University in 1992</em></span></p>
+<p>Computer architecture, VLSI systems, and multidisciplinary design optimization</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/Ramzi_Bualuan.jpg/@@images/117f0800-f834-4820-af76-0ded3f6a997e.jpeg" alt="Ramzi K. Bualuan" class="image-inline" title="Ramzi K. Bualuan" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/rbualuan"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Ramzi K. Bualuan</strong></span></span></span></span></a><span class="position"><br />Associate Professional Specialist and Director of Undergraduate Studies</span><span><br /><em>M.S., Electrical Engineering, University of Notre Dame, 1985</em></span></p>
+<p>Databases, Advanced Database Projects, and Visual FX</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/bd236a90-496a-4fc9-bde3-759a76684438" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/pbui"><span class="external-link"><span class="external-link"><strong>Peter Bui</strong></span></span></a><span class="position"><br />Assistant Professional Specialist</span><span><br /><em>Ph.D., Computer Science and Engineering, University of Notre Dame, 2012</em></span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/nitesh.jpg/@@images/c07090ac-3f1f-41b1-929a-119b316d30ea.jpeg" alt="Nitesh Chawla" class="image-inline" title="Nitesh Chawla" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/nchawla"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Nitesh V. Chawla</strong></span></span></span></span></span></a><span class="position"><br /></span></p>
+<p>Frank Freimann Collegiate <span class="position">Associate Professor</span><span><br /><em>Ph.D., Computer Science and Engineering, University of South Florida, 2002</em></span></p>
+<p>Data mining, machine learning, network science and their applications to analytics, social networks, healthcare informatics/analytics, and climate data science.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/chen.jpg/@@images/beb55f36-d370-414b-b1ed-5c5ece0d51f0.jpeg" alt="Danny Chen" class="image-inline" title="Danny Chen" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/dchen"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Danny Chen</strong></span></span></span></span></span></span></a><span class="position"><br />Professor</span><span><br /><em>Ph.D., Computer Science, Purdue University, 1992</em></span></p>
+<p>Computational geometry and applications, parallel algorithms, robotics, automated medical treatment and diagnosis.</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/1735e1f4-ce74-436c-956e-18bf13855b8b/@@images/image/portrait_popup" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/dchiang"><span class="external-link"><span class="external-link"><strong>David Chiang</strong></span></span></a><span class="position"><br />Associate Professor</span><span><br /><em>Ph.D., Computer and Information Science, University of Pennsylvania, 2004</em></span></p>
+<p>Natural language processing, machine learning, and digital humanities.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><img src="http://cse.nd.edu/people/dmello.jpg/@@images/df5b5e74-64cd-4a18-bd46-89d0c7403428.jpeg" alt="Sidney D'Mello" class="image-inline" title="Sidney D'Mello" /></p>
+</td>
+<td><a class="external-link" href="http://engineering.nd.edu/profiles/sdmello"><span class="external-link"><span class="external-link"><strong>Sidney D'Mello</strong></span></span></a><span class="position">  <br />Assistant Professor</span><span><br /><em>Ph.D., Computer Science, University of Memphis, 2009</em></span>
+<p> </p>
+<p>Affective computing, human-computer interaction, artificial intelligence, and advanced learning technologies.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/emrich.jpg/@@images/3b87636a-d95f-44a2-9df2-06fa5146d0f4.jpeg" alt="Scott Emrich" class="image-inline" title="Scott Emrich" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/semrich"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Scott Emrich</strong></span></span></span></span></span></span></a><span class="position"><br />Research Associate Professor</span><span><br /><em>Ph.D., Bioinformatics and Computational Biology, Iowa State University, 2007</em></span></p>
+<p>Computational biology, bioinformatics, and high-performance computing.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/patrickflynn.png/@@images/24c0cd11-1ca9-4eb3-a4a3-7c926a56fdfc.png" alt="Patrick Flynn" class="image-inline" title="Patrick Flynn" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/pflynn"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Patrick J. Flynn</strong></span></span></span></span></span></span></span></a><span class="position"><br />Duda Family Professor of Engineering<br /></span>Professor of Computer Science and Engineering<br />Concurrent Professor of Electrical Engineering</p>
+<p><span><em>Ph.D., Computer Science, Michigan State University, 1990</em></span></p>
+<p>IAPR Fellow, IEEE Fellow. Computer vision, pattern recognition, signal and image processing.</p>
+</td>
+</tr>
+<tr>
+<td><img class="image-inline" src="http://cse.nd.edu/resolveuid/5e902ce5-8cf9-466b-9638-843e8585bd08" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/sgesing"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Sandra Gesing</strong></span></span></span></span></span></span></span></a><span class="position"><br />Research Assistant Professor</span><span><br /><em>Ph.D., Computer Science, University of Tübingen, 2013</em></span></p>
+<p>Science gateways, bioinformatics, grid and cloud computing, distributed computing, parallelization of applications.</p>
+</td>
+</tr>
+<tr>
+<td><img class="image-inline" src="https://cse.nd.edu/resolveuid/e6e9ccb6-7767-43be-9abc-84954e855fa9/@@images/image/portrait_popup" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/xhu"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Xiaobo Sharon Hu</strong></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Professor and the Graduate School Associate Dean for Professional Development</span><span><br /><em>Ph.D., Electrical Engineering, Purdue University, 1989</em></span></p>
+<p>Hardware-software codesign, real-time embedded systems, low-power system design, and computer-aided treatment planning.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/izaguirre.jpg/@@images/243a5e60-98b8-468a-a023-b801353cc38b.jpeg" alt="Jesus Izaguirre" class="image-inline" title="Jesus Izaguirre" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jizaguirre"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Jesus Izaguirre</strong></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Associate Professor</span><span><br /><em>Ph.D., Computer Science, University of Illinois at Urbana-Champaign, 1999</em></span></p>
+<p>Development of scalable algorithms and software for computational chemistry and computational biology.</p>
+</td>
+</tr>
+<tr>
+<td><img class="image-inline" src="http://cse.nd.edu/resolveuid/0d4c1307-2797-49ba-8e54-a0a7baa8a78e/@@images/image/portrait_popup" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/pkogge"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Peter Kogge</strong></span></span></span></span></span></span></span></span></span></span></span></a><span class="position">  <br />Ted H. McCourtney Professor </span><span>of Computer Science and Engineering and </span><span class="position">Concurrent Professor of Electrical Engineering</span><span><em><br />Ph.D., Electrical Engineering, Stanford University, 1973</em></span></p>
+<p>Research areas include massively parallel processing architectures, advanced VLSI technology and architectures, non van Neumann models of programming and execution, parallel algorithms and applications, and their impact on computer architecture.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/madey.jpg/@@images/0293b60d-cd3c-43da-bb93-5f3a8a673583.jpeg" alt="Gregory Madey" class="image-inline" title="Gregory Madey" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/gmadey"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Gregory R. Madey</strong></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Research Professor and Director of Graduate Studies</span><span><br /><em>Ph.D., Operations Research, Case Western Reserve University, 1984</em></span></p>
+<p><span class="text">Use of computer science to develop solutions to a wide range of problems. Recent problem domains include environmental science, the open source software phenomenon, disaster management, modeling &amp; simulation of disease transmission, cyberinfrastructure and bioinformatics.</span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/CollinMcMillanCROPPED.jpg/@@images/89dc70f5-8440-43d2-9db6-2ae4dd57c2d3.jpeg" alt="Collin McMillan" class="image-inline" title="Collin McMillan" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/cmcmillan"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Collin McMillan</strong></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Assistant Professor</span><span><br /><em>Ph.D., Computer Science, College of William and Mary, 2012<br /></em></span></p>
+<p><span class="text">Software engineering and software systems.<br /></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/9aa52f99-e6cb-441f-be46-50ce35169984/@@images/image/portrait_popup" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/rmetoyer"><span class="external-link"><span class="external-link"><strong>Ronald Metoyer</strong></span></span></a><span class="position"><br />Associate Professor and Assistant Dean of Diversity and Special Initiatives for the College of Engineering</span><span><br /><em>Ph.D., Computer Science, Georgia Institute of Technology, 2002</em></span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/milenkovic.jpg/@@images/33cb7072-19d5-4e25-b8ba-9d31b8f0b156.jpeg" alt="Tijana Milenkovic" class="image-inline" title="Tijana Milenkovic" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/tmilenkovic"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Tijana Milenkovic</strong></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Assistant Professor</span><span><br /><em>Ph.D., Computer Science, University of California Irvine, 2010</em></span></p>
+<p><span class="text">Complex networks and network mining, computational and systems biology, synthetic biology.<br /></span></p>
+</td>
+</tr>
+<tr>
+<td><img class="image-inline" src="https://cse.nd.edu/resolveuid/ab76c07b-3fcb-4e88-b1f2-87f23e8ab2a1/@@images/image/portrait_popup" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/mniemier"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Michael Niemier</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Associate Professor</span><span><br /><em>Ph.D., Computer Science &amp; Engineering, University of Notre Dame, 2004</em></span></p>
+<p><span class="text">C</span>omputation beyond the CMOS field effect transistor.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/chris.png" title="ChrisPoellabauer" height="130" width="93" alt="ChrisPoellabauer" class="image-inline" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Christian Poellabauer</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Associate  Professor</span><span><br /><em>Ph.D., Georgia Institute of Technology, May 2004</em></span></p>
+<p>Distributed real-time systems, resource management (e.g., energy management), wireless/mobile networks, wireless sensor networks, vehicular networks, smart phone apps, and pervasive healthcare applications and systems.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/riek.jpg/@@images/c90a9709-b369-41ef-9027-8cd436a8290a.jpeg" alt="Laurel Riek" class="image-inline" title="Laurel Riek" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/lriek"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Laurel Riek</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Clare Boothe Luce Assistant Professor</span><span><em></em><br /><em>Ph.D., Computer Science, University of Cambridge, 2011</em></span></p>
+<p>Robotics, social signal processing, human-robot interaction, healthcare informatics, and assistive technology.</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/cd30bbfc-b013-4889-92cf-2fe762221af9/@@images/image/portrait_popup" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/wscheirer"><span class="external-link"><span class="external-link"><strong>Walter Scheirer</strong></span></span></a><span class="position"><br />Assistant Professor</span><span><br /><em>Ph.D., Engineering, University of Colorado, 2009</em></span></p>
+<p>Computer vision, machine learning, biometrics, and digital humanities</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/b2d15aa4-687a-4db0-937f-b00d90880433" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/yshi"><span class="external-link"><span class="external-link"><strong>Yiyu Shi</strong></span></span></a><span class="position"><br />Associate Professor</span><span><br /><em>Ph.D., Electrical Engineering, University of California at Los Angeles, 2009</em></span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/striegel.jpg/@@images/00c27745-51e1-4d35-ac2f-fb7e995f254b.jpeg" alt="Aaron D. Striegel" class="image-inline" title="Aaron D. Striegel" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/astriegel"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Aaron D. Striegel</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Associate  Professor and Associate Department Chair</span><span><br /><em>Ph. D, Computer Engineering, Iowa State University, Dec. 2002 </em></span></p>
+<p>Networking (bandwidth conservation, cellular network usage), computer security, low-cost computing-assisted rehabilitation, and engineering education.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/thain.jpg/@@images/236e7337-8e83-4313-a55b-7bde3008ebe4.jpeg" alt="Douglas Thain" class="image-inline" title="Douglas Thain" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/dthain"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Douglas Thain</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Associate  Professor</span><span><br /><em>Ph.D., Computer Sciences, University of Wisconsin at Madison, 2004</em></span></p>
+<p><span class="text">Distributed computing, scientific computing, cloud computing, grid computing, operating systems, open source software, file and storage systems, compilers and languages.</span></p>
+</td>
+</tr>
+<tr>
+<td><img class="image-inline" src="https://cse.nd.edu/resolveuid/da50506a-1c09-4f9b-b96a-b83824fa5a4f/@@images/image/portrait_popup" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/cwang"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Chaoli Wang</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Associate Professor</span><span><br /><em>Ph.D., Computer and Information Science, The Ohio State University, 2006</em></span></p>
+<p>Scientific visualization, big data analytics, user interface and interaction, information visualization, visualization in education.</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/3da9eb51-b0b2-418a-bd9d-464f6a67bba0/@@images/image/portrait_popup" /></td>
+<td>
+<p><strong><span class="external-link"><a class="external-link" href="https://engineering.nd.edu/profiles/dwang">Dong Wang</a></span></strong><span class="position"></span><br />Assistant Professor<em><br />Ph.D., Computer Science, University of Illinois at Urbana-Champaign, 2012</em></p>
+<p>Big data analytics, reliable information distillation systems, cyber-physical systems, MapReduce/Hadoop, embedded and real-time systems, network science, trust analysis in information and social networks, social sensing, crowdsourcing, and mobile sensing applications.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/weninger.jpg/@@images/a57c7cd9-1f90-4aad-b2d8-bcc387b77bcf.jpeg" alt="Timothy Weninger" class="image-inline" title="Timothy Weninger" /></td>
+<td colspan="1">
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: left; color: rgb(51, 51, 51); "><strong style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><span class="external-link" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><a class="external-link" href="http://engineering.nd.edu/profiles/tweninger"><span style="color: #07203e; ">T</span>im Weninger</a></span></strong><span class="position" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></span><br style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; " />Assistant Professor<em style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><br style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; " />Ph.D., Computer Science, University of Illinois at Urbana-Champaign, 2013</em></p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; text-align: left; color: rgb(51, 51, 51); "><em style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "></em>Network science, data science, machine learning, databases, and information retrieval.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Visiting, Adjunct, and Concurrent Faculty</h3>
+<p></p>
+<table class="listing" style="width: 656px;">
+<tbody>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy_of_Mark_Alber.jpg" alt="Mark S. Alber" class="image-inline" title="Mark S. Alber" /></td>
+<td>
+<p><strong><span class="external-link">Mark S. Alber</span></strong><span class="position"></span><br />Concurrent Professor and Vincent J. Duncan Family Professor of Applied Mathematics<em><br />Ph.D., Mathematics, University of Pennsylvania, 1990</em></p>
+<p>AAAS Fellow. Mathematical and computational biology, multi-scale modeling, nonlinear diffusion systems, and scientific computing.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/PanosAntsaklis.jpg/@@images/e73289ec-52ee-41b3-b5a4-e815d224353c.jpeg" alt="Panos  Antsaklis " class="image-inline" title="Panos  Antsaklis " /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/pantsaklis"><strong>Panos Antsaklis</strong></a><span class="position"><br /></span></p>
+<p><span>Concurrent Professor and</span><span class="position"> H. Clifford and Evelyn A. Brosey Chair </span><span><br /><em>Ph.D., Brown University, 1977</em></span></p>
+<p>Cyber Physical Networked Embedded Systems and addresses problems in the interdisciplinary research area of Control, Computing and Communication Networks, and on Hybrid and Discrete Event Dynamical Systems.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/collins.jpg/@@images/21e28825-61d0-48ac-8e53-2a9ec18446a4.jpeg" alt="Frank Collins" class="image-inline" title="Frank Collins" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/fcollins"><span class="external-link"><strong>Frank Collins</strong></span></a><span class="position"><br />Concurrent Professor</span><span><br /><em>Ph.D., University of California, Davis</em></span></p>
+<p>Genetics of Arthropod Vectors of Human Pathogens.</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/43459d52-f82e-4a4d-b525-1a49e1819f9d/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/aczajka"><span class="external-link"><strong>Adam Czajka</strong></span></a><span class="position"><br />Visiting Associate Professor</span><span><br /><em>Ph.D., Warsaw University of Technology, 2005</em></span></p>
+<p>Biometrics, biometric security, iris recognition, presentation attacks detection, liveness detection, biometric template aging.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/huang.jpg/@@images/6a88af9e-98ed-4951-84b7-369299530815.jpeg" alt="Yih-Fang Huang" class="image-inline" title="Yih-Fang Huang" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/yhuang"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Yih-Fang Huang</strong></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br />Concurrent Professor</span><span><br /><em>Ph.D., Princeton University, 1982 </em></span></p>
+<p>Theory and applications of detection and estimation.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/nabrzyski.jpg/@@images/4aa52382-aec5-4c06-9bc3-00f25a6732e9.jpeg" alt="Jaroslaw Nabrzyski" class="image-inline" title="Jaroslaw Nabrzyski" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jnabrzyski"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Jaroslaw Nabrzyski</strong></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position">  <br />Concurrent Associate Professor and Director of the Center for Research Computing</span><em> Ph.D., Computer Science, Poznan University of Technology, 2000</em></p>
+<p>Multi-objective project scheduling and resource management techniques for parallel and distributed computing.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy2_of_no_photoND.jpeg/@@images/3e3cb948-5eba-4584-a284-8114a4c4682f.jpeg" alt="Robert Stevenson" class="image-inline" title="Robert Stevenson" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/rstevenson"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Robert Stevenson</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br /></span><span>Concurrent </span><span class="position">Professor</span><span><em></em><br /><em>Ph.D., Purdue University, 1990 </em></span></p>
+<p>Statistical and multidimensional signal and image processing, computer vision.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/zoltan.jpg/@@images/8739fb2a-d6e1-4a2d-a16f-cd204bf104bf.jpeg" alt="Zoltan Toroczkai" class="image-inline" title="Zoltan Toroczkai" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ztoroczkai"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Zoltan Toroczkai</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br /></span><span>Concurrent </span><span class="position">Professor</span><span><br /><em>Ph.D., Theoretical Physics, Virginia Polytechnic Institute and State University, 1997</em></span></p>
+<p><span class="small">Complex systems research, bringing and developing tools from mathematics, equilibrium and non-equlibrium statistical physics, nonlinear dynamics and chaos theory to bear on applications ranging from fluid flows, processes in solids, to complex networked systems in biology, sociology and communications.</span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/westerink.jpg/@@images/fee7d386-9dc7-421b-8995-b302b5ab8445.jpeg" alt="Joannes. J. Westerink" class="image-inline" title="Joannes. J. Westerink" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jwesterink"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Joannes J. Westerink</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a><span class="position"><br /></span><span>Concurrent </span><span class="position">Professor</span><span><br /><em>Ph.D. Civil Engineering, Massachusetts Institute of Technology, 1984</em></span></p>
+<p>Development, analysis and application of coastal ocean and estuarine hydrodynamic, constituent transport and sediment transport models.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Emeritus Faculty</h3>
+<table class="listing" style="width: 656px;">
+<tbody>
+<tr>
+<td><img src="http://cse.nd.edu/people/henry.jpg/@@images/321d68da-c76e-49db-8b10-ef2e6515e5b0.jpeg" alt="Eugene Henry" class="image-inline" title="Eugene Henry" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ehenry"><span class="external-link"><span class="external-link"><span class="external-link"><strong>Eugene Henry</strong></span></span></span></a><span class="position"><br />Professor Emeritus</span><span><br /><em>Ph.D. (1960) from Stanford University</em></span></p>
+<p>Professor Henry taught most recently in the Notre Dame London Centre, and is participating in the integration of Mentor Graphics electronic design automation tools into the computer engineering curriculum. He holds B.S.E.E. (1954) and M.S.E.E. (1955) degrees from Notre Dame, and the Ph.D. (1960) from Stanford University.</p>
+</td>
+</tr>
+<tr>
+<td><img class="image-inline" src="https://cse.nd.edu/resolveuid/a1a607cd-4169-4aa4-9c00-9a0e348e57de/@@images/image/portrait_popup" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/juhran"><span class="external-link"><span class="external-link"><span class="external-link"><strong>John Uhran</strong></span></span></span></a><span class="position"><br />Professor Emeritus</span><span><br /><em>Ph.D., Electrical Engineering, Purdue University, 1967</em></span></p>
+<p>Study of autonomous robots using various new sensor formats, the study of the effect and use of Internet technology for the classroom, and the evolution of engineering curricula.</p>
+</td>
+</tr>
+</tbody>
+</table>
+            
+        </div>
+    
+    
+
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+
+            </td>
+            
+
+            
+                
+                
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+    <a href="http://www.nd.edu" class="mark" title="University of Notre Dame" target="_new"><img src="undlogo-31.png" alt="University of Notre Dame" /></a>
+    <p><a href="http://www.nd.edu/copyright/" title="Copyright" target="_new">Copyright</a> &copy; <span>2016</span><br />
+    The <a title="Home" href="http://cse.nd.edu">Department of Computer Science and Engineering</a> at the <a href="http://www.nd.edu" title="University of Notre Dame" target="_new">University of Notre Dame</a><br />
+    E-mail: <a href="mailto:cse@cse.nd.edu" title="College of Engineering E-mail">cse@cse.nd.edu</a></p>
+</div>
+
+<script type="text/javascript"
+src="/js/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://cse.nd.edu/spinner.gif" /></div>
+</body>
+</html>
+
+

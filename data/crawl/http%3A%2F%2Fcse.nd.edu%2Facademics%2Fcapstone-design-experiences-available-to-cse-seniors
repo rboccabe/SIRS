@@ -1,0 +1,1008 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://cse.nd.edu/academics/capstone-design-experiences-available-to-cse-seniors" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://cse.nd.edu/academics/capstone-design-experiences-available-to-cse-seniors/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-cachekey5311.css" title="jQuery CSS" />
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery.select2uislider-cachekey4754.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/base-cachekey1847.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/dropdown-menu-cachekey4039.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneKss-cachekey1587.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.discussion.stylesheetsdiscussion-cachekey2492.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.jquerytools.dateinput-cachekey8245.css);</style>
+        <!--[if lte IE 7]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://cse.nd.edu/portal_css/ND%20Theme/IEFixes-cachekey9920.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0248.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.dexterity.overlays-cachekey3343.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey6679.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/visualeditor-cachekey5643.css" />
+    <style type="text/css">@import url(http://cse.nd.edu/portal_css/ND%20Theme/slideshow-cachekey0067.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8752.css);</style>
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/faceted_view-cachekey0307.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneCustom-cachekey9913.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/cseStyles-cachekey5695.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/leastCenterStyles-cachekey3180.css" />
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.js.chosenchosen-cachekey4409.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/labStyles-cachekey2020.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://cse.nd.edu/portal_css/ND%20Theme/print-cachekey0402.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/brandbarOverrideStyles-cachekey4132.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://cse.nd.edu/portal_kss/ND%20Theme/at-cachekey5249.kss" />
+  
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cachekey5527.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery.tagcloud-cachekey4878.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/table_sorter-cachekey4070.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcedropdown-menu-cachekey8189.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.app.discussion.javascriptscomments-cachekey7910.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/iefixes-cachekey9038.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey1034.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/basic-cachekey2230.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cycle-cachekey0203.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery-ui.min-cachekey8119.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery.jqEasyCharCounter.min-cachekey4265.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/cseAnalytics-cachekey7388.js"></script>
+
+
+<title>Capstone Design Experiences Available to CSE Seniors &mdash; Department of Computer Science and Engineering</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://cse.nd.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://cse.nd.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://cse.nd.edu" title="Front page" />
+
+    <link rel="contents" href="http://cse.nd.edu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://cse.nd.edu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-document_view portaltype-document section-academics navroot-cse" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <div id="brandBar">
+		<p class="undBrand"><a href="http://www.nd.edu/" target="_blank" title="University of Notre Dame">UNIVERSITY of NOTRE DAME</a></p>
+		<p class="orgBrand"><a href="http://engineering.nd.edu/" title="College of Engineering">COLLEGE of ENGINEERING</a></p>
+                <p class="orgBrand provost"><a href="http://provost.nd.edu/" title="Office of the Provost">OFFICE of the PROVOST</a></p>
+	</div>
+	<p class="hiddenStructure">
+  <a accesskey="2" href="http://cse.nd.edu/academics/capstone-design-experiences-available-to-cse-seniors#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://cse.nd.edu/academics/capstone-design-experiences-available-to-cse-seniors#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+
+    <a id="portal-logo" title="Home" accesskey="1" href="http://cse.nd.edu">
+       <span>Department of Computer Science and Engineering</span>
+       
+    </a>
+    
+    
+
+
+
+<div id="portal-searchbox"> 
+                 
+     <form name="searchform" id="searchGadget_form" action="http://cse.nd.edu/search">
+       <div class="LSBox">
+           <label class="hiddenStructure" for="searchGadget">Search Site</label>
+        
+            <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+                   
+            <button type="submit" class="searchButton" id="search-button">Search</button>
+        
+            <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div>
+        </div>
+    </div></form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://cse.nd.edu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+	<!--<dt>
+		<a href="#">Contact</a>
+	<a href="#">Directory</a>
+	<a title="Home"
+	   accesskey="1"
+	   tal:attributes="href view/navigation_root_url"
+	   i18n:domain="plone"
+	   i18n:attributes="title">Home</a></dt>-->
+  <dt id="anon-personalbar">
+    
+        <a href="http://cse.nd.edu/login" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://cse.nd.edu" class="plain" title="">Home</a></li><li id="portaltab-academics" class="selected"><a href="http://cse.nd.edu/academics" class="plain" title="">ACADEMICS</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published" title="">
+            
+            Current Courses
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published" title="">
+            
+            Course Catalog
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published" title="">
+            
+            Course Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published" title="">
+            
+            Information for Undergraduates
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published" title="">
+            
+            Information for Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published" title="">
+            
+            Honor Code
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-research" class="plain"><a href="http://cse.nd.edu/research" class="plain" title="">RESEARCH</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published" title="">
+            
+            Research Labs
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published" title="">
+            
+            Research Areas
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published" title="">
+            
+            Current Projects
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published" title="">
+            
+            Tech Reports
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-people" class="plain"><a href="http://cse.nd.edu/people" class="plain" title="">PEOPLE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published" title="">
+            
+            Faculty
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published" title="">
+            
+            Staff
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published" title="">
+            
+            Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published" title="">
+            
+            PhD Alumni
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published" title="">
+            
+            Directory
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-resources" class="plain"><a href="http://cse.nd.edu/resources" class="plain" title="">RESOURCES</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/computer-facilities" class="state-published" title="">
+            
+            Computer Facilities
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/installed-software" class="state-published" title="">
+            
+            Installed Software
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/current-cse-newsletter" class="state-published" title="">
+            
+            Current CSE Newsletter
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/newsletter-archives" class="state-published" title="">
+            
+            Newsletter Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/university-resources" class="state-published" title="">
+            
+            University Resources
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-join-us" class="plain"><a href="http://cse.nd.edu/join-us" class="plain" title="">JOIN US</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/graduate" class="state-published" title="">
+            
+            Graduate Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/undergrad-admissions" class="state-published" title="">
+            
+            Undergrad Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/faculty-job-openings" class="state-published" title="">
+            
+            Faculty Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/staff-job-openings" class="state-published" title="">
+            
+            Staff Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/student-job-openings" class="state-published" title="">
+            
+            Student Job Openings
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-about" class="plain"><a href="http://cse.nd.edu/about" class="plain" title="">ABOUT</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/about/academic-mission" class="state-published" title="">
+            
+            Academic Mission
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/department-news" class="state-published" title="">
+            
+            Department News
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/careers-in-cse" class="state-published" title="">
+            
+            Careers in CSE
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li></ul>
+
+
+</div>
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                <td id="portal-column-one">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="http://cse.nd.edu/academics/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode">
+                <div>
+                   <a href="http://cse.nd.edu/academics" class="contenttype-plone-site " title="">
+                   
+                   ACADEMICS
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker section-current-courses">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published contenttype-document" title="">
+            
+            <span>Current Courses</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-course-catalog">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published contenttype-link" title="">
+            
+            <span>Course Catalog</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-course-archives">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Course Archives</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-info-for-undergrads">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published contenttype-document" title="">
+            
+            <span>Information for Undergraduates</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-grads">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Information for Graduate Students</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-honor-code">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published contenttype-document" title="">
+            
+            <span>Honor Code</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode section-capstone-design-experiences-available-to-cse">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/capstone-design-experiences-available-to-cse-seniors" class="state-published navTreeCurrentItem navTreeCurrentNode contenttype-document" title="">
+            
+            <span>Capstone Design Experiences Available to CSE Seniors</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <!--<span id="breadcrumbs-you-are-here" i18n:translate="you_are_here">You
+are here:</span>-->
+    <span id="breadcrumbs-home">
+        <a href="http://cse.nd.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            &gt;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://cse.nd.edu/academics">ACADEMICS</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Capstone Design Experiences Available to CSE Seniors</span>
+         
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Capstone Design Experiences Available to CSE Seniors
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+                            
+                                
+                                
+            
+                
+            
+            
+        
+                            
+
+                            
+
+
+                            <div id="content-core">
+                                
+    
+        
+        <div class="" id="parent-fieldname-text">
+            <p><img src="http://cse.nd.edu/academics/circut_board.jpg" title="Circut board" height="200" width="273" alt="Circut board" class="image-right" /></p>
+<p>11/15/2012: THIS PREVIOUSLY FLEXIBLE REQUIREMENT HAS NOW BEEN REPLACED BY CSE 40522 CPEG Capstone Design.</p>
+<p>Computer Engineering students are REQUIRED to participate in a 'capstone design experience', usually during their senior year. There are five such design experiences to choose from. Two are challenging design courses taught by the CSE department, while the three others are multidisciplinary design courses taught by the Aerospace, Electrical, and Mechanical Engineering faculty, respectively.</p>
+<p>Computer Science students are NOT required to participate in a capstone design experience. However, they are welcome to enroll in any of these courses as an elective. In case of an over-subscription of any of the non-CSE courses, however, preference will obviously have to be given to Computer Engineering students.</p>
+<table class="grid listing" style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2" rowspan="1" style="text-align: center; "><strong>CSE Capstone Design Experiences</strong></td>
+</tr>
+<tr>
+<td>
+<p>CSE 40422 - Computer System Design</p>
+</td>
+<td>
+<p>This is a three credit course usually offered each Spring semester. Here, students are introduced to large system, board-level design. Designs typically involve commercially-available integrated circuites (and other components) as well as custom logic implemented in field-programmable gate arrays. Heavy use is made of the Mentor Graphics commercial CAD package. Printed circuit boards are fabricated in a lab maintained by the CSE and EE deparments.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CSE 40462 - Introduction to VLSI Design</p>
+</td>
+<td>
+<p>This is a three credit course taught each Fall semester. Students are introduced to the design of large, digital integrated circuits using an advanced CMOS technology. Heavy use is made of the Mentor Graphics commercial CAD package. Some student designs are fabricated for Notre Dame off-campus and returned to the student designers, usually during February or March of the following Spring semester.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="1" style="text-align: center; "><strong>Multi-discipline Design Experiences</strong></td>
+</tr>
+<tr>
+<td>
+<p>AE 40462 - Aerospace System Design</p>
+</td>
+<td>
+<p>This is a four credit course taught each Spring semester by the Aerospace Engineering faculty. Students are divided into design/build teams of five. Each team is responsible for the conception, proposal, design, and fabrication of a flying aircraft prototype. These aircraft have wingspans in the eight to twelve foot range, and typically have three microprocessor/microcomputers on board. At the end of the course, each team demonstrates its flying model in the Loftus building. Each enrolling Computer Engineering senior will be assigned to one such team where it is expected that he/she will be the "computing expert" for both hardware and software. But, obviously the CPEG student will learn much about aeronautics and mechanical fabrication along the way. For more information, see the course web page or contact Dr. Stephen Batill of the Aerospace and Mechanical Engineering Department.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>EE 430-440 - Senior Design</p>
+</td>
+<td>
+<p>This is a two-plus-two credit hour design sequence (spanning both the Fall and Spring semesters) that is offered by the Electrical Engineering faculty. Students work in teams, interfacing with professional engineers on design projects proposed by off-campus engineering firms. These designs are taken from the concept, proposal, and design stages through to the fabtication, testing, documentation, and final reporting stages. Most of these projects have one or more computing aspects, so each Computer Engineering student would be assigned to a team that is otherwise composed of Electrical Engineering students. For more information, contact Dr. Gary Bernstein of the Electrical Engineering Department.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ME 470 - Mechanical System Design</p>
+</td>
+<td>
+<p>This is a three credit course offered by the Mechanical Engineering faculty in both the Fall and Spring semesters. Students are divided into design/build teams of six. Each team is responsible for the conception, proposal, design, and fabrication of a prototype project specified by the instructor. During a recent offering of this course, design teams worked on electric-powered rolling vehicles that used sonor antennae to locate objects that the vehicle was supposed to "find" and move toward. In any case, ME 470 design projects almost always involve computer hardware and software, so each enrolling Computer Engineering senios will be assigned to one such team where it is expected that he/she will be the "computing expert". For more information, see the course web page or contact Dr. Stephen Batill of the Aerospace and Mechanical Engineering Department.</p>
+</td>
+</tr>
+</tbody>
+</table>
+            
+        </div>
+    
+    
+
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+
+            </td>
+            
+
+            
+                
+                
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+    <a href="http://www.nd.edu" class="mark" title="University of Notre Dame" target="_new"><img src="undlogo-31.png" alt="University of Notre Dame" /></a>
+    <p><a href="http://www.nd.edu/copyright/" title="Copyright" target="_new">Copyright</a> &copy; <span>2016</span><br />
+    The <a title="Home" href="http://cse.nd.edu">Department of Computer Science and Engineering</a> at the <a href="http://www.nd.edu" title="University of Notre Dame" target="_new">University of Notre Dame</a><br />
+    E-mail: <a href="mailto:cse@cse.nd.edu" title="College of Engineering E-mail">cse@cse.nd.edu</a></p>
+</div>
+
+<script type="text/javascript"
+src="/js/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://cse.nd.edu/spinner.gif" /></div>
+</body>
+</html>
+
+

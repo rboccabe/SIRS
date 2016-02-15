@@ -1,0 +1,3172 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://cse.nd.edu/people/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://cse.nd.edu/people/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-cachekey5311.css" title="jQuery CSS" />
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery.select2uislider-cachekey4754.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/base-cachekey1847.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/dropdown-menu-cachekey4039.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneKss-cachekey1587.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.discussion.stylesheetsdiscussion-cachekey2492.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.jquerytools.dateinput-cachekey8245.css);</style>
+        <!--[if lte IE 7]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://cse.nd.edu/portal_css/ND%20Theme/IEFixes-cachekey9920.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0248.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.dexterity.overlays-cachekey3343.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey6679.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/visualeditor-cachekey5643.css" />
+    <style type="text/css">@import url(http://cse.nd.edu/portal_css/ND%20Theme/slideshow-cachekey0067.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8752.css);</style>
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/faceted_view-cachekey0307.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneCustom-cachekey9913.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/cseStyles-cachekey5695.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/leastCenterStyles-cachekey3180.css" />
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.js.chosenchosen-cachekey4409.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/labStyles-cachekey2020.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://cse.nd.edu/portal_css/ND%20Theme/print-cachekey0402.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/brandbarOverrideStyles-cachekey4132.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://cse.nd.edu/portal_kss/ND%20Theme/at-cachekey5249.kss" />
+  
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-1.6.4-cachekey5618.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery.tagcloud-cachekey4878.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/table_sorter-cachekey4070.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcedropdown-menu-cachekey8189.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.app.discussion.javascriptscomments-cachekey7910.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/iefixes-cachekey9038.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey1034.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/basic-cachekey2230.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cycle-cachekey0203.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery-ui.min-cachekey8119.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/faceted_view-cachekey0651.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery.jqEasyCharCounter.min-cachekey4265.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/cseAnalytics-cachekey7388.js"></script>
+
+
+<title>PEOPLE &mdash; Department of Computer Science and Engineering</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://cse.nd.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://cse.nd.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://cse.nd.edu" title="Front page" />
+
+    <link rel="contents" href="http://cse.nd.edu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://cse.nd.edu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+  <script type="text/javascript">jQuery(document).ready(function(evt){
+        Faceted.Load(evt, 'http://cse.nd.edu/people/');
+    });</script>
+  <script type="text/javascript">jQuery(window).unload(function(){
+        Faceted.Unload();
+    });</script>
+
+    
+
+  </head>
+
+  <body class="template-facetednavigation_view portaltype-folder section-people navroot-cse" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <div id="brandBar">
+		<p class="undBrand"><a href="http://www.nd.edu/" target="_blank" title="University of Notre Dame">UNIVERSITY of NOTRE DAME</a></p>
+		<p class="orgBrand"><a href="http://engineering.nd.edu/" title="College of Engineering">COLLEGE of ENGINEERING</a></p>
+                <p class="orgBrand provost"><a href="http://provost.nd.edu/" title="Office of the Provost">OFFICE of the PROVOST</a></p>
+	</div>
+	<p class="hiddenStructure">
+  <a accesskey="2" href="http://cse.nd.edu/people?b_start%3Aint=36#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://cse.nd.edu/people?b_start%3Aint=36#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+
+    <a id="portal-logo" title="Home" accesskey="1" href="http://cse.nd.edu">
+       <span>Department of Computer Science and Engineering</span>
+       
+    </a>
+    
+    
+
+
+
+<div id="portal-searchbox"> 
+                 
+     <form name="searchform" id="searchGadget_form" action="http://cse.nd.edu/search">
+       <div class="LSBox">
+           <label class="hiddenStructure" for="searchGadget">Search Site</label>
+        
+            <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+                   
+            <button type="submit" class="searchButton" id="search-button">Search</button>
+        
+            <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div>
+        </div>
+    </div></form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://cse.nd.edu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+	<!--<dt>
+		<a href="#">Contact</a>
+	<a href="#">Directory</a>
+	<a title="Home"
+	   accesskey="1"
+	   tal:attributes="href view/navigation_root_url"
+	   i18n:domain="plone"
+	   i18n:attributes="title">Home</a></dt>-->
+  <dt id="anon-personalbar">
+    
+        <a href="http://cse.nd.edu/login" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://cse.nd.edu" class="plain" title="">Home</a></li><li id="portaltab-academics" class="plain"><a href="http://cse.nd.edu/academics" class="plain" title="">ACADEMICS</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published" title="">
+            
+            Current Courses
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published" title="">
+            
+            Course Catalog
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published" title="">
+            
+            Course Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published" title="">
+            
+            Information for Undergraduates
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published" title="">
+            
+            Information for Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published" title="">
+            
+            Honor Code
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-research" class="plain"><a href="http://cse.nd.edu/research" class="plain" title="">RESEARCH</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published" title="">
+            
+            Research Labs
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published" title="">
+            
+            Research Areas
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published" title="">
+            
+            Current Projects
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published" title="">
+            
+            Tech Reports
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-people" class="selected"><a href="http://cse.nd.edu/people" class="plain" title="">PEOPLE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published" title="">
+            
+            Faculty
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published" title="">
+            
+            Staff
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published" title="">
+            
+            Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published" title="">
+            
+            PhD Alumni
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published" title="">
+            
+            Directory
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-resources" class="plain"><a href="http://cse.nd.edu/resources" class="plain" title="">RESOURCES</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/computer-facilities" class="state-published" title="">
+            
+            Computer Facilities
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/installed-software" class="state-published" title="">
+            
+            Installed Software
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/current-cse-newsletter" class="state-published" title="">
+            
+            Current CSE Newsletter
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/newsletter-archives" class="state-published" title="">
+            
+            Newsletter Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/university-resources" class="state-published" title="">
+            
+            University Resources
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-join-us" class="plain"><a href="http://cse.nd.edu/join-us" class="plain" title="">JOIN US</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/graduate" class="state-published" title="">
+            
+            Graduate Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/undergrad-admissions" class="state-published" title="">
+            
+            Undergrad Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/faculty-job-openings" class="state-published" title="">
+            
+            Faculty Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/staff-job-openings" class="state-published" title="">
+            
+            Staff Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/student-job-openings" class="state-published" title="">
+            
+            Student Job Openings
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-about" class="plain"><a href="http://cse.nd.edu/about" class="plain" title="">ABOUT</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/about/academic-mission" class="state-published" title="">
+            
+            Academic Mission
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/department-news" class="state-published" title="">
+            
+            Department News
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/careers-in-cse" class="state-published" title="">
+            
+            Careers in CSE
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li></ul>
+
+
+</div>
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                <td id="portal-column-one">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="http://cse.nd.edu/people/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode navTreeCurrentNode">
+                <div>
+                   <a href="http://cse.nd.edu/people" class="contenttype-plone-site navTreeCurrentItem" title="">
+                   
+                   PEOPLE
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker section-faculty">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published contenttype-document" title="">
+            
+            <span>Faculty</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-staff">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published contenttype-document" title="">
+            
+            <span>Staff</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-graduate-students">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published contenttype-document" title="">
+            
+            <span>Graduate Students</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-phd-alumni">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published contenttype-document" title="">
+            
+            <span>PhD Alumni</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-directory">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published contenttype-link" title="">
+            
+            <span>Directory</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <!--<span id="breadcrumbs-you-are-here" i18n:translate="you_are_here">You
+are here:</span>-->
+    <span id="breadcrumbs-home">
+        <a href="http://cse.nd.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            &gt;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">PEOPLE</span>
+         
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    PEOPLE
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+                            
+                                
+                                
+            
+                
+            
+            
+        
+                            
+
+                            
+                            <div id="content-core">
+                                <div>
+
+<!-- Folder contents -->
+<div class="faceted-form" id="faceted-form" data-mode="view">
+
+  <!-- Basic/Extended search -->
+  <div class="faceted-sections-buttons">
+    <a href="#" class="faceted-sections-buttons-more">More filters</a>
+    <a href="#" class="faceted-sections-buttons-less">Less filters</a>
+  </div>
+
+  
+  <div class="faceted-clear"></div>
+
+  <!-- Top -->
+  <div id="top-area">
+    
+  <div id="faceted-top-column" class="faceted-column faceted-top-column visualNoPrint">
+
+    
+
+  
+    
+      
+      <div class="faceted-drag-drop faceted-widgets faceted-default-widgets faceted-top-widgets" id="top---default---widgets" title="Basic search">
+        
+          <div class="faceted-widget faceted-text-widget" style="display: none" id="c8_widget">
+
+<fieldset class="widget-fieldset">
+  <legend>Quick finder</legend>
+  <form action="." method="get">
+  <label class="text-field" for="c8">Quick finder</label>
+  <input type="text" name="c8" value="" id="c8" />
+  <input type="submit" class="searchButton" value="Search" name="c8_button" id="c8_button" />
+  <div class="faceted-textwidget-place-all">
+  <input type="radio" checked="checked" name="c8_place" value="all" id="c8_place_all" />
+  <label for="c8_place_all">all items</label>
+  </div>
+  <div class="faceted-textwidget-place-current">
+  <input type="radio" name="c8_place" value="current" id="c8_place_current" />
+  <label for="c8_place_current">in current results</label>
+  </div>
+  </form>
+</fieldset>
+</div>
+
+        
+        
+          
+<div class="faceted-widget faceted-portlet-widget" style="display: none" id="c10_widget">
+
+<fieldset class="widget-fieldset">
+  <legend>Member matches</legend>
+  
+    
+      <div>
+  <span class="facetedMatches">1104</span> matches
+</div>
+    
+  
+</fieldset>
+</div>
+
+        
+        
+          <div class="faceted-widget faceted-alphabetic-widget faceted-count" style="display: none" id="c5_widget">
+  <fieldset class="widget-fieldset">
+    <legend>By name</legend>
+    <p id="c5">
+      <span class="faceted_letter faceted_letter_selected" id="c5-all" title="All">All</span>
+      
+        <span class="faceted_letter" id="c5-A" title="A">A</span>
+      
+      
+        <span class="faceted_letter" id="c5-B" title="B">B</span>
+      
+      
+        <span class="faceted_letter" id="c5-C" title="C">C</span>
+      
+      
+        <span class="faceted_letter" id="c5-D" title="D">D</span>
+      
+      
+        <span class="faceted_letter" id="c5-E" title="E">E</span>
+      
+      
+        <span class="faceted_letter" id="c5-F" title="F">F</span>
+      
+      
+        <span class="faceted_letter" id="c5-G" title="G">G</span>
+      
+      
+        <span class="faceted_letter" id="c5-H" title="H">H</span>
+      
+      
+        <span class="faceted_letter" id="c5-I" title="I">I</span>
+      
+      
+        <span class="faceted_letter" id="c5-J" title="J">J</span>
+      
+      
+        <span class="faceted_letter" id="c5-K" title="K">K</span>
+      
+      
+        <span class="faceted_letter" id="c5-L" title="L">L</span>
+      
+      
+        <span class="faceted_letter" id="c5-M" title="M">M</span>
+      
+      
+        <span class="faceted_letter" id="c5-N" title="N">N</span>
+      
+      
+        <span class="faceted_letter" id="c5-O" title="O">O</span>
+      
+      
+        <span class="faceted_letter" id="c5-P" title="P">P</span>
+      
+      
+        <span class="faceted_letter" id="c5-Q" title="Q">Q</span>
+      
+      
+        <span class="faceted_letter" id="c5-R" title="R">R</span>
+      
+      
+        <span class="faceted_letter" id="c5-S" title="S">S</span>
+      
+      
+        <span class="faceted_letter" id="c5-T" title="T">T</span>
+      
+      
+        <span class="faceted_letter" id="c5-U" title="U">U</span>
+      
+      
+        <span class="faceted_letter" id="c5-V" title="V">V</span>
+      
+      
+        <span class="faceted_letter" id="c5-W" title="W">W</span>
+      
+      
+        <span class="faceted_letter" id="c5-X" title="X">X</span>
+      
+      
+        <span class="faceted_letter" id="c5-Y" title="Y">Y</span>
+      
+      
+        <span class="faceted_letter" id="c5-Z" title="Z">Z</span>
+      
+    </p>
+  </fieldset>
+</div>
+        
+      </div>
+    
+  
+
+
+  </div>
+
+
+  </div>
+
+  <!-- Left & Center-->
+  <div id="center-and-left-area">
+    <!-- Center -->
+    <div id="center-area">
+      <div id="center-content-area">
+        <!-- Center top -->
+        <div id="center-top-area">
+          
+  <div id="faceted-center-column" class="faceted-column faceted-center-column visualNoPrint">
+
+    
+
+
+
+  </div>
+
+
+        </div>
+
+        <!-- Content -->
+        
+  <div id="faceted-results" class="faceted-results">
+    <noscript>
+      
+
+
+  
+    
+
+    
+    <span style="display: None;" class="listingBar"></span>
+    
+    
+    
+        <dl>
+            
+            
+                
+
+                
+                  <dt>
+                    <div class="memberPortrait">
+                        <img src="http://engineering.nd.edu/profiles/aarmaly/@@images/015d4734-0f8d-4ab3-b37d-9dd313ac816c.jpeg" height="56" width="39" />
+                    </div>
+                    <div class="popupContainer">
+                        <div class="member-popup">
+    <div id="popupHeader">
+        <a class="siteTitle" href="http://engineering.nd.edu">College of Engineering</a>
+        <span class="close">close button</span>
+    </div>
+    <img src="backgrounds.png" width="389px" height="6px" alt="headerbottom" style="margin:0 0 20px 16px;" />
+    <div id="popupContent">
+        <h1>
+            <a href="http://engineering.nd.edu/profiles/aarmaly">Ameer Armaly</a>
+        </h1>
+        <div class="eventDetails">
+            
+                <p class="portrait">
+                    <img src="http://engineering.nd.edu/profiles/aarmaly/@@images/727b435c-364a-48fd-be51-df1a80caf970.jpeg" alt="Ameer Armaly" title="Ameer Armaly" height="133" width="93" />
+                </p>
+            
+            <div class="spotlightInfo">
+                <a class="actionButton" href="http://engineering.nd.edu/profiles/aarmaly">VIEW FULL PROFILE</a>
+                
+                    <strong>Email:</strong>
+                    <a href="mailto:aarmaly@nd.edu">aarmaly@nd.edu</a><br />
+                
+                <strong>Phone:</strong> 574-631-8123<br />
+                
+                
+                    <strong>Office:</strong>
+                    247A Fitzpatrick Hall<br />
+                
+                <!-- curriculum Vitae -->
+                
+            </div>
+        </div>
+        <div class="memberInfo">
+            <div class="affiliations">
+                <h3>Affiliations</h3>
+                <div class="main-affiliation">
+                    <span class="organisation">
+                       <a href="http://cse.nd.edu">Department of Computer Science and Engineering</a></span>
+                    <span class="position" style="font-weight:normal;">Graduate Student</span>
+                </div>
+                    <div class="other-affiliation">
+                        <span class="organisation">
+                           <a href="http://engineering.nd.edu">College of Engineering</a></span>
+                        <span class="position">Graduate Student</span>
+                    </div>
+            </div>
+            
+            <a class="moreLink gallery" href="http://engineering.nd.edu/profiles/aarmaly">Click for more information about
+               Ameer
+            </a>
+        </div>
+    </div>
+</div>
+                    </div>
+                    <div class="memberName">
+                        <a href="http://engineering.nd.edu/profiles/aarmaly" class="contenttype-nd-content-member state-enabled url">Armaly, Ameer</a>
+                    </div>
+                    <div class="memberPhone">
+                        <strong>Phone:</strong> 574-631-8123
+                    </div>
+                    <div class="memberEmail">
+                        <strong>Email:</strong> aarmaly@nd.edu
+                    </div>
+                  </dt>
+                
+
+                
+
+                
+            
+            
+            
+            
+            
+                
+
+                
+                  <dt>
+                    <div class="memberPortrait">
+                        <img src="http://engineering.nd.edu/profiles/yzhang9/@@images/ad044c0d-69cc-44cb-823a-24f4f94e1b6a.jpeg" height="56" width="39" />
+                    </div>
+                    <div class="popupContainer">
+                        <div class="member-popup">
+    <div id="popupHeader">
+        <a class="siteTitle" href="http://engineering.nd.edu">College of Engineering</a>
+        <span class="close">close button</span>
+    </div>
+    <img src="backgrounds.png" width="389px" height="6px" alt="headerbottom" style="margin:0 0 20px 16px;" />
+    <div id="popupContent">
+        <h1>
+            <a href="http://engineering.nd.edu/profiles/yzhang9">Yizhe Zhang</a>
+        </h1>
+        <div class="eventDetails">
+            
+                <p class="portrait">
+                    <img src="http://engineering.nd.edu/profiles/yzhang9/@@images/66979507-5a9a-4f23-82d2-4be60832a75e.jpeg" alt="Yizhe Zhang" title="Yizhe Zhang" height="133" width="93" />
+                </p>
+            
+            <div class="spotlightInfo">
+                <a class="actionButton" href="http://engineering.nd.edu/profiles/yzhang9">VIEW FULL PROFILE</a>
+                
+                    <strong>Email:</strong>
+                    <a href="mailto:yzhang29@nd.edu">yzhang29@nd.edu</a><br />
+                
+                <strong>Phone:</strong> 574-631-7596<br />
+                
+                
+                    <strong>Office:</strong>
+                    244 Fitzpatrick<br />
+                
+                <!-- curriculum Vitae -->
+                
+            </div>
+        </div>
+        <div class="memberInfo">
+            <div class="affiliations">
+                <h3>Affiliations</h3>
+                <div class="main-affiliation">
+                    <span class="organisation">
+                       <a href="http://cse.nd.edu">Department of Computer Science and Engineering</a></span>
+                    <span class="position" style="font-weight:normal;">Graduate Student</span>
+                </div>
+                    <div class="other-affiliation">
+                        <span class="organisation">
+                           <a href="http://engineering.nd.edu">College of Engineering</a></span>
+                        <span class="position">Graduate Student</span>
+                    </div>
+            </div>
+            
+            <a class="moreLink gallery" href="http://engineering.nd.edu/profiles/yzhang9">Click for more information about
+               Yizhe
+            </a>
+        </div>
+    </div>
+</div>
+                    </div>
+                    <div class="memberName">
+                        <a href="http://engineering.nd.edu/profiles/yzhang9" class="contenttype-nd-content-member state-enabled url">Zhang, Yizhe</a>
+                    </div>
+                    <div class="memberPhone">
+                        <strong>Phone:</strong> 574-631-7596
+                    </div>
+                    <div class="memberEmail">
+                        <strong>Email:</strong> yzhang29@nd.edu
+                    </div>
+                  </dt>
+                
+
+                
+
+                
+            
+            
+            
+            
+            
+                
+
+                
+                  <dt>
+                    <div class="memberPortrait">
+                        <img src="http://engineering.nd.edu/profiles/rbixler/@@images/5a6be754-3876-4208-ba22-09738dc638d4.jpeg" height="56" width="39" />
+                    </div>
+                    <div class="popupContainer">
+                        <div class="member-popup">
+    <div id="popupHeader">
+        <a class="siteTitle" href="http://engineering.nd.edu">College of Engineering</a>
+        <span class="close">close button</span>
+    </div>
+    <img src="backgrounds.png" width="389px" height="6px" alt="headerbottom" style="margin:0 0 20px 16px;" />
+    <div id="popupContent">
+        <h1>
+            <a href="http://engineering.nd.edu/profiles/rbixler">Robert Bixler</a>
+        </h1>
+        <div class="eventDetails">
+            
+                <p class="portrait">
+                    <img src="http://engineering.nd.edu/profiles/rbixler/@@images/a08ba305-f40c-47b4-babe-cfdbc4472acf.jpeg" alt="Robert Bixler" title="Robert Bixler" height="133" width="93" />
+                </p>
+            
+            <div class="spotlightInfo">
+                <a class="actionButton" href="http://engineering.nd.edu/profiles/rbixler">VIEW FULL PROFILE</a>
+                
+                    <strong>Email:</strong>
+                    <a href="mailto:rbixler@nd.edu">rbixler@nd.edu</a><br />
+                
+                <strong>Phone:</strong> 574-631-8802<br />
+                
+                
+                    <strong>Office:</strong>
+                    250 Haggar Hall<br />
+                
+                <!-- curriculum Vitae -->
+                
+            </div>
+        </div>
+        <div class="memberInfo">
+            <div class="affiliations">
+                <h3>Affiliations</h3>
+                <div class="main-affiliation">
+                    <span class="organisation">
+                       <a href="http://cse.nd.edu">Department of Computer Science and Engineering</a></span>
+                    <span class="position" style="font-weight:normal;">Graduate Student</span>
+                </div>
+                    <div class="other-affiliation">
+                        <span class="organisation">
+                           <a href="http://engineering.nd.edu">College of Engineering</a></span>
+                        <span class="position">Graduate Student</span>
+                    </div>
+            </div>
+            
+            <a class="moreLink gallery" href="http://engineering.nd.edu/profiles/rbixler">Click for more information about
+               Robert
+            </a>
+        </div>
+    </div>
+</div>
+                    </div>
+                    <div class="memberName">
+                        <a href="http://engineering.nd.edu/profiles/rbixler" class="contenttype-nd-content-member state-enabled url">Bixler, Robert</a>
+                    </div>
+                    <div class="memberPhone">
+                        <strong>Phone:</strong> 574-631-8802
+                    </div>
+                    <div class="memberEmail">
+                        <strong>Email:</strong> rbixler@nd.edu
+                    </div>
+                  </dt>
+                
+
+                
+
+                
+            
+            
+            
+            
+            
+                
+
+                
+                  <dt>
+                    <div class="memberPortrait">
+                        <img src="http://engineering.nd.edu/profiles/yhulovatyy/@@images/f375f32d-f378-4979-b437-c58593f3fb20.jpeg" height="56" width="39" />
+                    </div>
+                    <div class="popupContainer">
+                        <div class="member-popup">
+    <div id="popupHeader">
+        <a class="siteTitle" href="http://engineering.nd.edu">College of Engineering</a>
+        <span class="close">close button</span>
+    </div>
+    <img src="backgrounds.png" width="389px" height="6px" alt="headerbottom" style="margin:0 0 20px 16px;" />
+    <div id="popupContent">
+        <h1>
+            <a href="http://engineering.nd.edu/profiles/yhulovatyy">Yuriy Hulovatyy</a>
+        </h1>
+        <div class="eventDetails">
+            
+                <p class="portrait">
+                    <img src="http://engineering.nd.edu/profiles/yhulovatyy/@@images/82fe7fe2-af79-4460-ad1e-29f733045379.jpeg" alt="Yuriy Hulovatyy" title="Yuriy Hulovatyy" height="133" width="93" />
+                </p>
+            
+            <div class="spotlightInfo">
+                <a class="actionButton" href="http://engineering.nd.edu/profiles/yhulovatyy">VIEW FULL PROFILE</a>
+                
+                    <strong>Email:</strong>
+                    <a href="mailto:yhulovat@nd.edu">yhulovat@nd.edu</a><br />
+                
+                <strong>Phone:</strong> 574-631-8123<br />
+                
+                
+                    <strong>Office:</strong>
+                    247A Fitzpatrick<br />
+                
+                <!-- curriculum Vitae -->
+                
+            </div>
+        </div>
+        <div class="memberInfo">
+            <div class="affiliations">
+                <h3>Affiliations</h3>
+                <div class="main-affiliation">
+                    <span class="organisation">
+                       <a href="http://cse.nd.edu">Department of Computer Science and Engineering</a></span>
+                    <span class="position" style="font-weight:normal;">Graduate Student</span>
+                </div>
+                    <div class="other-affiliation">
+                        <span class="organisation">
+                           <a href="http://engineering.nd.edu">College of Engineering</a></span>
+                        <span class="position">Graduate Student</span>
+                    </div>
+            </div>
+            
+            <a class="moreLink gallery" href="http://engineering.nd.edu/profiles/yhulovatyy">Click for more information about
+               Yuriy
+            </a>
+        </div>
+    </div>
+</div>
+                    </div>
+                    <div class="memberName">
+                        <a href="http://engineering.nd.edu/profiles/yhulovatyy" class="contenttype-nd-content-member state-enabled url">Hulovatyy, Yuriy</a>
+                    </div>
+                    <div class="memberPhone">
+                        <strong>Phone:</strong> 574-631-8123
+                    </div>
+                    <div class="memberEmail">
+                        <strong>Email:</strong> yhulovat@nd.edu
+                    </div>
+                  </dt>
+                
+
+                
+
+                
+            
+            
+            
+            
+            
+                
+
+                
+                  <dt>
+                    <div class="memberPortrait">
+                        <img src="http://engineering.nd.edu/profiles/aargueta/@@images/c5c5cf96-f69a-46d7-b164-6c3ffbdbd439.jpeg" height="56" width="39" />
+                    </div>
+                    <div class="popupContainer">
+                        <div class="member-popup">
+    <div id="popupHeader">
+        <a class="siteTitle" href="http://engineering.nd.edu">College of Engineering</a>
+        <span class="close">close button</span>
+    </div>
+    <img src="backgrounds.png" width="389px" height="6px" alt="headerbottom" style="margin:0 0 20px 16px;" />
+    <div id="popupContent">
+        <h1>
+            <a href="http://engineering.nd.edu/profiles/aargueta">Arturo Argueta</a>
+        </h1>
+        <div class="eventDetails">
+            
+                <p class="portrait">
+                    <img src="http://engineering.nd.edu/profiles/aargueta/@@images/38580e7c-0d69-4c9e-b7e2-68589931aa4a.jpeg" alt="Arturo Argueta" title="Arturo Argueta" height="133" width="93" />
+                </p>
+            
+            <div class="spotlightInfo">
+                <a class="actionButton" href="http://engineering.nd.edu/profiles/aargueta">VIEW FULL PROFILE</a>
+                
+                    <strong>Email:</strong>
+                    <a href="mailto:aargueta@nd.edu">aargueta@nd.edu</a><br />
+                
+                <strong>Phone:</strong> 574-631-7596<br />
+                
+                
+                    <strong>Office:</strong>
+                    244 Fitzpatrick<br />
+                
+                <!-- curriculum Vitae -->
+                
+            </div>
+        </div>
+        <div class="memberInfo">
+            <div class="affiliations">
+                <h3>Affiliations</h3>
+                <div class="main-affiliation">
+                    <span class="organisation">
+                       <a href="http://cse.nd.edu">Department of Computer Science and Engineering</a></span>
+                    <span class="position" style="font-weight:normal;">Graduate Student</span>
+                </div>
+                    <div class="other-affiliation">
+                        <span class="organisation">
+                           <a href="http://engineering.nd.edu">College of Engineering</a></span>
+                        <span class="position">Graduate Student</span>
+                    </div>
+            </div>
+            
+            <a class="moreLink gallery" href="http://engineering.nd.edu/profiles/aargueta">Click for more information about
+               Arturo
+            </a>
+        </div>
+    </div>
+</div>
+                    </div>
+                    <div class="memberName">
+                        <a href="http://engineering.nd.edu/profiles/aargueta" class="contenttype-nd-content-member state-enabled url">Argueta, Arturo</a>
+                    </div>
+                    <div class="memberPhone">
+                        <strong>Phone:</strong> 574-631-7596
+                    </div>
+                    <div class="memberEmail">
+                        <strong>Email:</strong> aargueta@nd.edu
+                    </div>
+                  </dt>
+                
+
+                
+
+                
+            
+            
+            
+            
+            
+                
+
+                
+                  <dt>
+                    <div class="memberPortrait">
+                        <img src="http://engineering.nd.edu/profiles/szhu/@@images/8aaf4408-604c-4f3d-a0ab-95f6ecac8a51.jpeg" height="56" width="39" />
+                    </div>
+                    <div class="popupContainer">
+                        <div class="member-popup">
+    <div id="popupHeader">
+        <a class="siteTitle" href="http://engineering.nd.edu">College of Engineering</a>
+        <span class="close">close button</span>
+    </div>
+    <img src="backgrounds.png" width="389px" height="6px" alt="headerbottom" style="margin:0 0 20px 16px;" />
+    <div id="popupContent">
+        <h1>
+            <a href="http://engineering.nd.edu/profiles/szhu">Shenglong Zhu</a>
+        </h1>
+        <div class="eventDetails">
+            
+                <p class="portrait">
+                    <img src="http://engineering.nd.edu/profiles/szhu/@@images/77f08dff-2661-42a5-885d-58d89292e90a.jpeg" alt="Shenglong Zhu" title="Shenglong Zhu" height="133" width="93" />
+                </p>
+            
+            <div class="spotlightInfo">
+                <a class="actionButton" href="http://engineering.nd.edu/profiles/szhu">VIEW FULL PROFILE</a>
+                
+                    <strong>Email:</strong>
+                    <a href="mailto:szhu3@nd.edu">szhu3@nd.edu</a><br />
+                
+                <strong>Phone:</strong> 574-631-7596<br />
+                
+                
+                    <strong>Office:</strong>
+                    244 Fitzpatrick Hall<br />
+                
+                <!-- curriculum Vitae -->
+                
+            </div>
+        </div>
+        <div class="memberInfo">
+            <div class="affiliations">
+                <h3>Affiliations</h3>
+                <div class="main-affiliation">
+                    <span class="organisation">
+                       <a href="http://cse.nd.edu">Department of Computer Science and Engineering</a></span>
+                    <span class="position" style="font-weight:normal;">Graduate Student</span>
+                </div>
+                    <div class="other-affiliation">
+                        <span class="organisation">
+                           <a href="http://engineering.nd.edu">College of Engineering</a></span>
+                        <span class="position">Graduate Student</span>
+                    </div>
+            </div>
+            
+            <a class="moreLink gallery" href="http://engineering.nd.edu/profiles/szhu">Click for more information about
+               Shenglong
+            </a>
+        </div>
+    </div>
+</div>
+                    </div>
+                    <div class="memberName">
+                        <a href="http://engineering.nd.edu/profiles/szhu" class="contenttype-nd-content-member state-enabled url">Zhu, Shenglong</a>
+                    </div>
+                    <div class="memberPhone">
+                        <strong>Phone:</strong> 574-631-7596
+                    </div>
+                    <div class="memberEmail">
+                        <strong>Email:</strong> szhu3@nd.edu
+                    </div>
+                  </dt>
+                
+
+                
+
+                
+            
+            
+            
+        </dl>
+
+        <div class="listingBar">
+
+    <span class="previous">
+        <a href="http://cse.nd.edu/people?b_start:int=30">
+           &laquo;
+           
+               Previous
+               6
+               items
+           
+        </a>
+    </span>
+
+    <span class="next">
+        <a href="http://cse.nd.edu/people?b_start:int=42">
+           
+               Next
+               6
+               items
+           
+           &raquo;
+        </a>
+    </span>
+
+    
+    <span>
+        <a href="http://cse.nd.edu/people?b_start:int=0">1</a>
+        
+           &hellip;
+        
+    </span>
+
+    
+
+    
+    
+        <a href="http://cse.nd.edu/people?b_start:int=18">4</a>
+    
+    
+        <a href="http://cse.nd.edu/people?b_start:int=24">5</a>
+    
+    
+        <a href="http://cse.nd.edu/people?b_start:int=30">6</a>
+    
+
+    
+    <span class="current">7</span>
+
+    
+    
+        <a href="http://cse.nd.edu/people?b_start:int=42">8</a>
+    
+    
+        <a href="http://cse.nd.edu/people?b_start:int=48">9</a>
+    
+    
+        <a href="http://cse.nd.edu/people?b_start:int=54">10</a>
+    
+
+    
+
+    
+    <span>
+        
+        &hellip;
+        
+        <a href="http://cse.nd.edu/people?b_start:int=222">38</a>
+    </span>
+
+</div>
+
+        
+    
+        
+    
+
+    
+    
+
+
+  
+
+
+
+    </noscript>
+  </div>
+
+
+        <!-- Center bottom -->
+        <div id="center-bottom-area">
+          
+  <div id="faceted-bottomcenter-column" class="faceted-column faceted-bottomcenter-column visualNoPrint">
+
+    
+
+
+
+  </div>
+
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Left column -->
+    <div id="left-area">
+      
+  <div id="faceted-left-column" class="faceted-column faceted-left-column visualNoPrint">
+
+    
+
+
+
+  </div>
+
+
+    </div>
+  </div>
+
+  <!-- Right -->
+  <div id="right-area">
+    
+  <div id="faceted-right-column" class="faceted-column faceted-right-column visualNoPrint">
+
+    
+
+  
+    
+      
+      <div class="faceted-drag-drop faceted-widgets faceted-default-widgets faceted-right-widgets" id="right---default---widgets" title="Basic search">
+        
+          
+<div class="faceted-widget faceted-portlet-widget" style="display: none" id="c11_widget">
+
+<fieldset class="widget-fieldset">
+  <legend>Refine search text</legend>
+  
+    
+      <div>
+  <h4>Refine your search:</h4>
+  <p>Click on the boxes below to add or subtract from your search results.</p>
+</div>
+    
+  
+</fieldset>
+</div>
+
+        
+        
+          <div class="faceted-widget faceted-checkboxes-widget faceted-count faceted-zero-count-hidden" style="display: none" data-operator="or" id="c2_widget">
+
+<fieldset class="widget-fieldset">
+  <legend>Category</legend>
+
+  
+
+  
+
+  <form action="." method="get">
+
+  <ul>
+    
+      <li id="c2_option_Faculty Member">
+        <input type="checkbox" class="faceted-noborder" title="Faculty Member" name="c2" value="Faculty Member" id="c2_Faculty-Member" />
+        <label for="c2_Faculty-Member" title="Faculty Member">Faculty Member</label>
+      </li>
+    
+    
+      <li id="c2_option_Current Student">
+        <input type="checkbox" class="faceted-noborder" title="Current Student" name="c2" value="Current Student" id="c2_Current-Student" />
+        <label for="c2_Current-Student" title="Current Student">Current Student</label>
+      </li>
+    
+    
+      <li id="c2_option_Staff Member">
+        <input type="checkbox" class="faceted-noborder" title="Staff Member" name="c2" value="Staff Member" id="c2_Staff-Member" />
+        <label for="c2_Staff-Member" title="Staff Member">Staff Member</label>
+      </li>
+    
+    
+      <li id="c2_option_Alum">
+        <input type="checkbox" class="faceted-noborder" title="Alum" name="c2" value="Alum" id="c2_Alum" />
+        <label for="c2_Alum" title="Alum">Alum</label>
+      </li>
+    
+  </ul>
+  </form>
+
+  <span style="display:none">0</span>
+
+  
+
+</fieldset>
+</div>
+
+        
+        
+          <div class="faceted-widget faceted-checkboxes-widget faceted-count faceted-zero-count-hidden" style="display: none" data-operator="or" id="c6_widget">
+
+<fieldset class="widget-fieldset">
+  <legend>Area of Expertise</legend>
+
+  
+
+  
+
+  <form action="." method="get">
+
+  <ul>
+    
+      <li id="c6_option_activeflowcontrol">
+        <input type="checkbox" class="faceted-noborder" title="Active Flow Control" name="c6" value="activeflowcontrol" id="c6_activeflowcontrol" />
+        <label for="c6_activeflowcontrol" title="Active Flow Control">Active Flow Control</label>
+      </li>
+    
+    
+      <li id="c6_option_administration">
+        <input type="checkbox" class="faceted-noborder" title="Administration" name="c6" value="administration" id="c6_administration" />
+        <label for="c6_administration" title="Administration">Administration</label>
+      </li>
+    
+    
+      <li id="c6_option_administrativesupport">
+        <input type="checkbox" class="faceted-noborder" title="Administrative Support" name="c6" value="administrativesupport" id="c6_administrativesupport" />
+        <label for="c6_administrativesupport" title="Administrative Support">Administrative Support</label>
+      </li>
+    
+    
+      <li id="c6_option_aerooptics">
+        <input type="checkbox" class="faceted-noborder" title="Aero-optics" name="c6" value="aerooptics" id="c6_aerooptics" />
+        <label for="c6_aerooptics" title="Aero-optics">Aero-optics</label>
+      </li>
+    
+    
+      <li id="c6_option_aeroacousticsandnoisecontrol">
+        <input type="checkbox" class="faceted-noborder" title="Aeroacoustics and Noise Control" name="c6" value="aeroacousticsandnoisecontrol" id="c6_aeroacousticsandnoisecontrol" />
+        <label for="c6_aeroacousticsandnoisecontrol" title="Aeroacoustics and Noise Control">Aeroacoustics and Noise Control</label>
+      </li>
+    
+    
+      <li id="c6_option_aeroacousticshydroacoustics">
+        <input type="checkbox" class="faceted-noborder" title="Aeroacoustics/Hydroacoustics" name="c6" value="aeroacousticshydroacoustics" id="c6_aeroacousticshydroacoustics" />
+        <label for="c6_aeroacousticshydroacoustics" title="Aeroacoustics/Hydroacoustics">Aeroacoustics/H<wbr />ydroacoustics</label>
+      </li>
+    
+    
+      <li id="c6_option_aerodynamics">
+        <input type="checkbox" class="faceted-noborder" title="Aerodynamics" name="c6" value="aerodynamics" id="c6_aerodynamics" />
+        <label for="c6_aerodynamics" title="Aerodynamics">Aerodynamics</label>
+      </li>
+    
+    
+      <li id="c6_option_aerodynamicsandaeroacoustics">
+        <input type="checkbox" class="faceted-noborder" title="Aerodynamics and Aeroacoustics" name="c6" value="aerodynamicsandaeroacoustics" id="c6_aerodynamicsandaeroacoustics" />
+        <label for="c6_aerodynamicsandaeroacoustics" title="Aerodynamics and Aeroacoustics">Aerodynamics and Aeroacoustics</label>
+      </li>
+    
+    
+      <li id="c6_option_aeroelasticity">
+        <input type="checkbox" class="faceted-noborder" title="Aeroelasticity" name="c6" value="aeroelasticity" id="c6_aeroelasticity" />
+        <label for="c6_aeroelasticity" title="Aeroelasticity">Aeroelasticity</label>
+      </li>
+    
+    
+      <li id="c6_option_aerosolscience">
+        <input type="checkbox" class="faceted-noborder" title="Aerosol Science" name="c6" value="aerosolscience" id="c6_aerosolscience" />
+        <label for="c6_aerosolscience" title="Aerosol Science">Aerosol Science</label>
+      </li>
+    
+    
+      <li id="c6_option_algorithmdesignwithapplicationstomedicineandbiology">
+        <input type="checkbox" class="faceted-noborder" title="Algorithm Design with Applications to Medicine and Biology" name="c6" value="algorithmdesignwithapplicationstomedicineandbiology" id="c6_algorithmdesignwithapplicationstomedicineandbiology" />
+        <label for="c6_algorithmdesignwithapplicationstomedicineandbiology" title="Algorithm Design with Applications to Medicine and Biology">Algorithm Design with Applications to Medicine and Biology</label>
+      </li>
+    
+    
+      <li id="c6_option_algorithmsandtheory">
+        <input type="checkbox" class="faceted-noborder" title="Algorithms and Theory" name="c6" value="algorithmsandtheory" id="c6_algorithmsandtheory" />
+        <label for="c6_algorithmsandtheory" title="Algorithms and Theory">Algorithms and Theory</label>
+      </li>
+    
+    
+      <li id="c6_option_appliedaerodynamics">
+        <input type="checkbox" class="faceted-noborder" title="Applied Aerodynamics" name="c6" value="appliedaerodynamics" id="c6_appliedaerodynamics" />
+        <label for="c6_appliedaerodynamics" title="Applied Aerodynamics">Applied Aerodynamics</label>
+      </li>
+    
+    
+      <li id="c6_option_appliedcryptographyandprivacy">
+        <input type="checkbox" class="faceted-noborder" title="Applied Cryptography and Privacy" name="c6" value="appliedcryptographyandprivacy" id="c6_appliedcryptographyandprivacy" />
+        <label for="c6_appliedcryptographyandprivacy" title="Applied Cryptography and Privacy">Applied Cryptography and Privacy</label>
+      </li>
+    
+    
+      <li id="c6_option_appliedmathematics">
+        <input type="checkbox" class="faceted-noborder" title="Applied Mathematics" name="c6" value="appliedmathematics" id="c6_appliedmathematics" />
+        <label for="c6_appliedmathematics" title="Applied Mathematics">Applied Mathematics</label>
+      </li>
+    
+    
+      <li id="c6_option_artificialintelligencehumanmachineinteractionandrobotics">
+        <input type="checkbox" class="faceted-noborder" title="Artificial Intelligence, Human-Machine Interaction and Robotics" name="c6" value="artificialintelligencehumanmachineinteractionandrobotics" id="c6_artificialintelligencehumanmachineinteractionandrobotics" />
+        <label for="c6_artificialintelligencehumanmachineinteractionandrobotics" title="Artificial Intelligence, Human-Machine Interaction and Robotics">Artificial Intelligence, Human-Machine Interaction and Robotics</label>
+      </li>
+    
+    
+      <li id="c6_option_atomisticsimulationofmaterials">
+        <input type="checkbox" class="faceted-noborder" title="Atomistic Simulation of Materials" name="c6" value="atomisticsimulationofmaterials" id="c6_atomisticsimulationofmaterials" />
+        <label for="c6_atomisticsimulationofmaterials" title="Atomistic Simulation of Materials">Atomistic Simulation of Materials</label>
+      </li>
+    
+    
+      <li id="c6_option_bioengineering">
+        <input type="checkbox" class="faceted-noborder" title="Bioengineering" name="c6" value="bioengineering" id="c6_bioengineering" />
+        <label for="c6_bioengineering" title="Bioengineering">Bioengineering</label>
+      </li>
+    
+    
+      <li id="c6_option_biofluidmechanics">
+        <input type="checkbox" class="faceted-noborder" title="Biofluid Mechanics" name="c6" value="biofluidmechanics" id="c6_biofluidmechanics" />
+        <label for="c6_biofluidmechanics" title="Biofluid Mechanics">Biofluid Mechanics</label>
+      </li>
+    
+    
+      <li id="c6_option_bioinformaticscomputationalbiologyandhumanhealth">
+        <input type="checkbox" class="faceted-noborder" title="Bioinformatics, Computational Biology, and Human Health" name="c6" value="bioinformaticscomputationalbiologyandhumanhealth" id="c6_bioinformaticscomputationalbiologyandhumanhealth" />
+        <label for="c6_bioinformaticscomputationalbiologyandhumanhealth" title="Bioinformatics, Computational Biology, and Human Health">Bioinformatics, Computational Biology, and Human Health</label>
+      </li>
+    
+    
+      <li id="c6_option_biologicalsystems">
+        <input type="checkbox" class="faceted-noborder" title="Biological Systems" name="c6" value="biologicalsystems" id="c6_biologicalsystems" />
+        <label for="c6_biologicalsystems" title="Biological Systems">Biological Systems</label>
+      </li>
+    
+    
+      <li id="c6_option_biomaterials">
+        <input type="checkbox" class="faceted-noborder" title="Biomaterials" name="c6" value="biomaterials" id="c6_biomaterials" />
+        <label for="c6_biomaterials" title="Biomaterials">Biomaterials</label>
+      </li>
+    
+    
+      <li id="c6_option_biomaterialsandbiomechanics">
+        <input type="checkbox" class="faceted-noborder" title="Biomaterials and Biomechanics" name="c6" value="biomaterialsandbiomechanics" id="c6_biomaterialsandbiomechanics" />
+        <label for="c6_biomaterialsandbiomechanics" title="Biomaterials and Biomechanics">Biomaterials and Biomechanics</label>
+      </li>
+    
+    
+      <li id="c6_option_biomechanics">
+        <input type="checkbox" class="faceted-noborder" title="Biomechanics" name="c6" value="biomechanics" id="c6_biomechanics" />
+        <label for="c6_biomechanics" title="Biomechanics">Biomechanics</label>
+      </li>
+    
+    
+      <li id="c6_option_biomedicalimaging">
+        <input type="checkbox" class="faceted-noborder" title="Biomedical Imaging" name="c6" value="biomedicalimaging" id="c6_biomedicalimaging" />
+        <label for="c6_biomedicalimaging" title="Biomedical Imaging">Biomedical Imaging</label>
+      </li>
+    
+    
+      <li id="c6_option_biometrics">
+        <input type="checkbox" class="faceted-noborder" title="Biometrics" name="c6" value="biometrics" id="c6_biometrics" />
+        <label for="c6_biometrics" title="Biometrics">Biometrics</label>
+      </li>
+    
+    
+      <li id="c6_option_biometricsandcomputervision">
+        <input type="checkbox" class="faceted-noborder" title="Biometrics and Computer Vision" name="c6" value="biometricsandcomputervision" id="c6_biometricsandcomputervision" />
+        <label for="c6_biometricsandcomputervision" title="Biometrics and Computer Vision">Biometrics and Computer Vision</label>
+      </li>
+    
+    
+      <li id="c6_option_biotransport">
+        <input type="checkbox" class="faceted-noborder" title="Biotransport" name="c6" value="biotransport" id="c6_biotransport" />
+        <label for="c6_biotransport" title="Biotransport">Biotransport</label>
+      </li>
+    
+    
+      <li id="c6_option_co2capture">
+        <input type="checkbox" class="faceted-noborder" title="CO2 Capture" name="c6" value="co2capture" id="c6_co2capture" />
+        <label for="c6_co2capture" title="CO2 Capture">CO2 Capture</label>
+      </li>
+    
+    
+      <li id="c6_option_cardiovascularbioengineering">
+        <input type="checkbox" class="faceted-noborder" title="Cardiovascular Bioengineering" name="c6" value="cardiovascularbioengineering" id="c6_cardiovascularbioengineering" />
+        <label for="c6_cardiovascularbioengineering" title="Cardiovascular Bioengineering">Cardiovascular Bioengineering</label>
+      </li>
+    
+    
+      <li id="c6_option_catalystsynthesisandcharacterization">
+        <input type="checkbox" class="faceted-noborder" title="Catalyst Synthesis and Characterization" name="c6" value="catalystsynthesisandcharacterization" id="c6_catalystsynthesisandcharacterization" />
+        <label for="c6_catalystsynthesisandcharacterization" title="Catalyst Synthesis and Characterization">Catalyst Synthesis and Characterizatio<wbr />n</label>
+      </li>
+    
+    
+      <li id="c6_option_chemicalsensing">
+        <input type="checkbox" class="faceted-noborder" title="Chemical Sensing" name="c6" value="chemicalsensing" id="c6_chemicalsensing" />
+        <label for="c6_chemicalsensing" title="Chemical Sensing">Chemical Sensing</label>
+      </li>
+    
+    
+      <li id="c6_option_chemicalsystems">
+        <input type="checkbox" class="faceted-noborder" title="Chemical Systems" name="c6" value="chemicalsystems" id="c6_chemicalsystems" />
+        <label for="c6_chemicalsystems" title="Chemical Systems">Chemical Systems</label>
+      </li>
+    
+    
+      <li id="c6_option_coastalchangeduringextremestorms">
+        <input type="checkbox" class="faceted-noborder" title="Coastal Change During Extreme Storms" name="c6" value="coastalchangeduringextremestorms" id="c6_coastalchangeduringextremestorms" />
+        <label for="c6_coastalchangeduringextremestorms" title="Coastal Change During Extreme Storms">Coastal Change During Extreme Storms</label>
+      </li>
+    
+    
+      <li id="c6_option_colloidalandinterfacialscience">
+        <input type="checkbox" class="faceted-noborder" title="Colloidal and Interfacial Science" name="c6" value="colloidalandinterfacialscience" id="c6_colloidalandinterfacialscience" />
+        <label for="c6_colloidalandinterfacialscience" title="Colloidal and Interfacial Science">Colloidal and Interfacial Science</label>
+      </li>
+    
+    
+      <li id="c6_option_combinatorialmaterialsdevelopment">
+        <input type="checkbox" class="faceted-noborder" title="Combinatorial Materials Development" name="c6" value="combinatorialmaterialsdevelopment" id="c6_combinatorialmaterialsdevelopment" />
+        <label for="c6_combinatorialmaterialsdevelopment" title="Combinatorial Materials Development">Combinatorial Materials Development</label>
+      </li>
+    
+    
+      <li id="c6_option_combustion">
+        <input type="checkbox" class="faceted-noborder" title="Combustion" name="c6" value="combustion" id="c6_combustion" />
+        <label for="c6_combustion" title="Combustion">Combustion</label>
+      </li>
+    
+    
+      <li id="c6_option_communications">
+        <input type="checkbox" class="faceted-noborder" title="Communications" name="c6" value="communications" id="c6_communications" />
+        <label for="c6_communications" title="Communications">Communications</label>
+      </li>
+    
+    
+      <li id="c6_option_complexfluids">
+        <input type="checkbox" class="faceted-noborder" title="Complex Fluids" name="c6" value="complexfluids" id="c6_complexfluids" />
+        <label for="c6_complexfluids" title="Complex Fluids">Complex Fluids</label>
+      </li>
+    
+    
+      <li id="c6_option_complexnetworksdataminingandmachinelearning">
+        <input type="checkbox" class="faceted-noborder" title="Complex Networks, Data Mining, and Machine Learning" name="c6" value="complexnetworksdataminingandmachinelearning" id="c6_complexnetworksdataminingandmachinelearning" />
+        <label for="c6_complexnetworksdataminingandmachinelearning" title="Complex Networks, Data Mining, and Machine Learning">Complex Networks, Data Mining, and Machine Learning</label>
+      </li>
+    
+    
+      <li id="c6_option_compound-semiconductor-optoelectonics">
+        <input type="checkbox" class="faceted-noborder" title="Compound Semiconductor Optoelectonics" name="c6" value="compound-semiconductor-optoelectonics" id="c6_compound-semiconductor-optoelectonics" />
+        <label for="c6_compound-semiconductor-optoelectonics" title="Compound Semiconductor Optoelectonics">Compound Semiconductor Optoelectonics</label>
+      </li>
+    
+    
+      <li id="c6_option_computationandtheory">
+        <input type="checkbox" class="faceted-noborder" title="Computation and Theory" name="c6" value="computationandtheory" id="c6_computationandtheory" />
+        <label for="c6_computationandtheory" title="Computation and Theory">Computation and Theory</label>
+      </li>
+    
+    
+      <li id="c6_option_computationalbiology">
+        <input type="checkbox" class="faceted-noborder" title="Computational Biology" name="c6" value="computationalbiology" id="c6_computationalbiology" />
+        <label for="c6_computationalbiology" title="Computational Biology">Computational Biology</label>
+      </li>
+    
+    
+      <li id="c6_option_computationalbiologyandbioinformatics">
+        <input type="checkbox" class="faceted-noborder" title="Computational Biology and Bioinformatics" name="c6" value="computationalbiologyandbioinformatics" id="c6_computationalbiologyandbioinformatics" />
+        <label for="c6_computationalbiologyandbioinformatics" title="Computational Biology and Bioinformatics">Computational Biology and Bioinformatics</label>
+      </li>
+    
+    
+      <li id="c6_option_computationalfluiddynamics">
+        <input type="checkbox" class="faceted-noborder" title="Computational Fluid Dynamics" name="c6" value="computationalfluiddynamics" id="c6_computationalfluiddynamics" />
+        <label for="c6_computationalfluiddynamics" title="Computational Fluid Dynamics">Computational Fluid Dynamics</label>
+      </li>
+    
+    
+      <li id="c6_option_computationalgridsandcyberinfrastructure">
+        <input type="checkbox" class="faceted-noborder" title="Computational Grids and Cyberinfrastructure" name="c6" value="computationalgridsandcyberinfrastructure" id="c6_computationalgridsandcyberinfrastructure" />
+        <label for="c6_computationalgridsandcyberinfrastructure" title="Computational Grids and Cyberinfrastructure">Computational Grids and Cyberinfrastruc<wbr />ture</label>
+      </li>
+    
+    
+      <li id="c6_option_computationalheterogeneouscatalysis">
+        <input type="checkbox" class="faceted-noborder" title="Computational Heterogeneous Catalysis" name="c6" value="computationalheterogeneouscatalysis" id="c6_computationalheterogeneouscatalysis" />
+        <label for="c6_computationalheterogeneouscatalysis" title="Computational Heterogeneous Catalysis">Computational Heterogeneous Catalysis</label>
+      </li>
+    
+    
+      <li id="c6_option_computationalmechanics">
+        <input type="checkbox" class="faceted-noborder" title="Computational Mechanics" name="c6" value="computationalmechanics" id="c6_computationalmechanics" />
+        <label for="c6_computationalmechanics" title="Computational Mechanics">Computational Mechanics</label>
+      </li>
+    
+    
+      <li id="c6_option_computationalphysicsmechanics">
+        <input type="checkbox" class="faceted-noborder" title="Computational Physics/Mechanics" name="c6" value="computationalphysicsmechanics" id="c6_computationalphysicsmechanics" />
+        <label for="c6_computationalphysicsmechanics" title="Computational Physics/Mechanics">Computational Physics/Mechani<wbr />cs</label>
+      </li>
+    
+    
+      <li id="c6_option_computationalscience">
+        <input type="checkbox" class="faceted-noborder" title="Computational Science" name="c6" value="computationalscience" id="c6_computationalscience" />
+        <label for="c6_computationalscience" title="Computational Science">Computational Science</label>
+      </li>
+    
+    
+      <li id="c6_option_computerarchitectureandnanotechnology">
+        <input type="checkbox" class="faceted-noborder" title="Computer Architecture and Nanotechnology" name="c6" value="computerarchitectureandnanotechnology" id="c6_computerarchitectureandnanotechnology" />
+        <label for="c6_computerarchitectureandnanotechnology" title="Computer Architecture and Nanotechnology">Computer Architecture and Nanotechnology</label>
+      </li>
+    
+    
+      <li id="c6_option_computerscience">
+        <input type="checkbox" class="faceted-noborder" title="Computer Science" name="c6" value="computerscience" id="c6_computerscience" />
+        <label for="c6_computerscience" title="Computer Science">Computer Science</label>
+      </li>
+    
+    
+      <li id="c6_option_computervision">
+        <input type="checkbox" class="faceted-noborder" title="Computer Vision" name="c6" value="computervision" id="c6_computervision" />
+        <label for="c6_computervision" title="Computer Vision">Computer Vision</label>
+      </li>
+    
+    
+      <li id="c6_option_control-systems">
+        <input type="checkbox" class="faceted-noborder" title="Control Systems" name="c6" value="control-systems" id="c6_control-systems" />
+        <label for="c6_control-systems" title="Control Systems">Control Systems</label>
+      </li>
+    
+    
+      <li id="c6_option_cyberinfrastructurebasedengineering">
+        <input type="checkbox" class="faceted-noborder" title="Cyber-infrastructure Based Engineering" name="c6" value="cyberinfrastructurebasedengineering" id="c6_cyberinfrastructurebasedengineering" />
+        <label for="c6_cyberinfrastructurebasedengineering" title="Cyber-infrastructure Based Engineering">Cyber-infrastru<wbr />cture Based Engineering</label>
+      </li>
+    
+    
+      <li id="c6_option_cyberphysicalsystems">
+        <input type="checkbox" class="faceted-noborder" title="Cyber-physical Systems" name="c6" value="cyberphysicalsystems" id="c6_cyberphysicalsystems" />
+        <label for="c6_cyberphysicalsystems" title="Cyber-physical Systems">Cyber-physical Systems</label>
+      </li>
+    
+    
+      <li id="c6_option_datamining">
+        <input type="checkbox" class="faceted-noborder" title="Data Mining" name="c6" value="datamining" id="c6_datamining" />
+        <label for="c6_datamining" title="Data Mining">Data Mining</label>
+      </li>
+    
+    
+      <li id="c6_option_densityfunctionaltheory">
+        <input type="checkbox" class="faceted-noborder" title="Density Functional Theory" name="c6" value="densityfunctionaltheory" id="c6_densityfunctionaltheory" />
+        <label for="c6_densityfunctionaltheory" title="Density Functional Theory">Density Functional Theory</label>
+      </li>
+    
+    
+      <li id="c6_option_design">
+        <input type="checkbox" class="faceted-noborder" title="Design" name="c6" value="design" id="c6_design" />
+        <label for="c6_design" title="Design">Design</label>
+      </li>
+    
+    
+      <li id="c6_option_designmethodology">
+        <input type="checkbox" class="faceted-noborder" title="Design Methodology" name="c6" value="designmethodology" id="c6_designmethodology" />
+        <label for="c6_designmethodology" title="Design Methodology">Design Methodology</label>
+      </li>
+    
+    
+      <li id="c6_option_diagnosticdevices">
+        <input type="checkbox" class="faceted-noborder" title="Diagnostic Devices" name="c6" value="diagnosticdevices" id="c6_diagnosticdevices" />
+        <label for="c6_diagnosticdevices" title="Diagnostic Devices">Diagnostic Devices</label>
+      </li>
+    
+    
+      <li id="c6_option_digital-signal-processing">
+        <input type="checkbox" class="faceted-noborder" title="Digital Signal Processing" name="c6" value="digital-signal-processing" id="c6_digital-signal-processing" />
+        <label for="c6_digital-signal-processing" title="Digital Signal Processing">Digital Signal Processing</label>
+      </li>
+    
+    
+      <li id="c6_option_distributed-sensor-networks">
+        <input type="checkbox" class="faceted-noborder" title="Distributed Sensor Networks" name="c6" value="distributed-sensor-networks" id="c6_distributed-sensor-networks" />
+        <label for="c6_distributed-sensor-networks" title="Distributed Sensor Networks">Distributed Sensor Networks</label>
+      </li>
+    
+    
+      <li id="c6_option_ecologicalandenvironmentalmodeling">
+        <input type="checkbox" class="faceted-noborder" title="Ecological and Environmental Modeling" name="c6" value="ecologicalandenvironmentalmodeling" id="c6_ecologicalandenvironmentalmodeling" />
+        <label for="c6_ecologicalandenvironmentalmodeling" title="Ecological and Environmental Modeling">Ecological and Environmental Modeling</label>
+      </li>
+    
+    
+      <li id="c6_option_electrokinetics">
+        <input type="checkbox" class="faceted-noborder" title="Electrokinetics" name="c6" value="electrokinetics" id="c6_electrokinetics" />
+        <label for="c6_electrokinetics" title="Electrokinetics">Electrokinetics</label>
+      </li>
+    
+    
+      <li id="c6_option_electronic-circuits-and-systems">
+        <input type="checkbox" class="faceted-noborder" title="Electronic Circuits and Systems" name="c6" value="electronic-circuits-and-systems" id="c6_electronic-circuits-and-systems" />
+        <label for="c6_electronic-circuits-and-systems" title="Electronic Circuits and Systems">Electronic Circuits and Systems</label>
+      </li>
+    
+    
+      <li id="c6_option_electronic-materials-and-devices">
+        <input type="checkbox" class="faceted-noborder" title="Electronic Materials and Devices" name="c6" value="electronic-materials-and-devices" id="c6_electronic-materials-and-devices" />
+        <label for="c6_electronic-materials-and-devices" title="Electronic Materials and Devices">Electronic Materials and Devices</label>
+      </li>
+    
+    
+      <li id="c6_option_energyapplications">
+        <input type="checkbox" class="faceted-noborder" title="Energy Applications" name="c6" value="energyapplications" id="c6_energyapplications" />
+        <label for="c6_energyapplications" title="Energy Applications">Energy Applications</label>
+      </li>
+    
+    
+      <li id="c6_option_energyharvesting">
+        <input type="checkbox" class="faceted-noborder" title="Energy Harvesting" name="c6" value="energyharvesting" id="c6_energyharvesting" />
+        <label for="c6_energyharvesting" title="Energy Harvesting">Energy Harvesting</label>
+      </li>
+    
+    
+      <li id="c6_option_energytechnologies">
+        <input type="checkbox" class="faceted-noborder" title="Energy Technologies" name="c6" value="energytechnologies" id="c6_energytechnologies" />
+        <label for="c6_energytechnologies" title="Energy Technologies">Energy Technologies</label>
+      </li>
+    
+    
+      <li id="c6_option_energyandenvironment">
+        <input type="checkbox" class="faceted-noborder" title="Energy and Environment" name="c6" value="energyandenvironment" id="c6_energyandenvironment" />
+        <label for="c6_energyandenvironment" title="Energy and Environment">Energy and Environment</label>
+      </li>
+    
+    
+      <li id="c6_option_engineeringeducation">
+        <input type="checkbox" class="faceted-noborder" title="Engineering Education" name="c6" value="engineeringeducation" id="c6_engineeringeducation" />
+        <label for="c6_engineeringeducation" title="Engineering Education">Engineering Education</label>
+      </li>
+    
+    
+      <li id="c6_option_engineeringmechanicsanddynamics">
+        <input type="checkbox" class="faceted-noborder" title="Engineering Mechanics and Dynamics" name="c6" value="engineeringmechanicsanddynamics" id="c6_engineeringmechanicsanddynamics" />
+        <label for="c6_engineeringmechanicsanddynamics" title="Engineering Mechanics and Dynamics">Engineering Mechanics and Dynamics</label>
+      </li>
+    
+    
+      <li id="c6_option_environmentalengineering">
+        <input type="checkbox" class="faceted-noborder" title="Environmental Engineering" name="c6" value="environmentalengineering" id="c6_environmentalengineering" />
+        <label for="c6_environmentalengineering" title="Environmental Engineering">Environmental Engineering</label>
+      </li>
+    
+    
+      <li id="c6_option_environmentalhydrology">
+        <input type="checkbox" class="faceted-noborder" title="Environmental Hydrology" name="c6" value="environmentalhydrology" id="c6_environmentalhydrology" />
+        <label for="c6_environmentalhydrology" title="Environmental Hydrology">Environmental Hydrology</label>
+      </li>
+    
+    
+      <li id="c6_option_environmentalmineralogy">
+        <input type="checkbox" class="faceted-noborder" title="Environmental Mineralogy" name="c6" value="environmentalmineralogy" id="c6_environmentalmineralogy" />
+        <label for="c6_environmentalmineralogy" title="Environmental Mineralogy">Environmental Mineralogy</label>
+      </li>
+    
+    
+      <li id="c6_option_evolutionarymorphologypathobiologyandaging ">
+        <input type="checkbox" class="faceted-noborder" title="Evolutionary Morphology, Pathobiology and Aging " name="c6" value="evolutionarymorphologypathobiologyandaging " id="c6_evolutionarymorphologypathobiologyandaging-" />
+        <label for="c6_evolutionarymorphologypathobiologyandaging-" title="Evolutionary Morphology, Pathobiology and Aging ">Evolutionary Morphology, Pathobiology and Aging </label>
+      </li>
+    
+    
+      <li id="c6_option_experimentafluiddynamics">
+        <input type="checkbox" class="faceted-noborder" title="Experimental Fluid Dynamics" name="c6" value="experimentafluiddynamics" id="c6_experimentafluiddynamics" />
+        <label for="c6_experimentafluiddynamics" title="Experimental Fluid Dynamics">Experimental Fluid Dynamics</label>
+      </li>
+    
+    
+      <li id="c6_option_flightmechanics">
+        <input type="checkbox" class="faceted-noborder" title="Flight Mechanics" name="c6" value="flightmechanics" id="c6_flightmechanics" />
+        <label for="c6_flightmechanics" title="Flight Mechanics">Flight Mechanics</label>
+      </li>
+    
+    
+      <li id="c6_option_flowstabilityandtransition">
+        <input type="checkbox" class="faceted-noborder" title="Flow Stability and Transition" name="c6" value="flowstabilityandtransition" id="c6_flowstabilityandtransition" />
+        <label for="c6_flowstabilityandtransition" title="Flow Stability and Transition">Flow Stability and Transition</label>
+      </li>
+    
+    
+      <li id="c6_option_fluidmechanics">
+        <input type="checkbox" class="faceted-noborder" title="Fluid Mechanics" name="c6" value="fluidmechanics" id="c6_fluidmechanics" />
+        <label for="c6_fluidmechanics" title="Fluid Mechanics">Fluid Mechanics</label>
+      </li>
+    
+    
+      <li id="c6_option_fuelcelltechnologies">
+        <input type="checkbox" class="faceted-noborder" title="Fuel Cell Technologies" name="c6" value="fuelcelltechnologies" id="c6_fuelcelltechnologies" />
+        <label for="c6_fuelcelltechnologies" title="Fuel Cell Technologies">Fuel Cell Technologies</label>
+      </li>
+    
+    
+      <li id="c6_option_gasturbinesandpropulsion">
+        <input type="checkbox" class="faceted-noborder" title="Gas Turbines and Propulsion" name="c6" value="gasturbinesandpropulsion" id="c6_gasturbinesandpropulsion" />
+        <label for="c6_gasturbinesandpropulsion" title="Gas Turbines and Propulsion">Gas Turbines and Propulsion</label>
+      </li>
+    
+    
+      <li id="c6_option_geneticdiagnostics">
+        <input type="checkbox" class="faceted-noborder" title="Genetic Diagnostics" name="c6" value="geneticdiagnostics" id="c6_geneticdiagnostics" />
+        <label for="c6_geneticdiagnostics" title="Genetic Diagnostics">Genetic Diagnostics</label>
+      </li>
+    
+    
+      <li id="c6_option_heatexchangers">
+        <input type="checkbox" class="faceted-noborder" title="Heat Exchangers" name="c6" value="heatexchangers" id="c6_heatexchangers" />
+        <label for="c6_heatexchangers" title="Heat Exchangers">Heat Exchangers</label>
+      </li>
+    
+    
+      <li id="c6_option_heattransfer">
+        <input type="checkbox" class="faceted-noborder" title="Heat Transfer" name="c6" value="heattransfer" id="c6_heattransfer" />
+        <label for="c6_heattransfer" title="Heat Transfer">Heat Transfer</label>
+      </li>
+    
+    
+      <li id="c6_option_highperformanceandscientificcomputing">
+        <input type="checkbox" class="faceted-noborder" title="High Performance and Scientific Computing" name="c6" value="highperformanceandscientificcomputing" id="c6_highperformanceandscientificcomputing" />
+        <label for="c6_highperformanceandscientificcomputing" title="High Performance and Scientific Computing">High Performance and Scientific Computing</label>
+      </li>
+    
+    
+      <li id="c6_option_highperformancecomputing ">
+        <input type="checkbox" class="faceted-noborder" title="High-performance Computing " name="c6" value="highperformancecomputing " id="c6_highperformancecomputing-" />
+        <label for="c6_highperformancecomputing-" title="High-performance Computing ">High-performanc<wbr />e Computing </label>
+      </li>
+    
+    
+      <li id="c6_option_highperformanceandlowpowercomputerarchitectures">
+        <input type="checkbox" class="faceted-noborder" title="High-performance and Low-power Computer Architectures" name="c6" value="highperformanceandlowpowercomputerarchitectures" id="c6_highperformanceandlowpowercomputerarchitectures" />
+        <label for="c6_highperformanceandlowpowercomputerarchitectures" title="High-performance and Low-power Computer Architectures">High-performanc<wbr />e and Low-power Computer Architectures</label>
+      </li>
+    
+    
+      <li id="c6_option_high-speed-devices-and-circuits">
+        <input type="checkbox" class="faceted-noborder" title="High-speed Devices and Circuits" name="c6" value="high-speed-devices-and-circuits" id="c6_high-speed-devices-and-circuits" />
+        <label for="c6_high-speed-devices-and-circuits" title="High-speed Devices and Circuits">High-speed Devices and Circuits</label>
+      </li>
+    
+    
+      <li id="c6_option_hydrodynamics">
+        <input type="checkbox" class="faceted-noborder" title="Hydrodynamics" name="c6" value="hydrodynamics" id="c6_hydrodynamics" />
+        <label for="c6_hydrodynamics" title="Hydrodynamics">Hydrodynamics</label>
+      </li>
+    
+    
+      <li id="c6_option_igneouspetrology">
+        <input type="checkbox" class="faceted-noborder" title="Igneous Petrology" name="c6" value="igneouspetrology" id="c6_igneouspetrology" />
+        <label for="c6_igneouspetrology" title="Igneous Petrology">Igneous Petrology</label>
+      </li>
+    
+    
+      <li id="c6_option_image-processing">
+        <input type="checkbox" class="faceted-noborder" title="Image Processing" name="c6" value="image-processing" id="c6_image-processing" />
+        <label for="c6_image-processing" title="Image Processing">Image Processing</label>
+      </li>
+    
+    
+      <li id="c6_option_implantabledevices">
+        <input type="checkbox" class="faceted-noborder" title="Implantable Devices" name="c6" value="implantabledevices" id="c6_implantabledevices" />
+        <label for="c6_implantabledevices" title="Implantable Devices">Implantable Devices</label>
+      </li>
+    
+    
+      <li id="c6_option_interfacialscience">
+        <input type="checkbox" class="faceted-noborder" title="Interfacial Science" name="c6" value="interfacialscience" id="c6_interfacialscience" />
+        <label for="c6_interfacialscience" title="Interfacial Science">Interfacial Science</label>
+      </li>
+    
+    
+      <li id="c6_option_ionicliquids">
+        <input type="checkbox" class="faceted-noborder" title="Ionic Liquids" name="c6" value="ionicliquids" id="c6_ionicliquids" />
+        <label for="c6_ionicliquids" title="Ionic Liquids">Ionic Liquids</label>
+      </li>
+    
+    
+      <li id="c6_option_kinematicsanddesign">
+        <input type="checkbox" class="faceted-noborder" title="Kinematics and Design" name="c6" value="kinematicsanddesign" id="c6_kinematicsanddesign" />
+        <label for="c6_kinematicsanddesign" title="Kinematics and Design">Kinematics and Design</label>
+      </li>
+    
+    
+      <li id="c6_option_lab-support">
+        <input type="checkbox" class="faceted-noborder" title="Lab Support" name="c6" value="lab-support" id="c6_lab-support" />
+        <label for="c6_lab-support" title="Lab Support">Lab Support</label>
+      </li>
+    
+    
+      <li id="c6_option_machinelearning">
+        <input type="checkbox" class="faceted-noborder" title="Machine Learning" name="c6" value="machinelearning" id="c6_machinelearning" />
+        <label for="c6_machinelearning" title="Machine Learning">Machine Learning</label>
+      </li>
+    
+    
+      <li id="c6_option_mantlegeochemistry">
+        <input type="checkbox" class="faceted-noborder" title="Mantle Geochemistry" name="c6" value="mantlegeochemistry" id="c6_mantlegeochemistry" />
+        <label for="c6_mantlegeochemistry" title="Mantle Geochemistry">Mantle Geochemistry</label>
+      </li>
+    
+    
+      <li id="c6_option_manufacturing">
+        <input type="checkbox" class="faceted-noborder" title="Manufacturing" name="c6" value="manufacturing" id="c6_manufacturing" />
+        <label for="c6_manufacturing" title="Manufacturing">Manufacturing</label>
+      </li>
+    
+    
+      <li id="c6_option_marketingandcommunications">
+        <input type="checkbox" class="faceted-noborder" title="Marketing and Communications" name="c6" value="marketingandcommunications" id="c6_marketingandcommunications" />
+        <label for="c6_marketingandcommunications" title="Marketing and Communications">Marketing and Communications</label>
+      </li>
+    
+    
+      <li id="c6_option_massspectrometry">
+        <input type="checkbox" class="faceted-noborder" title="Mass Spectrometry" name="c6" value="massspectrometry" id="c6_massspectrometry" />
+        <label for="c6_massspectrometry" title="Mass Spectrometry">Mass Spectrometry</label>
+      </li>
+    
+    
+      <li id="c6_option_materials">
+        <input type="checkbox" class="faceted-noborder" title="Materials" name="c6" value="materials" id="c6_materials" />
+        <label for="c6_materials" title="Materials">Materials</label>
+      </li>
+    
+    
+      <li id="c6_option_mechanobiology">
+        <input type="checkbox" class="faceted-noborder" title="Mechanobiology" name="c6" value="mechanobiology" id="c6_mechanobiology" />
+        <label for="c6_mechanobiology" title="Mechanobiology">Mechanobiology</label>
+      </li>
+    
+    
+      <li id="c6_option_Microandnanofluidics">
+        <input type="checkbox" class="faceted-noborder" title="Micro- and Nano-fluidics" name="c6" value="Microandnanofluidics" id="c6_Microandnanofluidics" />
+        <label for="c6_Microandnanofluidics" title="Micro- and Nano-fluidics">Micro- and Nano-fluidics</label>
+      </li>
+    
+    
+      <li id="c6_option_microbialfuelcells">
+        <input type="checkbox" class="faceted-noborder" title="Microbial Fuel Cells" name="c6" value="microbialfuelcells" id="c6_microbialfuelcells" />
+        <label for="c6_microbialfuelcells" title="Microbial Fuel Cells">Microbial Fuel Cells</label>
+      </li>
+    
+    
+      <li id="c6_option_microfluidics">
+        <input type="checkbox" class="faceted-noborder" title="Microfluidics" name="c6" value="microfluidics" id="c6_microfluidics" />
+        <label for="c6_microfluidics" title="Microfluidics">Microfluidics</label>
+      </li>
+    
+    
+      <li id="c6_option_microscaledevices">
+        <input type="checkbox" class="faceted-noborder" title="Microscale Devices" name="c6" value="microscaledevices" id="c6_microscaledevices" />
+        <label for="c6_microscaledevices" title="Microscale Devices">Microscale Devices</label>
+      </li>
+    
+    
+      <li id="c6_option_microscaleheattransfer">
+        <input type="checkbox" class="faceted-noborder" title="Microscale Heat Transfer" name="c6" value="microscaleheattransfer" id="c6_microscaleheattransfer" />
+        <label for="c6_microscaleheattransfer" title="Microscale Heat Transfer">Microscale Heat Transfer</label>
+      </li>
+    
+    
+      <li id="c6_option_multiscalemodelingofstructuresandmaterials">
+        <input type="checkbox" class="faceted-noborder" title="Multi-scale Modeling of Structures and Materials" name="c6" value="multiscalemodelingofstructuresandmaterials" id="c6_multiscalemodelingofstructuresandmaterials" />
+        <label for="c6_multiscalemodelingofstructuresandmaterials" title="Multi-scale Modeling of Structures and Materials">Multi-scale Modeling of Structures and Materials</label>
+      </li>
+    
+    
+      <li id="c6_option_multi-scale-multi-time-multi-physimodeling">
+        <input type="checkbox" class="faceted-noborder" title="Multi-scale/Multi-time/Multi-physic Modeling" name="c6" value="multi-scale-multi-time-multi-physimodeling" id="c6_multi-scale-multi-time-multi-physimodeling" />
+        <label for="c6_multi-scale-multi-time-multi-physimodeling" title="Multi-scale/Multi-time/Multi-physic Modeling">Multi-scale/Mul<wbr />ti-time/Multi-p<wbr />hysic Modeling</label>
+      </li>
+    
+    
+      <li id="c6_option_multidisciplinarydesignandoptimization">
+        <input type="checkbox" class="faceted-noborder" title="Multidisciplinary Design and Optimization" name="c6" value="multidisciplinarydesignandoptimization" id="c6_multidisciplinarydesignandoptimization" />
+        <label for="c6_multidisciplinarydesignandoptimization" title="Multidisciplinary Design and Optimization">Multidisciplina<wbr />ry Design and Optimization</label>
+      </li>
+    
+    
+      <li id="c6_option_multiphaseflowdynamics">
+        <input type="checkbox" class="faceted-noborder" title="Multiphase Flow Dynamics" name="c6" value="multiphaseflowdynamics" id="c6_multiphaseflowdynamics" />
+        <label for="c6_multiphaseflowdynamics" title="Multiphase Flow Dynamics">Multiphase Flow Dynamics</label>
+      </li>
+    
+    
+      <li id="c6_option_multiscalemultiphysicsmodeling">
+        <input type="checkbox" class="faceted-noborder" title="Multiscale/Multiphysics Modeling" name="c6" value="multiscalemultiphysicsmodeling" id="c6_multiscalemultiphysicsmodeling" />
+        <label for="c6_multiscalemultiphysicsmodeling" title="Multiscale/Multiphysics Modeling">Multiscale/Mult<wbr />iphysics Modeling</label>
+      </li>
+    
+    
+      <li id="c6_option_multivalentbiomolecularinteractions">
+        <input type="checkbox" class="faceted-noborder" title="Multivalent Biomolecular Interactions" name="c6" value="multivalentbiomolecularinteractions" id="c6_multivalentbiomolecularinteractions" />
+        <label for="c6_multivalentbiomolecularinteractions" title="Multivalent Biomolecular Interactions">Multivalent Biomolecular Interactions</label>
+      </li>
+    
+    
+      <li id="c6_option_nano-biotechnology">
+        <input type="checkbox" class="faceted-noborder" title="Nano-biotechnology" name="c6" value="nano-biotechnology" id="c6_nano-biotechnology" />
+        <label for="c6_nano-biotechnology" title="Nano-biotechnology">Nano-biotechnol<wbr />ogy</label>
+      </li>
+    
+    
+      <li id="c6_option_nanoelectronics-and-nanotechnology">
+        <input type="checkbox" class="faceted-noborder" title="Nanoelectronics and Nanotechnology" name="c6" value="nanoelectronics-and-nanotechnology" id="c6_nanoelectronics-and-nanotechnology" />
+        <label for="c6_nanoelectronics-and-nanotechnology" title="Nanoelectronics and Nanotechnology">Nanoelectronics and Nanotechnology</label>
+      </li>
+    
+    
+      <li id="c6_option_nuclearwastemanagement">
+        <input type="checkbox" class="faceted-noborder" title="Nuclear Waste Management" name="c6" value="nuclearwastemanagement" id="c6_nuclearwastemanagement" />
+        <label for="c6_nuclearwastemanagement" title="Nuclear Waste Management">Nuclear Waste Management</label>
+      </li>
+    
+    
+      <li id="c6_option_numericalanalysis">
+        <input type="checkbox" class="faceted-noborder" title="Numerical Analysis" name="c6" value="numericalanalysis" id="c6_numericalanalysis" />
+        <label for="c6_numericalanalysis" title="Numerical Analysis">Numerical Analysis</label>
+      </li>
+    
+    
+      <li id="c6_option_numericalmethods">
+        <input type="checkbox" class="faceted-noborder" title="Numerical Methods" name="c6" value="numericalmethods" id="c6_numericalmethods" />
+        <label for="c6_numericalmethods" title="Numerical Methods">Numerical Methods</label>
+      </li>
+    
+    
+      <li id="c6_option_numericalandanalyticalmethods">
+        <input type="checkbox" class="faceted-noborder" title="Numerical and Analytical Methods" name="c6" value="numericalandanalyticalmethods" id="c6_numericalandanalyticalmethods" />
+        <label for="c6_numericalandanalyticalmethods" title="Numerical and Analytical Methods">Numerical and Analytical Methods</label>
+      </li>
+    
+    
+      <li id="c6_option_optimization">
+        <input type="checkbox" class="faceted-noborder" title="Optimization" name="c6" value="optimization" id="c6_optimization" />
+        <label for="c6_optimization" title="Optimization">Optimization</label>
+      </li>
+    
+    
+      <li id="c6_option_optoelectronicmaterials">
+        <input type="checkbox" class="faceted-noborder" title="Optoelectronic Materials" name="c6" value="optoelectronicmaterials" id="c6_optoelectronicmaterials" />
+        <label for="c6_optoelectronicmaterials" title="Optoelectronic Materials">Optoelectronic Materials</label>
+      </li>
+    
+    
+      <li id="c6_option_oscillatoryseparations">
+        <input type="checkbox" class="faceted-noborder" title="Oscillatory Separations" name="c6" value="oscillatoryseparations" id="c6_oscillatoryseparations" />
+        <label for="c6_oscillatoryseparations" title="Oscillatory Separations">Oscillatory Separations</label>
+      </li>
+    
+    
+      <li id="c6_option_particledynamics">
+        <input type="checkbox" class="faceted-noborder" title="Particle Dynamics" name="c6" value="particledynamics" id="c6_particledynamics" />
+        <label for="c6_particledynamics" title="Particle Dynamics">Particle Dynamics</label>
+      </li>
+    
+    
+      <li id="c6_option_particleparticleinteraction">
+        <input type="checkbox" class="faceted-noborder" title="Particle-Particle Interaction" name="c6" value="particleparticleinteraction" id="c6_particleparticleinteraction" />
+        <label for="c6_particleparticleinteraction" title="Particle-Particle Interaction">Particle-Partic<wbr />le Interaction</label>
+      </li>
+    
+    
+      <li id="c6_option_petrologyandgeochemistry">
+        <input type="checkbox" class="faceted-noborder" title="Petrology and Geochemistry" name="c6" value="petrologyandgeochemistry" id="c6_petrologyandgeochemistry" />
+        <label for="c6_petrologyandgeochemistry" title="Petrology and Geochemistry">Petrology and Geochemistry</label>
+      </li>
+    
+    
+      <li id="c6_option_plasmaflowcontrol">
+        <input type="checkbox" class="faceted-noborder" title="Plasma Flow Control" name="c6" value="plasmaflowcontrol" id="c6_plasmaflowcontrol" />
+        <label for="c6_plasmaflowcontrol" title="Plasma Flow Control">Plasma Flow Control</label>
+      </li>
+    
+    
+      <li id="c6_option_probabilisticmechanics">
+        <input type="checkbox" class="faceted-noborder" title="Probabilistic Mechanics" name="c6" value="probabilisticmechanics" id="c6_probabilisticmechanics" />
+        <label for="c6_probabilisticmechanics" title="Probabilistic Mechanics">Probabilistic Mechanics</label>
+      </li>
+    
+    
+      <li id="c6_option_processsystemsengineering">
+        <input type="checkbox" class="faceted-noborder" title="Process Systems Engineering" name="c6" value="processsystemsengineering" id="c6_processsystemsengineering" />
+        <label for="c6_processsystemsengineering" title="Process Systems Engineering">Process Systems Engineering</label>
+      </li>
+    
+    
+      <li id="c6_option_quantitativefinance">
+        <input type="checkbox" class="faceted-noborder" title="Quantitative Finance" name="c6" value="quantitativefinance" id="c6_quantitativefinance" />
+        <label for="c6_quantitativefinance" title="Quantitative Finance">Quantitative Finance</label>
+      </li>
+    
+    
+      <li id="c6_option_quantum-dot-cellular-automata">
+        <input type="checkbox" class="faceted-noborder" title="Quantum-dot Cellular Automata" name="c6" value="quantum-dot-cellular-automata" id="c6_quantum-dot-cellular-automata" />
+        <label for="c6_quantum-dot-cellular-automata" title="Quantum-dot Cellular Automata">Quantum-dot Cellular Automata</label>
+      </li>
+    
+    
+      <li id="c6_option_research-support">
+        <input type="checkbox" class="faceted-noborder" title="Research Support" name="c6" value="research-support" id="c6_research-support" />
+        <label for="c6_research-support" title="Research Support">Research Support</label>
+      </li>
+    
+    
+      <li id="c6_option_robotics">
+        <input type="checkbox" class="faceted-noborder" title="Robotics" name="c6" value="robotics" id="c6_robotics" />
+        <label for="c6_robotics" title="Robotics">Robotics</label>
+      </li>
+    
+    
+      <li id="c6_option_securityandcryptography">
+        <input type="checkbox" class="faceted-noborder" title="Security and Cryptography" name="c6" value="securityandcryptography" id="c6_securityandcryptography" />
+        <label for="c6_securityandcryptography" title="Security and Cryptography">Security and Cryptography</label>
+      </li>
+    
+    
+      <li id="c6_option_sensordevelopmentandembedded">
+        <input type="checkbox" class="faceted-noborder" title="Sensor Development and Embedded" name="c6" value="sensordevelopmentandembedded" id="c6_sensordevelopmentandembedded" />
+        <label for="c6_sensordevelopmentandembedded" title="Sensor Development and Embedded">Sensor Development and Embedded</label>
+      </li>
+    
+    
+      <li id="c6_option_sensornetworks">
+        <input type="checkbox" class="faceted-noborder" title="Sensor Networks" name="c6" value="sensornetworks" id="c6_sensornetworks" />
+        <label for="c6_sensornetworks" title="Sensor Networks">Sensor Networks</label>
+      </li>
+    
+    
+      <li id="c6_option_softlithography">
+        <input type="checkbox" class="faceted-noborder" title="Soft Lithography" name="c6" value="softlithography" id="c6_softlithography" />
+        <label for="c6_softlithography" title="Soft Lithography">Soft Lithography</label>
+      </li>
+    
+    
+      <li id="c6_option_softwareengineeringandsoftwaresystems">
+        <input type="checkbox" class="faceted-noborder" title="Software Engineering and Software Systems" name="c6" value="softwareengineeringandsoftwaresystems" id="c6_softwareengineeringandsoftwaresystems" />
+        <label for="c6_softwareengineeringandsoftwaresystems" title="Software Engineering and Software Systems">Software Engineering and Software Systems</label>
+      </li>
+    
+    
+      <li id="c6_option_solidmechanics">
+        <input type="checkbox" class="faceted-noborder" title="Solid Mechanics" name="c6" value="solidmechanics" id="c6_solidmechanics" />
+        <label for="c6_solidmechanics" title="Solid Mechanics">Solid Mechanics</label>
+      </li>
+    
+    
+      <li id="c6_option_stability">
+        <input type="checkbox" class="faceted-noborder" title="Stability" name="c6" value="stability" id="c6_stability" />
+        <label for="c6_stability" title="Stability">Stability</label>
+      </li>
+    
+    
+      <li id="c6_option_stormsurgepredictions">
+        <input type="checkbox" class="faceted-noborder" title="Storm Surge Predictions" name="c6" value="stormsurgepredictions" id="c6_stormsurgepredictions" />
+        <label for="c6_stormsurgepredictions" title="Storm Surge Predictions">Storm Surge Predictions</label>
+      </li>
+    
+    
+      <li id="c6_option_structuralcontrolandhealthmonitoring">
+        <input type="checkbox" class="faceted-noborder" title="Structural Control and Health Monitoring" name="c6" value="structuralcontrolandhealthmonitoring" id="c6_structuralcontrolandhealthmonitoring" />
+        <label for="c6_structuralcontrolandhealthmonitoring" title="Structural Control and Health Monitoring">Structural Control and Health Monitoring</label>
+      </li>
+    
+    
+      <li id="c6_option_structuraldynamics">
+        <input type="checkbox" class="faceted-noborder" title="Structural Dynamics" name="c6" value="structuraldynamics" id="c6_structuraldynamics" />
+        <label for="c6_structuraldynamics" title="Structural Dynamics">Structural Dynamics</label>
+      </li>
+    
+    
+      <li id="c6_option_structuralengineering">
+        <input type="checkbox" class="faceted-noborder" title="Structural Engineering" name="c6" value="structuralengineering" id="c6_structuralengineering" />
+        <label for="c6_structuralengineering" title="Structural Engineering">Structural Engineering</label>
+      </li>
+    
+    
+      <li id="c6_option_suspensionmechanics">
+        <input type="checkbox" class="faceted-noborder" title="Suspension Mechanics" name="c6" value="suspensionmechanics" id="c6_suspensionmechanics" />
+        <label for="c6_suspensionmechanics" title="Suspension Mechanics">Suspension Mechanics</label>
+      </li>
+    
+    
+      <li id="c6_option_sustainabledevelopment">
+        <input type="checkbox" class="faceted-noborder" title="Sustainable Development" name="c6" value="sustainabledevelopment" id="c6_sustainabledevelopment" />
+        <label for="c6_sustainabledevelopment" title="Sustainable Development">Sustainable Development</label>
+      </li>
+    
+    
+      <li id="c6_option_technical-support">
+        <input type="checkbox" class="faceted-noborder" title="Technical Support" name="c6" value="technical-support" id="c6_technical-support" />
+        <label for="c6_technical-support" title="Technical Support">Technical Support</label>
+      </li>
+    
+    
+      <li id="c6_option_thermochemistry">
+        <input type="checkbox" class="faceted-noborder" title="Thermochemistry" name="c6" value="thermochemistry" id="c6_thermochemistry" />
+        <label for="c6_thermochemistry" title="Thermochemistry">Thermochemistry</label>
+      </li>
+    
+    
+      <li id="c6_option_tissueengineering">
+        <input type="checkbox" class="faceted-noborder" title="Tissue Engineering" name="c6" value="tissueengineering" id="c6_tissueengineering" />
+        <label for="c6_tissueengineering" title="Tissue Engineering">Tissue Engineering</label>
+      </li>
+    
+    
+      <li id="c6_option_tribology">
+        <input type="checkbox" class="faceted-noborder" title="Tribology" name="c6" value="tribology" id="c6_tribology" />
+        <label for="c6_tribology" title="Tribology">Tribology</label>
+      </li>
+    
+    
+      <li id="c6_option_turbomachinery">
+        <input type="checkbox" class="faceted-noborder" title="Turbomachinery" name="c6" value="turbomachinery" id="c6_turbomachinery" />
+        <label for="c6_turbomachinery" title="Turbomachinery">Turbomachinery</label>
+      </li>
+    
+    
+      <li id="c6_option_turbulence">
+        <input type="checkbox" class="faceted-noborder" title="Turbulence" name="c6" value="turbulence" id="c6_turbulence" />
+        <label for="c6_turbulence" title="Turbulence">Turbulence</label>
+      </li>
+    
+    
+      <li id="c6_option_turbulentshearflows">
+        <input type="checkbox" class="faceted-noborder" title="Turbulent Shear Flows" name="c6" value="turbulentshearflows" id="c6_turbulentshearflows" />
+        <label for="c6_turbulentshearflows" title="Turbulent Shear Flows">Turbulent Shear Flows</label>
+      </li>
+    
+    
+      <li id="c6_option_visionbasedroboticcontrol">
+        <input type="checkbox" class="faceted-noborder" title="Vision-based Robotic Control" name="c6" value="visionbasedroboticcontrol" id="c6_visionbasedroboticcontrol" />
+        <label for="c6_visionbasedroboticcontrol" title="Vision-based Robotic Control">Vision-based Robotic Control</label>
+      </li>
+    
+    
+      <li id="c6_option_wide-bandgap-semiconductors">
+        <input type="checkbox" class="faceted-noborder" title="Wide Bandgap Semiconductors" name="c6" value="wide-bandgap-semiconductors" id="c6_wide-bandgap-semiconductors" />
+        <label for="c6_wide-bandgap-semiconductors" title="Wide Bandgap Semiconductors">Wide Bandgap Semiconductors</label>
+      </li>
+    
+    
+      <li id="c6_option_wirelessmobileandembeddedsystems">
+        <input type="checkbox" class="faceted-noborder" title="Wireless, Mobile, and Embedded Systems" name="c6" value="wirelessmobileandembeddedsystems" id="c6_wirelessmobileandembeddedsystems" />
+        <label for="c6_wirelessmobileandembeddedsystems" title="Wireless, Mobile, and Embedded Systems">Wireless, Mobile, and Embedded Systems</label>
+      </li>
+    
+  </ul>
+  </form>
+
+  <span style="display:none">0</span>
+
+  
+
+</fieldset>
+</div>
+
+        
+      </div>
+    
+  
+
+
+  </div>
+
+
+  </div>
+
+  <!-- Bottom -->
+  <div id="bottom-area">
+    
+  <div id="faceted-bottom-column" class="faceted-column faceted-bottom-column visualNoPrint">
+
+    
+
+  
+    
+      
+      <div class="faceted-drag-drop faceted-widgets faceted-default-widgets faceted-bottom-widgets" id="bottom---default---widgets" title="Basic search">
+        
+          <div class="faceted-widget faceted-sorting-widget" style="display: none" id="c9_widget">
+
+<fieldset class="widget-fieldset">
+<legend>Sort on</legend>
+<form action="." method="get">
+
+
+
+
+
+
+  <select name="c9" id="c9">
+    <option value=""></option>
+    
+      <option value="affiliations" title="">affiliations</option>
+    
+    
+      <option value="commentators" title="Users who have commented on the item">Commentators</option>
+    
+    
+      <option value="created" title="The time and date an item was created">Creation Date</option>
+    
+    
+      <option value="Creator" title="">Creator</option>
+    
+    
+      <option value="effective" title="The time and date an item becomes publicly available">Effective Date</option>
+    
+    
+      <option value="end" title="The end date and time of an event">End Date</option>
+    
+    
+      <option value="expires" title="The time and date an item is no longer publicly available">Expiration Date</option>
+    
+    
+      <option value="getRawFeaturedPeople" title="">getRawFeaturedPeople</option>
+    
+    
+      <option value="Type" title="An item's type (e.g. Event)">Item Type</option>
+    
+    
+      <option value="portal_type" title="">Item Type (internal)</option>
+    
+    
+      <option selected="selected" value="last_name" title="Last Name">Last Name</option>
+    
+    
+      <option value="member_category" title="">member_category</option>
+    
+    
+      <option value="memberAlumniOrganizations" title="">memberAlumniOrganizations</option>
+    
+    
+      <option value="meta_type" title="">meta_type</option>
+    
+    
+      <option value="modified" title="The time and date an item was last modified">Modification Date</option>
+    
+    
+      <option value="object_provides" title="">object_provides</option>
+    
+    
+      <option value="getRawRelatedItems" title="Find items related to the selected items">Related To</option>
+    
+    
+      <option value="getId" title="The short name of an item (used in the url)">Short Name</option>
+    
+    
+      <option value="source_type" title="">source_type</option>
+    
+    
+      <option value="start" title="The start date and time of an event">Start Date</option>
+    
+    
+      <option value="review_state" title="An item's workflow state (e.g.published)">State</option>
+    
+    
+      <option value="Subject" title="Tags are used for ad-hoc organization of content">Tags</option>
+    
+    
+      <option value="sortable_title" title="An item's title transformed for sorting">Title</option>
+    
+    
+      <option value="username" title="">username</option>
+    
+  </select>
+  <div class="field">
+    <input type="checkbox" class="faceted-noborder" name="reversed" value="reversed" id="c9_reversed" />
+    <label for="c9_reversed">Reverse</label>
+  </div>
+
+
+
+</form>
+</fieldset>
+</div>
+
+        
+        
+          <div class="faceted-widget faceted-checkboxes-widget faceted-count" style="display: none" data-operator="or" id="c1_widget">
+
+<fieldset class="widget-fieldset">
+  <legend>Portal type</legend>
+
+  
+
+  
+
+  <form action="." method="get">
+
+  <ul>
+    
+      <li id="c1_option_Book">
+        <input type="checkbox" class="faceted-noborder" title="Book" name="c1" value="Book" id="c1_Book" />
+        <label for="c1_Book" title="Book">Book</label>
+      </li>
+    
+    
+      <li id="c1_option_nd.content.center">
+        <input type="checkbox" class="faceted-noborder" title="Center" name="c1" value="nd.content.center" id="c1_nd-content-center" />
+        <label for="c1_nd-content-center" title="Center">Center</label>
+      </li>
+    
+    
+      <li id="c1_option_Child Folder">
+        <input type="checkbox" class="faceted-noborder" title="Child Folder" name="c1" value="Child Folder" id="c1_Child-Folder" />
+        <label for="c1_Child-Folder" title="Child Folder">Child Folder</label>
+      </li>
+    
+    
+      <li id="c1_option_Topic">
+        <input type="checkbox" class="faceted-noborder" title="Collection" name="c1" value="Topic" id="c1_Topic" />
+        <label for="c1_Topic" title="Collection">Collection</label>
+      </li>
+    
+    
+      <li id="c1_option_nd.content.college">
+        <input type="checkbox" class="faceted-noborder" title="College" name="c1" value="nd.content.college" id="c1_nd-content-college" />
+        <label for="c1_nd-content-college" title="College">College</label>
+      </li>
+    
+    
+      <li id="c1_option_nd.content.department">
+        <input type="checkbox" class="faceted-noborder" title="Department" name="c1" value="nd.content.department" id="c1_nd-content-department" />
+        <label for="c1_nd-content-department" title="Department">Department</label>
+      </li>
+    
+    
+      <li id="c1_option_Event">
+        <input type="checkbox" class="faceted-noborder" title="Event" name="c1" value="Event" id="c1_Event" />
+        <label for="c1_Event" title="Event">Event</label>
+      </li>
+    
+    
+      <li id="c1_option_File">
+        <input type="checkbox" class="faceted-noborder" title="File" name="c1" value="File" id="c1_File" />
+        <label for="c1_File" title="File">File</label>
+      </li>
+    
+    
+      <li id="c1_option_Folder">
+        <input type="checkbox" class="faceted-noborder" title="Folder" name="c1" value="Folder" id="c1_Folder" />
+        <label for="c1_Folder" title="Folder">Folder</label>
+      </li>
+    
+    
+      <li id="c1_option_Highlight">
+        <input type="checkbox" class="faceted-noborder" title="Highlight" name="c1" value="Highlight" id="c1_Highlight" />
+        <label for="c1_Highlight" title="Highlight">Highlight</label>
+      </li>
+    
+    
+      <li id="c1_option_InTheNews">
+        <input type="checkbox" class="faceted-noborder" title="In the News Link(s)" name="c1" value="InTheNews" id="c1_InTheNews" />
+        <label for="c1_InTheNews" title="In the News Link(s)">In the News Link(s)</label>
+      </li>
+    
+    
+      <li id="c1_option_nd.content.lab">
+        <input type="checkbox" class="faceted-noborder" title="Lab" name="c1" value="nd.content.lab" id="c1_nd-content-lab" />
+        <label for="c1_nd-content-lab" title="Lab">Lab</label>
+      </li>
+    
+    
+      <li id="c1_option_Link">
+        <input type="checkbox" class="faceted-noborder" title="Link" name="c1" value="Link" id="c1_Link" />
+        <label for="c1_Link" title="Link">Link</label>
+      </li>
+    
+    
+      <li id="c1_option_nd.content.member">
+        <input type="checkbox" class="faceted-noborder" title="Member" checked="checked" name="c1" value="nd.content.member" id="c1_nd-content-member" />
+        <label for="c1_nd-content-member" title="Member">Member</label>
+      </li>
+    
+    
+      <li id="c1_option_MemberFolder">
+        <input type="checkbox" class="faceted-noborder" title="Member Folder" name="c1" value="MemberFolder" id="c1_MemberFolder" />
+        <label for="c1_MemberFolder" title="Member Folder">Member Folder</label>
+      </li>
+    
+    
+      <li id="c1_option_News Item">
+        <input type="checkbox" class="faceted-noborder" title="News Item" name="c1" value="News Item" id="c1_News-Item" />
+        <label for="c1_News-Item" title="News Item">News Item</label>
+      </li>
+    
+    
+      <li id="c1_option_Document">
+        <input type="checkbox" class="faceted-noborder" title="Page" name="c1" value="Document" id="c1_Document" />
+        <label for="c1_Document" title="Page">Page</label>
+      </li>
+    
+    
+      <li id="c1_option_Page_with_Image">
+        <input type="checkbox" class="faceted-noborder" title="Page with Image" name="c1" value="Page_with_Image" id="c1_Page_with_Image" />
+        <label for="c1_Page_with_Image" title="Page with Image">Page with Image</label>
+      </li>
+    
+    
+      <li id="c1_option_ProfileFolder">
+        <input type="checkbox" class="faceted-noborder" title="Profile Folder" name="c1" value="ProfileFolder" id="c1_ProfileFolder" />
+        <label for="c1_ProfileFolder" title="Profile Folder">Profile Folder</label>
+      </li>
+    
+    
+      <li id="c1_option_Research_Page">
+        <input type="checkbox" class="faceted-noborder" title="Research Page" name="c1" value="Research_Page" id="c1_Research_Page" />
+        <label for="c1_Research_Page" title="Research Page">Research Page</label>
+      </li>
+    
+    
+      <li id="c1_option_nd.content.seminar">
+        <input type="checkbox" class="faceted-noborder" title="Seminar" name="c1" value="nd.content.seminar" id="c1_nd-content-seminar" />
+        <label for="c1_nd-content-seminar" title="Seminar">Seminar</label>
+      </li>
+    
+  </ul>
+  </form>
+
+  <span style="display:none">5</span>
+
+  
+
+</fieldset>
+</div>
+
+        
+        
+          <div class="faceted-widget faceted-checkboxes-widget" style="display: none" data-operator="or" id="c12_widget">
+
+<fieldset class="widget-fieldset">
+  <legend>Workflow state</legend>
+
+  
+
+  
+
+  <form action="." method="get">
+
+  <ul>
+    
+      <li id="c12_option_disabled">
+        <input type="checkbox" class="faceted-noborder" title="Disabled [disabled]" name="c12" value="disabled" id="c12_disabled" />
+        <label for="c12_disabled" title="Disabled [disabled]">Disabled [disabled]</label>
+      </li>
+    
+    
+      <li id="c12_option_enabled">
+        <input type="checkbox" class="faceted-noborder" title="Enabled [enabled]" checked="checked" name="c12" value="enabled" id="c12_enabled" />
+        <label for="c12_enabled" title="Enabled [enabled]">Enabled [enabled]</label>
+      </li>
+    
+    
+      <li id="c12_option_external">
+        <input type="checkbox" class="faceted-noborder" title="Externally visible [external]" name="c12" value="external" id="c12_external" />
+        <label for="c12_external" title="Externally visible [external]">Externally visible [external]</label>
+      </li>
+    
+    
+      <li id="c12_option_internal">
+        <input type="checkbox" class="faceted-noborder" title="Internal draft [internal]" name="c12" value="internal" id="c12_internal" />
+        <label for="c12_internal" title="Internal draft [internal]">Internal draft [internal]</label>
+      </li>
+    
+    
+      <li id="c12_option_internally_published">
+        <input type="checkbox" class="faceted-noborder" title="Internally published [internally_published]" name="c12" value="internally_published" id="c12_internally_published" />
+        <label for="c12_internally_published" title="Internally published [internally_published]">Internally published [internally_pub<wbr />lished]</label>
+      </li>
+    
+    
+      <li id="c12_option_not_syndicated">
+        <input type="checkbox" class="faceted-noborder" title="Not syndicated [not_syndicated]" name="c12" value="not_syndicated" id="c12_not_syndicated" />
+        <label for="c12_not_syndicated" title="Not syndicated [not_syndicated]">Not syndicated [not_syndicated<wbr />]</label>
+      </li>
+    
+    
+      <li id="c12_option_pending">
+        <input type="checkbox" class="faceted-noborder" title="Pending [pending]" name="c12" value="pending" id="c12_pending" />
+        <label for="c12_pending" title="Pending [pending]">Pending [pending]</label>
+      </li>
+    
+    
+      <li id="c12_option_pending_move">
+        <input type="checkbox" class="faceted-noborder" title="Pending Content Move [pending_move]" name="c12" value="pending_move" id="c12_pending_move" />
+        <label for="c12_pending_move" title="Pending Content Move [pending_move]">Pending Content Move [pending_move]</label>
+      </li>
+    
+    
+      <li id="c12_option_pending_syndication">
+        <input type="checkbox" class="faceted-noborder" title="Pending Syndication [pending_syndication]" name="c12" value="pending_syndication" id="c12_pending_syndication" />
+        <label for="c12_pending_syndication" title="Pending Syndication [pending_syndication]">Pending Syndication [pending_syndic<wbr />ation]</label>
+      </li>
+    
+    
+      <li id="c12_option_private">
+        <input type="checkbox" class="faceted-noborder" title="Private [private]" name="c12" value="private" id="c12_private" />
+        <label for="c12_private" title="Private [private]">Private [private]</label>
+      </li>
+    
+    
+      <li id="c12_option_visible">
+        <input type="checkbox" class="faceted-noborder" title="Public draft [visible]" name="c12" value="visible" id="c12_visible" />
+        <label for="c12_visible" title="Public draft [visible]">Public draft [visible]</label>
+      </li>
+    
+    
+      <li id="c12_option_published">
+        <input type="checkbox" class="faceted-noborder" title="Published [published]" name="c12" value="published" id="c12_published" />
+        <label for="c12_published" title="Published [published]">Published [published]</label>
+      </li>
+    
+    
+      <li id="c12_option_syndicated">
+        <input type="checkbox" class="faceted-noborder" title="Syndicated [syndicated]" name="c12" value="syndicated" id="c12_syndicated" />
+        <label for="c12_syndicated" title="Syndicated [syndicated]">Syndicated [syndicated]</label>
+      </li>
+    
+  </ul>
+  </form>
+
+  <span style="display:none">0</span>
+
+  
+
+</fieldset>
+</div>
+
+        
+      </div>
+    
+  
+
+
+  </div>
+
+
+  </div>
+
+  <div class="faceted-clear"></div>
+
+
+  <!-- Faceted version -->
+  <div style="display: none" id="faceted-version">5165ebcb347dfdc697cda14d4e183497</div>
+</div>
+
+</div>
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+
+            </td>
+            
+
+            
+                
+                <td id="portal-column-two">
+                  <div class="visualPadding">
+                    
+                      
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+    <a href="http://www.nd.edu" class="mark" title="University of Notre Dame" target="_new"><img src="undlogo-31.png" alt="University of Notre Dame" /></a>
+    <p><a href="http://www.nd.edu/copyright/" title="Copyright" target="_new">Copyright</a> &copy; <span>2016</span><br />
+    The <a title="Home" href="http://cse.nd.edu">Department of Computer Science and Engineering</a> at the <a href="http://www.nd.edu" title="University of Notre Dame" target="_new">University of Notre Dame</a><br />
+    E-mail: <a href="mailto:cse@cse.nd.edu" title="College of Engineering E-mail">cse@cse.nd.edu</a></p>
+</div>
+
+<script type="text/javascript"
+src="/js/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://cse.nd.edu/spinner.gif" /></div>
+</body>
+</html>
+

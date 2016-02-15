@@ -1,0 +1,957 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://cse.nd.edu/academics/grads/gaann" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://cse.nd.edu/academics/grads/gaann/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-cachekey5311.css" title="jQuery CSS" />
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery.select2uislider-cachekey4754.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/base-cachekey1847.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/dropdown-menu-cachekey4039.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneKss-cachekey1587.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.discussion.stylesheetsdiscussion-cachekey2492.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.jquerytools.dateinput-cachekey8245.css);</style>
+        <!--[if lte IE 7]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://cse.nd.edu/portal_css/ND%20Theme/IEFixes-cachekey9920.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0248.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.dexterity.overlays-cachekey3343.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey6679.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/visualeditor-cachekey5643.css" />
+    <style type="text/css">@import url(http://cse.nd.edu/portal_css/ND%20Theme/slideshow-cachekey0067.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8752.css);</style>
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/faceted_view-cachekey0307.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneCustom-cachekey9913.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/cseStyles-cachekey5695.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/leastCenterStyles-cachekey3180.css" />
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.js.chosenchosen-cachekey4409.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/labStyles-cachekey2020.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://cse.nd.edu/portal_css/ND%20Theme/print-cachekey0402.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/brandbarOverrideStyles-cachekey4132.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://cse.nd.edu/portal_kss/ND%20Theme/at-cachekey5249.kss" />
+  
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cachekey5527.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery.tagcloud-cachekey4878.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/table_sorter-cachekey4070.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcedropdown-menu-cachekey8189.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.app.discussion.javascriptscomments-cachekey7910.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/iefixes-cachekey9038.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey1034.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/basic-cachekey2230.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cycle-cachekey0203.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery-ui.min-cachekey8119.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery.jqEasyCharCounter.min-cachekey4265.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/cseAnalytics-cachekey7388.js"></script>
+
+
+<title>CSE GAANN Teaching Fellowship Program &mdash; Department of Computer Science and Engineering</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://cse.nd.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://cse.nd.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://cse.nd.edu" title="Front page" />
+
+    <link rel="contents" href="http://cse.nd.edu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://cse.nd.edu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-document_view portaltype-document section-academics navroot-cse" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <div id="brandBar">
+		<p class="undBrand"><a href="http://www.nd.edu/" target="_blank" title="University of Notre Dame">UNIVERSITY of NOTRE DAME</a></p>
+		<p class="orgBrand"><a href="http://engineering.nd.edu/" title="College of Engineering">COLLEGE of ENGINEERING</a></p>
+                <p class="orgBrand provost"><a href="http://provost.nd.edu/" title="Office of the Provost">OFFICE of the PROVOST</a></p>
+	</div>
+	<p class="hiddenStructure">
+  <a accesskey="2" href="http://cse.nd.edu/academics/grads/gaann/#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://cse.nd.edu/academics/grads/gaann/#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+
+    <a id="portal-logo" title="Home" accesskey="1" href="http://cse.nd.edu">
+       <span>Department of Computer Science and Engineering</span>
+       
+    </a>
+    
+    
+
+
+
+<div id="portal-searchbox"> 
+                 
+     <form name="searchform" id="searchGadget_form" action="http://cse.nd.edu/search">
+       <div class="LSBox">
+           <label class="hiddenStructure" for="searchGadget">Search Site</label>
+        
+            <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+                   
+            <button type="submit" class="searchButton" id="search-button">Search</button>
+        
+            <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div>
+        </div>
+    </div></form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://cse.nd.edu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+	<!--<dt>
+		<a href="#">Contact</a>
+	<a href="#">Directory</a>
+	<a title="Home"
+	   accesskey="1"
+	   tal:attributes="href view/navigation_root_url"
+	   i18n:domain="plone"
+	   i18n:attributes="title">Home</a></dt>-->
+  <dt id="anon-personalbar">
+    
+        <a href="http://cse.nd.edu/login" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://cse.nd.edu" class="plain" title="">Home</a></li><li id="portaltab-academics" class="selected"><a href="http://cse.nd.edu/academics" class="plain" title="">ACADEMICS</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published" title="">
+            
+            Current Courses
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published" title="">
+            
+            Course Catalog
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published" title="">
+            
+            Course Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published" title="">
+            
+            Information for Undergraduates
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published" title="">
+            
+            Information for Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published" title="">
+            
+            Honor Code
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-research" class="plain"><a href="http://cse.nd.edu/research" class="plain" title="">RESEARCH</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published" title="">
+            
+            Research Labs
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published" title="">
+            
+            Research Areas
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published" title="">
+            
+            Current Projects
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published" title="">
+            
+            Tech Reports
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-people" class="plain"><a href="http://cse.nd.edu/people" class="plain" title="">PEOPLE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published" title="">
+            
+            Faculty
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published" title="">
+            
+            Staff
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published" title="">
+            
+            Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published" title="">
+            
+            PhD Alumni
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published" title="">
+            
+            Directory
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-resources" class="plain"><a href="http://cse.nd.edu/resources" class="plain" title="">RESOURCES</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/computer-facilities" class="state-published" title="">
+            
+            Computer Facilities
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/installed-software" class="state-published" title="">
+            
+            Installed Software
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/current-cse-newsletter" class="state-published" title="">
+            
+            Current CSE Newsletter
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/newsletter-archives" class="state-published" title="">
+            
+            Newsletter Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/university-resources" class="state-published" title="">
+            
+            University Resources
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-join-us" class="plain"><a href="http://cse.nd.edu/join-us" class="plain" title="">JOIN US</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/graduate" class="state-published" title="">
+            
+            Graduate Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/undergrad-admissions" class="state-published" title="">
+            
+            Undergrad Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/faculty-job-openings" class="state-published" title="">
+            
+            Faculty Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/staff-job-openings" class="state-published" title="">
+            
+            Staff Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/student-job-openings" class="state-published" title="">
+            
+            Student Job Openings
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-about" class="plain"><a href="http://cse.nd.edu/about" class="plain" title="">ABOUT</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/about/academic-mission" class="state-published" title="">
+            
+            Academic Mission
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/department-news" class="state-published" title="">
+            
+            Department News
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/careers-in-cse" class="state-published" title="">
+            
+            Careers in CSE
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li></ul>
+
+
+</div>
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                <td id="portal-column-one">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="http://cse.nd.edu/academics/grads/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode">
+                <div>
+                   <a href="http://cse.nd.edu/academics/grads" class="contenttype-plone-site " title="">
+                   
+                   Information for Graduate Students
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker section-handbook">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/grads/handbook" class="state-published contenttype-document" title="">
+            
+            <span>CSE Graduate Studies Handbook</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-summary-of-degree-requirements">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/grads/summary-of-degree-requirements" class="state-published contenttype-document" title="">
+            
+            <span>Summary of Degree Requirements</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode section-gaann">
+
+    
+
+
+        <a href="http://cse.nd.edu/academics/grads/gaann" class="state-published navTreeCurrentItem navTreeCurrentNode contenttype-document" title="">
+            
+            <span>CSE GAANN Teaching Fellowship Program</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <!--<span id="breadcrumbs-you-are-here" i18n:translate="you_are_here">You
+are here:</span>-->
+    <span id="breadcrumbs-home">
+        <a href="http://cse.nd.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            &gt;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://cse.nd.edu/academics">ACADEMICS</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            <a href="http://cse.nd.edu/academics/grads">Information for Graduate Students</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-3" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">CSE GAANN Teaching Fellowship Program</span>
+         
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    CSE GAANN Teaching Fellowship Program
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+                            
+                                
+                                
+            
+                
+            
+            
+        
+                            
+
+                            
+
+
+                            <div id="content-core">
+                                
+    
+        
+        <div class="" id="parent-fieldname-text">
+            <p>The CSE GAANN Teaching Fellowship Program is designed to develop Ph.D. students to become <strong>future faculty</strong> through a structured approach to classroom skills development. Fellows receive an increased stipend and are given a variety of opportunities to develop their teaching skills.</p>
+<h3>Benefits and Responsibilities</h3>
+<p>Teaching Fellows receive increased compensation as follows:</p>
+<ul>
+<li>An increase in stipend to $30K per calendar year.</li>
+<li>Funds to support travel expenses, computer equipment(approval prior to purchase must be otained), books, and other research expenses.</li>
+</ul>
+<p>In return, fellows engage in the following activities throughout their time at Notre Dame:</p>
+<ul>
+<li>Serve as a regular teaching assistant.</li>
+<li>Earn the Striving for Teaching Excellence certificate through the <a class="external-link" href="http://kaneb.nd.edu">Kaneb Center for Teaching and Learning</a>.</li>
+<li>Perform a small mentored teaching experience such as a series of lectures in a class.</li>
+<li>Teach a regular computer science class with supervision from a mentor.</li>
+</ul>
+<p><strong>Fellows are not expected to teach every semester</strong>, since they will be heavily engaged in research leading to the PhD. Rather, appropriate teaching experiences are integrated into the student’s overall development as a scholar each year.</p>
+<p>During the summer session, each fellow should meet with their advisor to plan out appropriate activities for the coming year. The final step of teaching a course will require agreement of the fellow, advisor, director of graduate studies, and department chair one year in advance of the course to be taught. Fellows are responsible for taking the initiative to plan out these steps.</p>
+<h3>Eligibility</h3>
+<p>This program is open to graduate students in the Computer Science and Engineering Department at the University of Notre Dame who are U.S. citizens or permanent residents. Both current and recently admitted students may apply.</p>
+<p>The program is supported by the US Department of Education (DOE) through the Graduate Assistantships in Areas of National Need (GAANN) Program and is subject to a number of DOE regulations. There are two requirements which must be met to qualify for the GAANN Fellowship award: (1) Academic excellence (2) Demonstrated financial need.</p>
+<p>Most graduate students have some level of “financial need” as defined by the DOE, so we encourage all students with an interest in a teaching career to apply.</p>
+<h3>How to Apply</h3>
+<p>Applicants should submit the following to the CSE Graduate Coordinator:</p>
+<ol>
+<li>For academic consideration: A letter of application indicating the applicant’s career goals, qualifications for the program, and include a current C.V. or resume. This letter should be addressed to the CSE Director of Graduate Studies and submitted to the CSE Graduate Coordinator.</li>
+<li>For financial consideration: Go to <a href="http://fafsa.ed.gov">http://fafsa.ed.gov</a> and complete a FAFSA form. Submit to the CSE Graduate Coordinator the Student Aid Report (SAR) once available from the Dept. of Ed, along with a copy of the prior year tax return and the completed Cost of Attendance Review Form. These documents must be re-submitted by the April 1st deadline every year while in the program.</li>
+</ol>
+<h3>Reporting and Evaluation</h3>
+<p><strong>By April 1st of each year</strong>, each fellow in the program must submit to the CSE Graduate Coordinator:</p>
+<ol>
+<li>A <a href="http://cse.nd.edu/academics/grads/gaann-progress-report-form" class="internal-link">progress report form</a> indicating what activities were completed in the past year.</li>
+<li>A new FAFSA student aid report (SAR), a copy of your prior year tax returns, and a Cost of Attendance Budget review form to evaluate your financial eligibility for the coming year.</li>
+</ol>
+<p>The Dept of Education requires significant documentation on the activities and outcomes of this program. Thus, the yearly progress report and financial aid forms indicated above are <strong>absolutely essential</strong> and must be submitted on time every year. The program’s faculty advisory committee will meet shortly thereafter to evaluate each fellow’s progress in the program.</p>
+<p>Special cases:</p>
+<ul>
+<li>If the student does not submit the necessary documentation, or progress is not acceptable, then he/she will be dropped from the program, and his/her salary and benefits will revert to previous levels.</li>
+<li>If the student is in good standing in the program, but no longer demonstrates “financial need”, then he/she will remain in the program as a “CSE Teaching Fellow” with the same stipend level, but without the GAANN designation.</li>
+</ul>
+<h3>Information for Advisors of GAANN Fellows</h3>
+<p>If your advisee is applying to the GAANN program, you should be aware of the following:</p>
+<p><strong>GAANN Teaching Fellows are not expected to teach full-time.</strong> Rather, they are expected to be productive in research, while weaving in opportunities to develop their teaching skills. One teaching activity must be completed each year while in the program.</p>
+<p><strong>Fellows have access to additional funds</strong> that can support computer equipment, travel, books, and other expenses. Check with Joyce to see if particular expenses are allowable on the grant.</p>
+<p><strong>A fellow’s stipend level is raised to $30K permanently</strong>, but read on for details. The funding for students in the program works as follows:</p>
+<p>Every year, the student must submit a FAFSA form to determine their financial need for the coming year. Only students that demonstrate a significant financial need will be admitted to the program. As long as funds are available and the student demonstrates “financial need”, the GAANN grant will pay a portion of the student’s stipend in each semester. The amount that the grant will pay varies widely and depends upon the student’s individual situation.</p>
+<p>The remainder of the student’s stipend will be paid as follows:</p>
+<ul>
+<li>When serving as a TA, the remainder of the stipend will be paid by GA funds for that semester.</li>
+<li>When serving as an RA, the remainder of the stipend will be paid by the advisor for that semester.</li>
+<li>When teaching a regular CSE course, the department will contribute funds equivalent to that of an adjunct instructor, and the advisor will contribute the remainder, if any.</li>
+</ul>
+<h3>Interpretation</h3>
+<p>This document lays out the expectations of students and their advisors while supported by GAANN fellowships from the U.S. Department of Education. While we have made an effort to anticipate a variety of problems and situations, this document may not address all possible situations. The PI on the GAANN grant will make any final determinations for situations not covered in this document.</p>
+<p>Last revised 16 October 2012<br />Prof. Douglas Thain, Director of Graduate Studies</p>
+            
+        </div>
+    
+    
+
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+
+            </td>
+            
+
+            
+                
+                
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+    <a href="http://www.nd.edu" class="mark" title="University of Notre Dame" target="_new"><img src="undlogo-31.png" alt="University of Notre Dame" /></a>
+    <p><a href="http://www.nd.edu/copyright/" title="Copyright" target="_new">Copyright</a> &copy; <span>2016</span><br />
+    The <a title="Home" href="http://cse.nd.edu">Department of Computer Science and Engineering</a> at the <a href="http://www.nd.edu" title="University of Notre Dame" target="_new">University of Notre Dame</a><br />
+    E-mail: <a href="mailto:cse@cse.nd.edu" title="College of Engineering E-mail">cse@cse.nd.edu</a></p>
+</div>
+
+<script type="text/javascript"
+src="/js/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://cse.nd.edu/spinner.gif" /></div>
+</body>
+</html>
+
+

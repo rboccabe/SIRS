@@ -1,0 +1,1405 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://cse.nd.edu/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://cse.nd.edu/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-cachekey5311.css" title="jQuery CSS" />
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery.select2uislider-cachekey4754.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/base-cachekey1847.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/dropdown-menu-cachekey4039.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneKss-cachekey1587.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.discussion.stylesheetsdiscussion-cachekey2492.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.jquerytools.dateinput-cachekey8245.css);</style>
+        <!--[if lte IE 7]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://cse.nd.edu/portal_css/ND%20Theme/IEFixes-cachekey9920.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0248.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.dexterity.overlays-cachekey3343.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey6679.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/visualeditor-cachekey5643.css" />
+    <style type="text/css">@import url(http://cse.nd.edu/portal_css/ND%20Theme/slideshow-cachekey0067.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8752.css);</style>
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/faceted_view-cachekey0307.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneCustom-cachekey9913.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/cseStyles-cachekey5695.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/leastCenterStyles-cachekey3180.css" />
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.js.chosenchosen-cachekey4409.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/labStyles-cachekey2020.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://cse.nd.edu/portal_css/ND%20Theme/print-cachekey0402.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/brandbarOverrideStyles-cachekey4132.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://cse.nd.edu/portal_kss/ND%20Theme/at-cachekey5249.kss" />
+  
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cachekey5527.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery.tagcloud-cachekey4878.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/table_sorter-cachekey4070.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcedropdown-menu-cachekey8189.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.app.discussion.javascriptscomments-cachekey7910.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/iefixes-cachekey9038.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey1034.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/basic-cachekey2230.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cycle-cachekey0203.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery-ui.min-cachekey8119.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery.jqEasyCharCounter.min-cachekey4265.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/cseAnalytics-cachekey7388.js"></script>
+
+
+<title>Department of Computer Science and Engineering</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://cse.nd.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://cse.nd.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://cse.nd.edu" title="Front page" />
+
+    <link rel="contents" href="http://cse.nd.edu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://cse.nd.edu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-landing_view portaltype-nd-content-department navroot-cse" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <div id="brandBar">
+		<p class="undBrand"><a href="http://www.nd.edu/" target="_blank" title="University of Notre Dame">UNIVERSITY of NOTRE DAME</a></p>
+		<p class="orgBrand"><a href="http://engineering.nd.edu/" title="College of Engineering">COLLEGE of ENGINEERING</a></p>
+                <p class="orgBrand provost"><a href="http://provost.nd.edu/" title="Office of the Provost">OFFICE of the PROVOST</a></p>
+	</div>
+	<p class="hiddenStructure">
+  <a accesskey="2" href="http://cse.nd.edu/#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://cse.nd.edu/#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+
+    <a id="portal-logo" title="Home" accesskey="1" href="http://cse.nd.edu">
+       <span>Department of Computer Science and Engineering</span>
+       
+    </a>
+    
+    
+
+
+
+<div id="portal-searchbox"> 
+                 
+     <form name="searchform" id="searchGadget_form" action="http://cse.nd.edu/search">
+       <div class="LSBox">
+           <label class="hiddenStructure" for="searchGadget">Search Site</label>
+        
+            <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+                   
+            <button type="submit" class="searchButton" id="search-button">Search</button>
+        
+            <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div>
+        </div>
+    </div></form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://cse.nd.edu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+	<!--<dt>
+		<a href="#">Contact</a>
+	<a href="#">Directory</a>
+	<a title="Home"
+	   accesskey="1"
+	   tal:attributes="href view/navigation_root_url"
+	   i18n:domain="plone"
+	   i18n:attributes="title">Home</a></dt>-->
+  <dt id="anon-personalbar">
+    
+        <a href="http://cse.nd.edu/login" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="selected"><a href="http://cse.nd.edu" class="plain" title="">Home</a></li><li id="portaltab-academics" class="plain"><a href="http://cse.nd.edu/academics" class="plain" title="">ACADEMICS</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published" title="">
+            
+            Current Courses
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published" title="">
+            
+            Course Catalog
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published" title="">
+            
+            Course Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published" title="">
+            
+            Information for Undergraduates
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published" title="">
+            
+            Information for Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published" title="">
+            
+            Honor Code
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-research" class="plain"><a href="http://cse.nd.edu/research" class="plain" title="">RESEARCH</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published" title="">
+            
+            Research Labs
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published" title="">
+            
+            Research Areas
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published" title="">
+            
+            Current Projects
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published" title="">
+            
+            Tech Reports
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-people" class="plain"><a href="http://cse.nd.edu/people" class="plain" title="">PEOPLE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published" title="">
+            
+            Faculty
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published" title="">
+            
+            Staff
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published" title="">
+            
+            Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published" title="">
+            
+            PhD Alumni
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published" title="">
+            
+            Directory
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-resources" class="plain"><a href="http://cse.nd.edu/resources" class="plain" title="">RESOURCES</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/computer-facilities" class="state-published" title="">
+            
+            Computer Facilities
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/installed-software" class="state-published" title="">
+            
+            Installed Software
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/current-cse-newsletter" class="state-published" title="">
+            
+            Current CSE Newsletter
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/newsletter-archives" class="state-published" title="">
+            
+            Newsletter Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/university-resources" class="state-published" title="">
+            
+            University Resources
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-join-us" class="plain"><a href="http://cse.nd.edu/join-us" class="plain" title="">JOIN US</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/graduate" class="state-published" title="">
+            
+            Graduate Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/undergrad-admissions" class="state-published" title="">
+            
+            Undergrad Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/faculty-job-openings" class="state-published" title="">
+            
+            Faculty Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/staff-job-openings" class="state-published" title="">
+            
+            Staff Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/student-job-openings" class="state-published" title="">
+            
+            Student Job Openings
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-about" class="plain"><a href="http://cse.nd.edu/about" class="plain" title="">ABOUT</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/about/academic-mission" class="state-published" title="">
+            
+            Academic Mission
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/department-news" class="state-published" title="">
+            
+            Department News
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/careers-in-cse" class="state-published" title="">
+            
+            Careers in CSE
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li></ul>
+
+
+</div>
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <!--<span id="breadcrumbs-you-are-here" i18n:translate="you_are_here">You
+are here:</span>-->
+    <span id="breadcrumbs-home">
+        <a href="http://cse.nd.edu">Home</a>
+        
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+    
+        
+        <!--<h2 tal:content="context/Title">Welcome</h2>-->
+        
+        
+  
+  
+    <script type="text/javascript" charset="utf-8">
+      var jq = jQuery;
+      jq(document).ready(function(){
+            jq("#slideshow").css("visibility","visible");
+            var randomSlide = jq('#slideshow img').length;
+            jq('#slideshow').cycle({
+                fx: 'fade',
+                pause: 0,
+                timeout: 7000,
+                speed: 1000,
+                startingSlide: Math.floor(Math.random()*randomSlide),
+				cleartype: true,
+				cleartypeNoBg: true,
+				pager:  '#navNumbers'
+            });
+            
+            <!--slidewidth = <span tal:replace="python:props['slideshow_width']" />;-->
+            slideheight = 305;
+            
+            jq(".imageCaption").css({"width":"755px"});
+        });
+    </script>
+	<div id="slideshowContainer">
+		<div id="slideshow" class="pics" style="width:755px;height:305px"> 
+        	
+          	<div class="slideContainer">
+              	
+                				<div class="imageCaption">
+                    				    <span class="imageTitle">
+                    				    <a href="http://cse.nd.edu/highlights/nd-robotics-research-fact-vs.-fiction">Robotics Research</a>
+                    				    </span>
+                    				<span class="imageDescrip">Faculty and students at the University are working to bridge the gap between intelligent systems that work in the lab and how robots can aid real people in the real world.</span>
+                				</div>
+                				<a href="http://cse.nd.edu/highlights/nd-robotics-research-fact-vs.-fiction">
+                    			<img title="Robotics Research" alt="Robotics Research" src="http://cse.nd.edu/slideshow-folder/robotics-research" />
+                			</a>
+              			
+          			</div>
+        		
+        	
+          	<div class="slideContainer">
+              	
+                				<div class="imageCaption">
+                    				    <span class="imageTitle">
+                    				    <a href="http://cse.nd.edu/slideshow-folder/busyyear2014">2014: A Very Productive Year</a>
+                    				    </span>
+                    				<span class="imageDescrip">This past year was a banner year for our faculty receiving awards; these ranged from fellow distinctions to young researcher honors and more; five faculty in the CSE department — all in different stages of their careers — received such recognition.</span>
+                				</div>
+                				<a href="http://cse.nd.edu/slideshow-folder/busyyear2014">
+                    			<img title="2014: A Very Productive Year" alt="2014: A Very Productive Year" src="http://cse.nd.edu/slideshow-folder/2014-a-very-productive-year" />
+                			</a>
+              			
+          			</div>
+        		
+        	
+          	<div class="slideContainer">
+              	
+                				<div class="imageCaption">
+                    				    <span class="imageTitle">
+                    				    <a href="http://cse.nd.edu/slideshow-folder/poellabauerresearch">Notre Dame Researchers Scoring a Win-Win with Novel Set of Concussion Diagnostic Tools</a>
+                    				    </span>
+                    				<span class="imageDescrip">The potential impact on the health and well-being of individuals with brain injuries are numerous. These individuals might display a range of symptoms — such as headaches, depression, loss of memory and loss of brain function — that may persist for weeks or months. The effects of brain injuries are most devastating when they remain unrecognized for long periods of time. </span>
+                				</div>
+                				<a href="http://cse.nd.edu/slideshow-folder/poellabauerresearch">
+                    			<img title="Notre Dame Researchers Scoring a Win-Win with Novel Set of Concussion Diagnostic Tools" alt="Notre Dame Researchers Scoring a Win-Win with Novel Set of Concussion Diagnostic Tools" src="http://cse.nd.edu/slideshow-folder/concussionresearch" />
+                			</a>
+              			
+          			</div>
+        		
+        	
+          	<div class="slideContainer">
+              	
+                				<div class="imageCaption">
+                    				    <span class="imageTitle">
+                    				    <a href="http://cse.nd.edu/slideshow-folder/medical-imaging">Medical Imaging Technologies: Views to a Cure</a>
+                    				    </span>
+                    				<span class="imageDescrip">Emerging imaging technologies are being used to improve the quality of images available for more accurate diagnoses and treatment, assess radiation dosing, and find causes and cures for a variety of diseases.</span>
+                				</div>
+                				<a href="http://cse.nd.edu/slideshow-folder/medical-imaging">
+                    			<img title="Medical Imaging Technologies: Views to a Cure" alt="Medical Imaging Technologies: Views to a Cure" src="http://cse.nd.edu/slideshow-folder/medical-imaging-technologies-views-to-a-cure" />
+                			</a>
+              			
+          			</div>
+        		
+        	
+          	<div class="slideContainer">
+              	
+                				<div class="imageCaption">
+                    				    <span class="imageTitle">
+                    				    <a href="http://cse.nd.edu/slideshow-folder/much-more-than-a-game">Much More than a Game: New Applications for the Wii</a>
+                    				    </span>
+                    				<span class="imageDescrip">The question asked of computer science and engineering students taking an innovative course in Wii programming was, “Can we leverage the low-cost nature of the Wii Balance Board with custom software to deliver a better, objective balance rehab for victims of stroke?” The answer was, “yes.”
+</span>
+                				</div>
+                				<a href="http://cse.nd.edu/slideshow-folder/much-more-than-a-game">
+                    			<img title="Much More than a Game: New Applications for the Wii" alt="Much More than a Game: New Applications for the Wii" src="http://cse.nd.edu/slideshow-folder/much-more-than-a-game-new-applications-for-the-wii" />
+                			</a>
+              			
+          			</div>
+        		
+        	
+          	<div class="slideContainer">
+              	
+                				<div class="imageCaption">
+                    				    <span class="imageTitle">
+                    				    <a href="http://cse.nd.edu/slideshow-folder/questionable-observer">Notre Dame Computer Vision Experts Develop “Questionable Observer Detector”</a>
+                    				    </span>
+                    				<span class="imageDescrip">A team biometrics experts from the Department of Computer Science and Engineering is developing a crime-fighting tool that can help law enforcement officials identify suspicious individuals at crime scenes.</span>
+                				</div>
+                				<a href="http://cse.nd.edu/slideshow-folder/questionable-observer">
+                    			<img title="Notre Dame Computer Vision Experts Develop “Questionable Observer Detector”" alt="Notre Dame Computer Vision Experts Develop “Questionable Observer Detector”" src="http://cse.nd.edu/slideshow-folder/notre-dame-computer-vision-experts-develop-201cquestionable-observer-detector201d" />
+                			</a>
+              			
+          			</div>
+        		
+        	
+          	<div class="slideContainer">
+              	
+                				<div class="imageCaption">
+                    				    <span class="imageTitle">
+                    				    <a href="http://cse.nd.edu/slideshow-folder/mind-wandering">Tracking Mind Wandering During Reading</a>
+                    				    </span>
+                    				<span class="imageDescrip">Mind wandering and zoning out are common phenomena that people experience while performing a range of everyday activities including reading. We are developing systems that automatically detect when a person is mind wandering by tracking patterns in their eye movements during natural reading.</span>
+                				</div>
+                				<a href="http://cse.nd.edu/slideshow-folder/mind-wandering">
+                    			<img title="Tracking Mind Wandering During Reading" alt="Tracking Mind Wandering During Reading" src="http://cse.nd.edu/slideshow-folder/tracking-mind-wandering-during-reading" />
+                			</a>
+              			
+          			</div>
+        		
+        	
+          	<div class="slideContainer">
+              	
+                				<div class="imageCaption">
+                    				    <span class="imageTitle">
+                    				    <a href="http://cse.nd.edu/complex-networks">Network Biology: Computational Approaches for Understanding the Cell </a>
+                    				    </span>
+                    				<span class="imageDescrip">The Complex Networks Lab develops novel computational methods for network analysis and uses them to study cellular functioning and molecular causes of disease from biological networks, in hope to suggest novel candidates for therapeutic intervention.
+</span>
+                				</div>
+                				<a href="http://cse.nd.edu/complex-networks">
+                    			<img title="Network Biology: Computational Approaches for Understanding the Cell " alt="Network Biology: Computational Approaches for Understanding the Cell " src="http://cse.nd.edu/slideshow-folder/network-biology-computational-approaches-for-understanding-the-cell" />
+                			</a>
+              			
+          			</div>
+        		
+    		</div>
+			<div id="nav">
+        		<span id="navNumbers"></span>
+				<div class="corner"></div>
+    		</div>
+	</div>
+  
+
+
+		<div class="bodyText welcomeText">
+			 <h4>Welcome to the <span>Department of Computer Science and Engineering</span></h4>
+             <p>Teaching and research efforts in the department encompass algorithms and theory; computer vision, artificial intelligence, and data mining; bioinformatics and computational biology; security; Web services; computer architectures; software engineering; and distributed systems and grid computing.<br /><br /></p>
+        </div>
+      
+        <table id="landing-columns" cellspacing="0">
+            <tbody>
+            <tr>
+              <td id="portal-column-one">
+                <div class="visualPadding">
+                  
+                    
+<div id="portletwrapper-6e642e6c616e64696e676c6566740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a696d706f7274616e742d6c696e6b73" class="portletWrapper kssattr-portlethash-6e642e6c616e64696e676c6566740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a696d706f7274616e742d6c696e6b73">
+<dl class="portlet portletStaticText portlet-static-important-links">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           Important Links
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <ul class="navigation">
+<li><span class="external-link"><a class="external-link" href="http://www.youtube.com/playlist?list=PLy8BJXti_TvawJhGZm0rZbCsvlbwqhWJZ">CSE Highlight Reel</a></span></li>
+<li><span class="external-link"><span class="external-link"><a class="external-link" href="http://engineering.nd.edu/departments/cse/join-us/graduate-admissions">Apply to the Graduate Program</a></span></span></li>
+<li><a class="external-link" href="http://cse.nd.edu/academics/grads">Graduate Programs</a></li>
+<li><a class="external-link" href="http://engineering.nd.edu/departments/cse/academics/info-for-undergrads">Undergraduate Programs</a></li>
+<li><a class="external-link" href="http://cse.nd.edu/computing-cost-effective-healthcare">Cross-Cutting Theme: Computing Cost-Effective Healthcare</a></li>
+<li><a class="external-link" href="http://cse.nd.edu/academics/current-courses">Spring 2016 Courses</a></li>
+<li><a class="external-link" href="http://cse.nd.edu/academics/course-archives/fall-2015-courses">Fall 2015 Courses</a></li>
+<li><a class="external-link" href="http://engineering.nd.edu/departments/cse/resources/current-cse-newsletter"><span class="external-link"><span class="external-link"><span class="external-link">Current Newsletter</span></span></span></a></li>
+<li><a class="external-link" href="http://engineering.nd.edu/departments/cse/directory/">Directory</a></li>
+</ul>
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+<div id="portletwrapper-6e642e6c616e64696e676c6566740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a7068642d616c756d6e69" class="portletWrapper kssattr-portlethash-6e642e6c616e64696e676c6566740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a7068642d616c756d6e69">
+<dl class="portlet portletStaticText portlet-static-phd-alumni">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           PhD Alumni
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <ul class="navigation">
+<li><a class="external-link" href="http://engineering.nd.edu/departments/cse/people/phd-alumni"><span class="external-link">More Information</span></a></li>
+</ul>
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+<div id="portletwrapper-6e642e6c616e64696e676c6566740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a776861742d6d6f73742d7363686f6f6c732d646f6e742d7465616368" class="portletWrapper kssattr-portlethash-6e642e6c616e64696e676c6566740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a776861742d6d6f73742d7363686f6f6c732d646f6e742d7465616368">
+<dl class="portlet portletStaticText portlet-static-what-most-schools-dont-teach">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           What most schools don't teach
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <ul class="grantsPublications" style="margin-top:-13px; ">
+<li style="margin:0; padding:0; border:none; "><a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=nKIu9yen5nc"><img src="http://cse.nd.edu/whatteachers.jpg" alt="What most schools don’t teach, a video by code.org" title="whatteachers.jpg" width="185px" /></a>
+<p style="text-align:right; ">A video by <strong>code.org</strong></p>
+</li>
+</ul>
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+<div id="portletwrapper-6e642e6c616e64696e676c6566740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a666565646261636b" class="portletWrapper kssattr-portlethash-6e642e6c616e64696e676c6566740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a666565646261636b">
+<dl class="portlet portletStaticText portlet-static-feedback">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>
+           Feedback
+        </span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        <p>Help us make your experience on this site even better. We would appreciate your<a class="mail-link" href="mailto:cse@cse.nd.edu?subject=Feedback about the Department of Computer Science and Engineering website"> feedback</a>.</p>
+        
+            <span class="portletBottomLeft"></span>
+            <span class="portletBottomRight"></span>
+        
+    </dd>
+    
+    
+
+</dl>
+</div>
+
+
+
+
+                  
+
+                  
+                </div>
+              </td>
+        
+              <td id="center">
+                  
+                    
+<div id="portletwrapper-6e642e6c616e64696e676d6964646c650a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a726563656e742d6e6577732d706f72746c6574" class="portletWrapper kssattr-portlethash-6e642e6c616e64696e676d6964646c650a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a726563656e742d6e6577732d706f72746c6574">
+
+<dl class="portlet portletRecentNewsPortlet">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span class="portletTitle">
+           News
+        </span>
+        <a class="moreLink" href="http://cse.nd.edu/news">
+          &gt;More News
+        </a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        
+                
+                    
+                                    <a class="newsListingImageContainer" href="http://cse.nd.edu/news/milestone-yuxiao-dong-oral-candidacy">
+                                        
+                                        <img src="http://cse.nd.edu/news/milestone-yuxiao-dong-oral-candidacy/image_newslisting" alt="Milestone - Yuxiao Dong, Oral Candidacy" title="Milestone - Yuxiao Dong, Oral Candidacy" />
+                                    </a>
+                                    <div class="storyContainer">
+                                        <a class="newsTitle" href="http://cse.nd.edu/news/milestone-yuxiao-dong-oral-candidacy">Milestone - Yuxiao Dong, Oral Candidacy</a><br />
+                                        <span class="publishDate">January 22, 2016</span><br />
+                                        <div class="itemAffiliation">
+                                            
+                                                <img src="http://cse.nd.edu/@@images/00ceb5ea-34c9-4e2d-bed4-c75694150aac.jpeg" alt="Department of Computer Science and Engineering" title="Department of Computer Science and Engineering" height="10" width="10" />
+                                                <a class="event_container_link" href="http://cse.nd.edu">Department of Computer Science and Engineering</a>
+                                            
+                                        </div>
+                                        <p class="teaser">Proposal Defense</p>
+                                    </div>
+                                    <div style="clear:both;"></div>
+                    
+                
+        
+        
+                
+                    
+                                    <a class="newsListingImageContainer" href="http://engineering.nd.edu/news-publications/engineering-newswire/blending-psychology-and-computer-science-professor-seeks-to-build-technologies-that-help-humans-learn">
+                                        
+                                        <img src="http://engineering.nd.edu/news-publications/engineering-newswire/blending-psychology-and-computer-science-professor-seeks-to-build-technologies-that-help-humans-learn/image_newslisting" alt="Blending Psychology and Computer Science, Professor Seeks to Build Technologies That Help Humans Learn" title="Blending Psychology and Computer Science, Professor Seeks to Build Technologies That Help Humans Learn" />
+                                    </a>
+                                    <div class="storyContainer">
+                                        <a class="newsTitle" href="http://engineering.nd.edu/news-publications/engineering-newswire/blending-psychology-and-computer-science-professor-seeks-to-build-technologies-that-help-humans-learn">Blending Psychology and Computer Science, Professor Seeks to Build Technologies That Help Humans Learn</a><br />
+                                        <span class="publishDate">January 14, 2016</span><br />
+                                        <div class="itemAffiliation">
+                                            
+                                                <img src="http://engineering.nd.edu/@@images/8f6ff21a-89f3-4616-b0b2-e9cc782bb9ab.jpeg" alt="College of Engineering" title="College of Engineering" height="10" width="10" />
+                                                <a class="event_container_link" href="http://engineering.nd.edu">College of Engineering</a>
+                                            
+                                        </div>
+                                        <p class="teaser">Assistant Professor Sidney D’Mello is tackling research at the intersection of cognition and emotion during complex learning and problem-solving. Through several projects he’s leading or collaborating on, he is creating real-time computational models  with the goal of making computers more humanlike so they can guide us in learning — at work, at school, and in daily life.</p>
+                                    </div>
+                                    <div style="clear:both;"></div>
+                    
+                
+        
+        
+                
+                    
+                                    <a class="newsListingImageContainer" href="http://cse.nd.edu/news/weninger-wins-inaugural-rome-global-gateway-research-award">
+                                        
+                                        <img src="http://cse.nd.edu/news/weninger-wins-inaugural-rome-global-gateway-research-award/image_newslisting" alt="Weninger Wins Inaugural Rome Global Gateway Research Award" title="Weninger Wins Inaugural Rome Global Gateway Research Award" />
+                                    </a>
+                                    <div class="storyContainer">
+                                        <a class="newsTitle" href="http://cse.nd.edu/news/weninger-wins-inaugural-rome-global-gateway-research-award">Weninger Wins Inaugural Rome Global Gateway Research Award</a><br />
+                                        <span class="publishDate">January  8, 2016</span><br />
+                                        <div class="itemAffiliation">
+                                            
+                                                <img src="http://cse.nd.edu/@@images/00ceb5ea-34c9-4e2d-bed4-c75694150aac.jpeg" alt="Department of Computer Science and Engineering" title="Department of Computer Science and Engineering" height="10" width="10" />
+                                                <a class="event_container_link" href="http://cse.nd.edu">Department of Computer Science and Engineering</a>
+                                            
+                                        </div>
+                                        <p class="teaser"></p>
+                                    </div>
+                                    <div style="clear:both;"></div>
+                    
+                
+        
+    </dd>
+
+    <dd class="portletFooter">
+        <span class="portletBottomLeft"></span>
+        <a href="http://cse.nd.edu/news">&gt;View more News</a>
+        <span class="portletBottomRight"></span>
+    </dd>
+
+</dl>
+
+</div>
+
+<div id="portletwrapper-6e642e6c616e64696e676d6964646c650a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a726563656e742d6576656e74732d706f72746c6574" class="portletWrapper kssattr-portlethash-6e642e6c616e64696e676d6964646c650a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a726563656e742d6576656e74732d706f72746c6574">
+</div>
+
+<div id="portletwrapper-6e642e6c616e64696e676d6964646c650a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a7570636f6d696e672d73656d696e6172732d706f72746c6574" class="portletWrapper kssattr-portlethash-6e642e6c616e64696e676d6964646c650a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a7570636f6d696e672d73656d696e6172732d706f72746c6574">
+
+    <dl class="portlet portletRecentEventsPortlet portletRecentSeminarsPortlet">
+
+        <dt class="portletHeader">
+            <span class="portletTopLeft"></span>
+            <span class="portletTitle">
+            Seminars
+            </span>
+            <a class="moreLink" href="http://cse.nd.edu/seminars">
+              &gt;All Seminars
+            </a>
+            <span class="portletTopRight"></span>
+        </dt>
+
+        <dd class="portletItem">
+            
+			<!--<div class="storyContainer"
+                 tal:define="has_org_container seminar_info/has_org_container">-->
+                
+                
+                    <div class="eventDate">
+                        <span class="month">Jan</span>
+                        <span class="day">26</span>
+                    </div>
+                    <div class="storyContainer">
+                        <a href="http://cse.nd.edu/seminars/cse-seminar-series-denis-parra">Denis Parra - Beyond Ratings and Ranked Lists: Controllable User Interfaces for Recommender Systems</a>
+                        <div class="itemAffiliation">
+                            
+                               <img src="http://cse.nd.edu/@@images/00ceb5ea-34c9-4e2d-bed4-c75694150aac.jpeg" alt="Department of Computer Science and Engineering" title="Department of Computer Science and Engineering" height="10" width="10" />
+                                <a class="event_container_link" href="http://cse.nd.edu">Department of Computer Science and Engineering</a>
+                            
+                        </div>
+                    </div>
+                    <div style="clear:both;"></div>
+                
+                
+            <!--</div>-->
+		
+            
+			<!--<div class="storyContainer"
+                 tal:define="has_org_container seminar_info/has_org_container">-->
+                
+                
+                    <div class="eventDate">
+                        <span class="month">Jan</span>
+                        <span class="day">28</span>
+                    </div>
+                    <div class="storyContainer">
+                        <a href="http://cse.nd.edu/seminars/cse-seminar-series-cindi-fuja-1">Cindi Fuja - The Startup of You: How to Approach Your Career Like An Entrepreneur</a>
+                        <div class="itemAffiliation">
+                            
+                               <img src="http://cse.nd.edu/@@images/00ceb5ea-34c9-4e2d-bed4-c75694150aac.jpeg" alt="Department of Computer Science and Engineering" title="Department of Computer Science and Engineering" height="10" width="10" />
+                                <a class="event_container_link" href="http://cse.nd.edu">Department of Computer Science and Engineering</a>
+                            
+                        </div>
+                    </div>
+                    <div style="clear:both;"></div>
+                
+                
+            <!--</div>-->
+		
+            
+			<!--<div class="storyContainer"
+                 tal:define="has_org_container seminar_info/has_org_container">-->
+                
+                
+                    <div class="eventDate">
+                        <span class="month">Feb</span>
+                        <span class="day"> 4</span>
+                    </div>
+                    <div class="storyContainer">
+                        <a href="http://cse.nd.edu/seminars/cse-seminar-series-tbd-kb-2">Evangelos Papalexakis - Big Signal Processing for Multi-Aspect Data Science</a>
+                        <div class="itemAffiliation">
+                            
+                               <img src="http://cse.nd.edu/@@images/00ceb5ea-34c9-4e2d-bed4-c75694150aac.jpeg" alt="Department of Computer Science and Engineering" title="Department of Computer Science and Engineering" height="10" width="10" />
+                                <a class="event_container_link" href="http://cse.nd.edu">Department of Computer Science and Engineering</a>
+                            
+                        </div>
+                    </div>
+                    <div style="clear:both;"></div>
+                
+                
+            <!--</div>-->
+		
+        </dd>
+
+        <dd class="portletFooter">
+            <span class="portletBottomLeft"></span>
+            <span>
+               <a href="http://cse.nd.edu/seminars">&gt;View more Seminars</a>
+            </span>
+            <span class="portletBottomRight"></span>
+        </dd>
+    </dl>
+
+
+</div>
+
+
+
+
+                  
+                  
+                  
+                  
+              </td>
+              
+              <td id="portal-column-two">
+                <div class="visualPadding">
+                  
+                    
+<div id="portletwrapper-6e642e6c616e64696e6772696768740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a666163756c7479" class="portletWrapper kssattr-portlethash-6e642e6c616e64696e6772696768740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a666163756c7479">
+<dl class="portlet portletFeaturedFacultyMemberPortlet portletFeaturedPeople">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <span>Faculty<br />Spotlight</span>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem odd">
+        
+
+        <div class="member-popup">
+    <div id="popupHeader">
+        <a class="siteTitle" href="http://engineering.nd.edu">College of Engineering</a>
+        <span class="close">close button</span>
+    </div>
+    <img src="backgrounds.png" width="389px" height="6px" alt="headerbottom" style="margin:0 0 20px 16px;" />
+    <div id="popupContent">
+        <h1>
+            <a href="http://engineering.nd.edu/profiles/semrich">Scott Emrich</a>
+        </h1>
+        <div class="eventDetails">
+            
+                <p class="portrait">
+                    <img src="http://engineering.nd.edu/profiles/semrich/@@images/9ac24340-9904-4e50-becf-2bbfe255e56a.jpeg" alt="Scott Emrich" title="Scott Emrich" height="133" width="93" />
+                </p>
+            
+            <div class="spotlightInfo">
+                <a class="actionButton" href="http://engineering.nd.edu/profiles/semrich">VIEW FULL PROFILE</a>
+                
+                    <strong>Email:</strong>
+                    <a href="mailto:semirch@nd.edu">semirch@nd.edu</a><br />
+                
+                <strong>Phone:</strong> 574-631-0353<br />
+                
+                    <strong>Website:</strong>
+                    <a href="http://www.nd.edu/~semrich/">http://www.nd.edu/~semrich/</a><br />
+                
+                
+                    <strong>Office:</strong>
+                    211B Cushing Hall<br />
+                
+                <!-- curriculum Vitae -->
+                
+            </div>
+        </div>
+        <div class="memberInfo">
+            <div class="affiliations">
+                <h3>Affiliations</h3>
+                <div class="main-affiliation">
+                    <span class="organisation">
+                       <a href="http://cse.nd.edu">Department of Computer Science and Engineering</a></span>
+                    <span class="position" style="font-weight:normal;">Research Associate Professor</span>
+                </div>
+                    <div class="other-affiliation">
+                        <span class="organisation">
+                           <a href="http://engineering.nd.edu">College of Engineering</a></span>
+                        <span class="position">Research Associate Professor</span>
+                    </div>
+            </div>
+            
+                <div class="memberInfo">
+                     Computational biology, bioinformatics, and high-performance computing. 
+                </div>
+            
+            <a class="moreLink gallery" href="http://engineering.nd.edu/profiles/semrich">Click for more information about
+               Scott
+            </a>
+        </div>
+    </div>
+</div>
+
+        
+            <p class="portrait">
+                <img src="http://engineering.nd.edu/profiles/semrich/@@images/01b26179-9e0e-4ed5-b513-98c94115cef9.jpeg" alt="Scott Emrich" title="Scott Emrich" height="88" width="61" />
+            </p>
+        
+        <div class="affiliations">
+            <h4 class="featured-name">
+                <a href="http://engineering.nd.edu/profiles/semrich">Scott Emrich</a>
+            </h4>
+            <div class="main-affiliation">
+                <a class="organisation" href="http://cse.nd.edu">Department of Computer Science and Engineering</a>
+                <span class="position" style="font-weight:normal;">Research Associate Professor</span>
+            </div>
+
+                <div class="other-affiliation">
+                    <a class="organisation" href="http://engineering.nd.edu">College of Engineering</a>
+                    <span class="position" style="font-weight:normal">Research Associate Professor</span>
+                </div>
+        </div>
+        <div class="clear"></div>
+        
+            <div class="memberInfo">
+                 Computational biology, bioinformatics, and high-performance computing. 
+            </div>
+        
+        <a class="moreLink" href="http://engineering.nd.edu/profiles/semrich">&gt;Click to learn more</a>
+    </dd>
+</dl>
+</div>
+
+<div id="portletwrapper-6e642e6c616e64696e6772696768740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a63616c656e646172" class="portletWrapper kssattr-portlethash-6e642e6c616e64696e6772696768740a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a63616c656e646172">
+<dl class="portlet portletCalendar">
+
+    <dt class="portletHeader">
+        <span class="portletTopLeft"></span>
+        <a href="http://cse.nd.edu/seminars?month:int=12&amp;year:int=2015&amp;orig_query=" rel="nofollow" title="Previous month" id="calendar-previous" class="kssCalendarChange kssattr-year-2015 kssattr-month-12 calendarPrevious">&laquo;</a>
+
+        
+            January
+            2016
+        
+
+        <a href="http://cse.nd.edu/seminars?month:int=2&amp;year:int=2016&amp;orig_query=" rel="nofollow" title="Next month" id="calendar-next" class="kssCalendarChange kssattr-year-2016 kssattr-month-2 calendarNext">&raquo;</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem">
+        <table class="ploneCalendar" summary="Calendar">
+            <caption class="hiddenStructure">January</caption>
+            <thead>
+                <tr class="weekdays"><th scope="col">Su</th><th scope="col">Mo</th><th scope="col">Tu</th><th scope="col">We</th><th scope="col">Th</th><th scope="col">Fr</th><th scope="col">Sa</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td></td><td></td><td></td><td></td><td></td><td>1</td><td>2</td>
+                </tr>
+                <tr><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td>
+                </tr>
+                <tr><td>10</td><td>11</td><td>12</td><td>13</td><td class="event"><strong><a href="http://cse.nd.edu/search?review_state=published&amp;amp;start.query:record:list:date=2016-1-14+23%3A59%3A59&amp;start.range:record=max&amp;end.query:record:list:date=2016-1-14+00%3A00%3A00&amp;end.range:record=min" title="Jan 14, 2016
+ 15:30-17:00 Gail Murphy: Getting to Flow in Software Development">14</a></strong></td><td>15</td><td>16</td>
+                </tr>
+                <tr><td>17</td><td>18</td><td>19</td><td>20</td><td class="event"><strong><a href="http://cse.nd.edu/search?review_state=published&amp;amp;start.query:record:list:date=2016-1-21+23%3A59%3A59&amp;start.range:record=max&amp;end.query:record:list:date=2016-1-21+00%3A00%3A00&amp;end.range:record=min" title="Jan 21, 2016
+ 15:30-17:00 Jane Cleland-Huang: Towards Actionable and Accessible Software Analytics">21</a></strong></td><td class="event"><strong><a href="http://cse.nd.edu/search?review_state=published&amp;amp;start.query:record:list:date=2016-1-22+23%3A59%3A59&amp;start.range:record=max&amp;end.query:record:list:date=2016-1-22+00%3A00%3A00&amp;end.range:record=min" title="Jan 22, 2016
+ 10:00-12:00 Oral Candidacy - Yuxiao Dong">22</a></strong></td><td>23</td>
+                </tr>
+                <tr><td>24</td><td class="todaynoevent"><strong>25</strong></td><td class="event"><strong><a href="http://cse.nd.edu/search?review_state=published&amp;amp;start.query:record:list:date=2016-1-26+23%3A59%3A59&amp;start.range:record=max&amp;end.query:record:list:date=2016-1-26+00%3A00%3A00&amp;end.range:record=min" title="Jan 26, 2016
+ 15:30-17:00 Denis Parra - Beyond Ratings and Ranked Lists: Controllable User Interfaces for Recommender Systems">26</a></strong></td><td>27</td><td class="event"><strong><a href="http://cse.nd.edu/search?review_state=published&amp;amp;start.query:record:list:date=2016-1-28+23%3A59%3A59&amp;start.range:record=max&amp;end.query:record:list:date=2016-1-28+00%3A00%3A00&amp;end.range:record=min" title="Jan 28, 2016
+ 15:30-17:00 Cindi Fuja - The Startup of You: How to Approach Your Career Like An Entrepreneur">28</a></strong></td><td>29</td><td>30</td>
+                </tr>
+                <tr><td>31</td><td></td><td></td><td></td><td></td><td></td><td></td>
+                </tr>
+            </tbody>
+
+        </table>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+                  
+
+                  
+                </div>
+              </td>
+              
+          </tr></tbody>
+       </table>
+        
+        
+    
+
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+
+            </td>
+            
+
+            
+                
+                
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+    <a href="http://www.nd.edu" class="mark" title="University of Notre Dame" target="_new"><img src="undlogo-31.png" alt="University of Notre Dame" /></a>
+    <p><a href="http://www.nd.edu/copyright/" title="Copyright" target="_new">Copyright</a> &copy; <span>2016</span><br />
+    The <a title="Home" href="http://cse.nd.edu">Department of Computer Science and Engineering</a> at the <a href="http://www.nd.edu" title="University of Notre Dame" target="_new">University of Notre Dame</a><br />
+    E-mail: <a href="mailto:cse@cse.nd.edu" title="College of Engineering E-mail">cse@cse.nd.edu</a></p>
+</div>
+
+<script type="text/javascript"
+src="/js/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://cse.nd.edu/spinner.gif" /></div>
+</body>
+</html>
+
+

@@ -1,0 +1,1015 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://cse.nd.edu/research/current-projects" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://cse.nd.edu/research/current-projects/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-cachekey5311.css" title="jQuery CSS" />
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery.select2uislider-cachekey4754.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/base-cachekey1847.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/dropdown-menu-cachekey4039.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneKss-cachekey1587.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.discussion.stylesheetsdiscussion-cachekey2492.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.jquerytools.dateinput-cachekey8245.css);</style>
+        <!--[if lte IE 7]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://cse.nd.edu/portal_css/ND%20Theme/IEFixes-cachekey9920.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0248.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.dexterity.overlays-cachekey3343.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey6679.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/visualeditor-cachekey5643.css" />
+    <style type="text/css">@import url(http://cse.nd.edu/portal_css/ND%20Theme/slideshow-cachekey0067.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8752.css);</style>
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/faceted_view-cachekey0307.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneCustom-cachekey9913.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/cseStyles-cachekey5695.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/leastCenterStyles-cachekey3180.css" />
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.js.chosenchosen-cachekey4409.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/labStyles-cachekey2020.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://cse.nd.edu/portal_css/ND%20Theme/print-cachekey0402.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/brandbarOverrideStyles-cachekey4132.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://cse.nd.edu/portal_kss/ND%20Theme/at-cachekey5249.kss" />
+  
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cachekey5527.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery.tagcloud-cachekey4878.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/table_sorter-cachekey4070.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcedropdown-menu-cachekey8189.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.app.discussion.javascriptscomments-cachekey7910.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/iefixes-cachekey9038.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey1034.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/basic-cachekey2230.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cycle-cachekey0203.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery-ui.min-cachekey8119.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery.jqEasyCharCounter.min-cachekey4265.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/cseAnalytics-cachekey7388.js"></script>
+
+
+<title>Current Projects &mdash; Department of Computer Science and Engineering</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://cse.nd.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://cse.nd.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://cse.nd.edu" title="Front page" />
+
+    <link rel="contents" href="http://cse.nd.edu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://cse.nd.edu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-document_view portaltype-document section-research navroot-cse" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <div id="brandBar">
+		<p class="undBrand"><a href="http://www.nd.edu/" target="_blank" title="University of Notre Dame">UNIVERSITY of NOTRE DAME</a></p>
+		<p class="orgBrand"><a href="http://engineering.nd.edu/" title="College of Engineering">COLLEGE of ENGINEERING</a></p>
+                <p class="orgBrand provost"><a href="http://provost.nd.edu/" title="Office of the Provost">OFFICE of the PROVOST</a></p>
+	</div>
+	<p class="hiddenStructure">
+  <a accesskey="2" href="http://cse.nd.edu/research/current-projects#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://cse.nd.edu/research/current-projects#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+
+    <a id="portal-logo" title="Home" accesskey="1" href="http://cse.nd.edu">
+       <span>Department of Computer Science and Engineering</span>
+       
+    </a>
+    
+    
+
+
+
+<div id="portal-searchbox"> 
+                 
+     <form name="searchform" id="searchGadget_form" action="http://cse.nd.edu/search">
+       <div class="LSBox">
+           <label class="hiddenStructure" for="searchGadget">Search Site</label>
+        
+            <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+                   
+            <button type="submit" class="searchButton" id="search-button">Search</button>
+        
+            <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div>
+        </div>
+    </div></form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://cse.nd.edu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+	<!--<dt>
+		<a href="#">Contact</a>
+	<a href="#">Directory</a>
+	<a title="Home"
+	   accesskey="1"
+	   tal:attributes="href view/navigation_root_url"
+	   i18n:domain="plone"
+	   i18n:attributes="title">Home</a></dt>-->
+  <dt id="anon-personalbar">
+    
+        <a href="http://cse.nd.edu/login" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://cse.nd.edu" class="plain" title="">Home</a></li><li id="portaltab-academics" class="plain"><a href="http://cse.nd.edu/academics" class="plain" title="">ACADEMICS</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published" title="">
+            
+            Current Courses
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published" title="">
+            
+            Course Catalog
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published" title="">
+            
+            Course Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published" title="">
+            
+            Information for Undergraduates
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published" title="">
+            
+            Information for Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published" title="">
+            
+            Honor Code
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-research" class="selected"><a href="http://cse.nd.edu/research" class="plain" title="">RESEARCH</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published" title="">
+            
+            Research Labs
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published" title="">
+            
+            Research Areas
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published" title="">
+            
+            Current Projects
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published" title="">
+            
+            Tech Reports
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-people" class="plain"><a href="http://cse.nd.edu/people" class="plain" title="">PEOPLE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published" title="">
+            
+            Faculty
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published" title="">
+            
+            Staff
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published" title="">
+            
+            Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published" title="">
+            
+            PhD Alumni
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published" title="">
+            
+            Directory
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-resources" class="plain"><a href="http://cse.nd.edu/resources" class="plain" title="">RESOURCES</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/computer-facilities" class="state-published" title="">
+            
+            Computer Facilities
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/installed-software" class="state-published" title="">
+            
+            Installed Software
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/current-cse-newsletter" class="state-published" title="">
+            
+            Current CSE Newsletter
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/newsletter-archives" class="state-published" title="">
+            
+            Newsletter Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/university-resources" class="state-published" title="">
+            
+            University Resources
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-join-us" class="plain"><a href="http://cse.nd.edu/join-us" class="plain" title="">JOIN US</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/graduate" class="state-published" title="">
+            
+            Graduate Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/undergrad-admissions" class="state-published" title="">
+            
+            Undergrad Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/faculty-job-openings" class="state-published" title="">
+            
+            Faculty Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/staff-job-openings" class="state-published" title="">
+            
+            Staff Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/student-job-openings" class="state-published" title="">
+            
+            Student Job Openings
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-about" class="plain"><a href="http://cse.nd.edu/about" class="plain" title="">ABOUT</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/about/academic-mission" class="state-published" title="">
+            
+            Academic Mission
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/department-news" class="state-published" title="">
+            
+            Department News
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/careers-in-cse" class="state-published" title="">
+            
+            Careers in CSE
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li></ul>
+
+
+</div>
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                <td id="portal-column-one">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="http://cse.nd.edu/research/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode">
+                <div>
+                   <a href="http://cse.nd.edu/research" class="contenttype-plone-site " title="">
+                   
+                   RESEARCH
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker section-research-labs">
+
+    
+
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published contenttype-document" title="">
+            
+            <span>Research Labs</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-research-areas">
+
+    
+
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published contenttype-document" title="">
+            
+            <span>Research Areas</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode section-current-projects">
+
+    
+
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published navTreeCurrentItem navTreeCurrentNode contenttype-document" title="">
+            
+            <span>Current Projects</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-tech-reports-1">
+
+    
+
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published contenttype-link" title="">
+            
+            <span>Tech Reports</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-seminars">
+
+    
+
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published contenttype-link" title="">
+            
+            <span>Seminars</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <!--<span id="breadcrumbs-you-are-here" i18n:translate="you_are_here">You
+are here:</span>-->
+    <span id="breadcrumbs-home">
+        <a href="http://cse.nd.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            &gt;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://cse.nd.edu/research">RESEARCH</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Current Projects</span>
+         
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Current Projects
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+                            
+                                
+                                
+            
+                
+            
+            
+        
+                            
+
+                            
+
+
+                            <div id="content-core">
+                                
+    
+        
+        <div class="" id="parent-fieldname-text">
+            <ul>
+<li><a href="http://cse.nd.edu/research/current-projects/#advanced_biometric_techniques" class="anchor-link">Advanced Biometric Techniques</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#Algorithms_software_" class="anchor-link">Algorithms and Software for Problems in Radiosurgery, Radiation Therapy, and Other Medical Applications</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#Anopheles_mosquito_genomics" class="anchor-link">Anopheles Mosquito Comparative Genomics</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#automatic_emotion_detection" class="anchor-link">Automatic Emotion Detection</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#compucell" class="anchor-link">Compucell: Computational Methods for Simulation of Biological Development</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#darts" class="anchor-link">DARTS - Design and Analysis of Real-Time Systems</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#data_intensive_abstractions" class="anchor-link">Data Intensive Abstractions for High End Biometric Applications</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#debugging_grids" class="anchor-link">Debugging Grids with Machine Learning Techniques</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#designing_ultra_dense_computers_with_QCAs" class="anchor-link">Designing Ultra-Dense Computers with QCAs</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#dynamic_data_driven_simulations" class="anchor-link">Dynamic Data-Driven Applications Simulation (WIPER)</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#environmental_simulation" class="anchor-link">Environmental Simulation (NOM)</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#experts" class="anchor-link">ExPERTS - Energy/Power Efficient, Real-Time system Scheduling</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#computational_discovery" class="anchor-link">From Computational Discovery to Privacy Preservation in Social, Product, and Health Networks</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#intelligent_edge_devices" class="anchor-link">Intelligent Edge Devices</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#judicious_resource_management" class="anchor-link">Judicious Resource Management</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#languages_systems_scientific_computing" class="anchor-link">Languages and Systems for Data Intensive Scientific Compuing</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#morph" class="anchor-link">Morph: Morphable Computer Architectures for Highly Energy-Aware Systems</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#pim" class="anchor-link">PIM: Processing in Memory</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#protomol" class="anchor-link">Protomol: Computational Methods for Simulation of Proteins</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#spirit" class="anchor-link">SPIRIT: Spontaneous Information and Resource Sharing</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#scalable_bioinformatics" class="anchor-link">Scalable Bioinformatics</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#secure_computational_outsourcing" class="anchor-link">Secure and Reliable Computation Outsourcing</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#sensor_networks" class="anchor-link">Sensor Networks</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#software_scientific_software" class="anchor-link">Software Engineering of Scientific Software</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#spanids" class="anchor-link">Spanids</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#open_source_software" class="anchor-link">Study of the Open Source Software Phenomenon</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#teamtrac" class="anchor-link">TeamTrak: Collaborative Mobile Computing</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#tracking_wandering_mind" class="anchor-link">Tracking the Wandering Mind</a></li>
+<li><a href="http://cse.nd.edu/research/current-projects/#vectorbase" class="anchor-link">VectorBase</a></li>
+</ul>
+<p></p>
+<h3><a name="advanced_biometric_techniques"></a>Advanced Biometric Techniques</h3>
+<p>This project is investigating various biometric sources (face, iris, hand, fingerprint, and gait) and sensors (2D, 3D, infra-red, ...) with the goal of developing more accurate biometric techniques. Our research group is supporting the government programs on the Gait Challenge Problem, the Face Recognition Grand Challenge, and the Iris Challenge Evaluation.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/kbowyer" target="_blank">Bowyer</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/pflynn">Flynn</a><br /><br /></p>
+<h3><a name="Algorithms_software_"></a>Algorithms and Software for Problems in Radiosurgery, Radiation Therapy, and Other Medical Applications</h3>
+<p>This project is on the design, analysis, implementation, and experimentation of new algorithms and software for solving geometric optimization problems arising in radiosurgery, radiation therapy, and other related medical applications. A key step in radiotherapy and radiosurgery is to develop a treatment plan that defines the best radiation beam arrangements and time settings to destroy the target tumor without harming the surrounding healthy tissues. At the core of the planning process is a set of substantially challenging geometric optimization problems. We have been investigating a number of such geometric optimization problems, such as beam selection, beam shaping, surgical navigation and routing, sphere packing, shape approximation, leaf sequencing, field covering and partitioning, image segmentation, and beam source path planning. This is a joint project with the Department of Radiation Oncology, University of Maryland School of Medicine. Our goal is to incorporate our new algorithms and software into clinical radiation treatment planning systems for treating cancer patients.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/dchen">Chen</a><br /><br /></p>
+<h3><a name="Anopheles_mosquito_genomics"></a><a class="external-link" href="http://www.vectorbase.org/Other/AnophelesGenomesCluster.php" target="_blank">Anopheles Mosquito Comparative Genomics</a></h3>
+<p>In September of 2008, the National Human Genome Research Institute (NHGRI) and the National Institute of Allergy and Infectious Diseases (NIAID) of the U.S. National Institutes of Health approved funding for the sequencing of the genomes and transcriptomes of thirteen Anopheles species, as described in the white paper. Since the initial white paper was approved, two additional species have been added to the project. This project, coordinated by ND biologist Nora Besansky, was inspired by very ambitious goals: improved understanding of vectorial capacity, and the application of that understanding toward reducing malaria disease burden. The Notre Dame Bioinformatics Lab, in collaboration with Prof. Besansky, will help uncover the evolutionary genomics of the An. gambiae species group and the larger set of species in relation to malaria.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/semrich">Emrich</a><br /><br /></p>
+<h3><a name="automatic_emotion_detection"></a>Automatic Emotion Detection</h3>
+<p>The goal of this project is to develop computer systems that automatically sense when a user is bored, confused, frustrated, etc., by monitoring facial features, speech contours, body movements, interaction patterns, and physiological responses. The emotion detection systems will be integrated into computer interfaces in an attempt to provide more effective, user-friendly, and naturalistic interactions. Several projects focusing on either adapting existing emotion detection systems or investigating new modalities for emotion detection are available.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/sdmello">D'Mello</a><br /><br /></p>
+<h3><a name="compucell"></a>Compucell: Computational Methods for Simulation of Biological Development</h3>
+<p>We are creating a model that includes how genetics at the subcellular level interacts with biophysics at the cellular level to orchestrate the development of organisms. This model is implemented in a software package called CompuCell. Users define the model to simulate using BioLogo, a domain specific language that generates a simulation package for the desired model. We also work with biologists, physicists, and mathematicians in the development and validation of simulations of chicken limb development as part of a National Science Foundation Biocomplexity project.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/jizaguirre">Izaguirre</a><br /><br /></p>
+<h3><a name="darts"></a><a class="external-link" href="http://www.cse.nd.edu/%7Ecodes/time.html" target="_blank">DARTS - Design and Analysis of Real-Time Systems</a></h3>
+<p>Real-time embedded systems can be found in many applications such as communication devices, transportation machines, entertainment appliances, and medical instruments. This research targets at two important problems in real-time system design: performance analysis and scheduling algorithm design. Our current focus is on dealing with uncertainty and flexibility presented in many real-time control applications.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer" target="_blank">Poellabauer</a><br /><br /></p>
+<h3><a name="data_intensive_abstractions"></a><a class="external-link" href="http://www.cse.nd.edu/%7Eccl/research/abstr.shtml" target="_blank">Data Intensive Abstractions for High End Biometric Applications</a></h3>
+<p>Research in biometrics depends upon the effective management and processing of many terabytes of digital data. Because these workloads are so data intensive, they are very challenging to scale up to large clusters and grids. To address this, we are designing a data repository and web-enabled tools that simplify browsing and processing large data sets. Our work has produced some of the largest data analysis results to date in the field, reducing the execution time of some problems from years into days.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/pflynn">Flynn</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/dthain">Thain</a><br /><br /></p>
+<h3><a name="debugging_grids"></a><a class="external-link" href="http://www.cse.nd.edu/%7Eccl/research/debug-grids.shtml" target="_blank">Debugging Grids with Machine Learning Techniques</a></h3>
+<p>Debugging large computing grids is notoriously hard. What can an end user do when a workload of millions of jobs experiences thousands of failures? We propose that data mining techniques are an effective way of explaining what happens to large workloads in grids. We are building and deploying tools that explain failures in computing grids of thousands of processors.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/dthain" target="_blank">Thain</a><br /><br /></p>
+<h3><a name="designing_ultra_dense_computers_with_QCAs"></a><a class="external-link" href="http://www.cse.nd.edu/%7Ecse_proj/qca_design/" target="_blank">Designing Ultra-Dense Computers with QCAs</a></h3>
+<p>Problem: Most projections of CMOS technologies perceive an ultimate limit of about 0.05 micron feature sized devices in about 10 years." The QCA Solution: Utilize a new technology termed Quantum Cellular Automata (QCA) to build real computers orders of magnitude denser than the limits of CMOS from molecularly sized devices where information is moved by Coulombic interactions rather than current flow.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/pkogge" target="_blank">Kogge</a><br /><br /></p>
+<h3><a name="dynamic_data_driven_simulations"></a><a class="external-link" href="http://www.cse.nd.edu/%7Edddas/" target="_blank">Dynamic Data-Driven Applications Simulation (WIPER)</a></h3>
+<p>This project is developing an integrated Wireless Phone Based Emergency Response System (WIPER) that is capable of real-time monitoring of normal social and geographical communication and activity patterns of millions of wireless phone users, recognizing unusual human agglomerations, potential emergencies and traffic jams. WIPER will select from these massive data streams high-resolution information in the physical vicinity of a communication or traffic anomaly, and dynamically inject it into an agent-based simulation system to classify and predict the unfolding of the emergency in real time. The agent-based simulation system will dynamically steer local data collection in the vicinity of the anomaly. Multiple distributed data collection, monitoring, analysis, simulation and decision support modules will be integrated using a Service Oriented Architecture (SOA) to generate traffic forecasts and emergency alerts for engineering, public safety and emergency response personnel.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/gmadey" target="_blank">Madey</a><br /><br /></p>
+<h3><a name="environmental_simulation"></a><a class="external-link" href="http://www.cse.nd.edu/%7Enom/" target="_blank">Environmental Simulation (NOM)</a></h3>
+<p>This project consists of an interdisciplinary team of environmental (biology, chemistry, geology) and IT scientists that is developing a stochastic model for the time-dependent evolution of NOM in the environment. The scientific objectives are to produce both a new methodology and a specific program for predicting the properties of NOM over time as it evolves from precursor molecules to eventual mineralization. The methodology being developed is a mechanistic, stochastic simulation of NOM transformations, including biological and non-biological reactions, as well as adsorption, aggregation and physical transport. It employs recent advances in agent-based simulation, web-based deployment of scientific applications, a collaboratory for sharing simulations and data, and scalable web-based database management systems to improve the reliability of the stochastic simulations and to facilitate analysis of the resulting large datasets using datamining techniques.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/gmadey" target="_blank">Madey</a><br /><br /></p>
+<h3><a name="experts"></a><a class="external-link" href="http://www.nd.edu/%7Ecodes/res/experts/VoltageScheduling.htm" target="_blank">ExPERTS - Energy/Power Efficient, Real-Time system Scheduling</a></h3>
+<p>A collaborative research that aims at developing scheduling algorithms to minimize the energy/power consumption of real-time embedded systems. Some techniques being considered include Dynamic Voltage Scaling (DVS), Dynamic Frequency Scaling (DFS), Sleep Mode Control (SMC), etc.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/dchen" target="_blank">Chen</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/xhu" target="_blank">Hu</a><br /><br /></p>
+<h3><a name="computational_discovery"></a>From Computational Discovery to Privacy Preservation in Social, Product, and Health Networks</h3>
+<p>The fast emergence of interaction networks brings a rich source of information not only about the nodes in such networks, but also about the relationships between them. This notion of collective intelligence opens up a new tremendous source of data which can vastly improve decision making in many domains, be it advertising, the effectiveness of offering related products, or the ability to diagnose medical conditions. Such networks, however, carry enough information about the entities participating in such networks to compromise their privacy. Now a node can expose not only its own information, but information about its neighborhood as well. The goal of this project is to extract rich information available in product, social, and medical networks while preserving the privacy of their users. We allow users to have control over what information about them can be released and secure the data through cryptographic means.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/mblanton">Blanton</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla" target="_blank">Chawla</a><br /><br /></p>
+<h3><a name="intelligent_edge_devices"></a>Intelligent Edge Devices</h3>
+<p>In this research, we design and implement prototypes of intelligent network edge devices such as routers, modems, or wireless base stations. The goal is to build sophisticated network and system management stations which exploit their location at the edge of a network and their ability to communicate directly with their end devices to provide efficient and centralized resource and network management functionalities.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla" target="_blank">Chawla</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer" target="_blank">Poellabauer</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/astriegel" target="_blank">Striegel</a><br /><br /></p>
+<h3><a name="judicious_resource_management"></a>Judicious Resource Management</h3>
+<p>This project studies the complex relationships between resources and the effect resource adaptation has on application performance. This work is driven by the insight that careless (non-cooperative) adaptation of multiple resource or multiple communicating devices can lead to sub-optimal savings in resource utilization or degraded application performance; effects which are often difficult to capture with theoretical models alone, thereby requiring extensive experimental studies.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer" target="_blank">Poellabauer</a><br /><br /></p>
+<h3><a name="languages_systems_scientific_computing"></a><a class="external-link" href="http://www.cse.nd.edu/%7Eccl/research/cluster.shtml">Languages and Systems for Data Intensive Scientific Computing</a></h3>
+<p>Many problems in science and engineering can only be solved by harnessing large collections of computers called cluster, clouds, or grids. Unfortunately, these systems are very challenging to use, particularly for data intensive applications. To address this, our lab is designing new languages and systems that allow end users to easily specify and execute workloads that run on hundreds of processors.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/dthain" target="_blank">Thain</a><br /><br /></p>
+<h3><a name="morph"></a><a class="external-link" href="http://www.cse.nd.edu/%7Ecse_proj/morph/">Morph: Morphable Computer Architectures for Highly Energy-Aware Systems</a></h3>
+<p>Adding an Energy Gear to High Performance Embedded Systems.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/jbrockman" target="_blank">Brockman</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/pkogge" target="_blank">Kogge</a><br /><br /></p>
+<h3><a name="pim"></a><a class="external-link" href="http://www.cse.nd.edu/%7Epim/" target="_blank">PIM: Processing in Memory</a></h3>
+<p>With the current trend of rapidly increasing CPU speeds and ballooning RAM capacities, the bottleneck between the processor and main memory is becoming more and more costly. PIM is an attempt to solve this problem by combining processor and memory macros on a single chip. The benefits of such an architectural shift include very high bandwidth and multi-processor scaling capabilities. These possibilities and more are being enthusiastically explored by our group.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/jbrockman" target="_blank">Brockman</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/pkogge" target="_blank">Kogge</a><br /><br /></p>
+<h3><a name="protomol"></a><a class="external-link" href="http://www.cse.nd.edu/%7Elcls/research.html#protomol" target="_blank">Protomol: Computational Methods for Simulation of Proteins</a></h3>
+<p>We are developing multiscale methods for simulation of proteins and other biological molecules. These methods are useful for understanding important post-human-genome biological questions, such as the folding pathways of proteins or the relationship between structure and function. Our goal is to provide algorithms that scale with system size and simulation length. We also provide efficient and extendible implementations of these algorithms using a high performance object-oriented framework called ProtoMol. This project is funded by the National Science Foundation.<br /><strong>Faculty: </strong><a class="external-link" href="http://engineering.nd.edu/profiles/jizaguirre" style="width: initial; color: #07203e !important; background-color: transparent; border-bottom-width: 1px !important; border-bottom-color: #cccccc !important; border-bottom-style: solid !important; padding: 0px; margin: 0px;">Izaguirre</a></p>
+<p></p>
+<h3><a name="spirit"></a><a class="external-link" href="http://www.cse.nd.edu/%7Edarts/spirit.html" target="_blank">SPIRIT: Spontaneous Information and Resource Sharing</a></h3>
+<p>The objective of this project is to overcome the limitations of mobile wireless devices by allowing them to spontaneously request access to resources (such as storage, CPUs, network bandwidths) and information (e.g., obtained from sensors) residing on wireless peers in their proximity. The project addresses the resource-efficient and reliable discovery and access of such resources and information.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer" target="_blank">Poellabauer</a><br /><br /></p>
+<h3><a name="scalable_bioinformatics"></a><a class="external-link" href="https://biocompute.cse.nd.edu/" target="_blank">Scalable Bioinformatics</a></h3>
+<p>We are creating a series of cloud-enabled bioinformatics tools through Biocompute, which is a web-based tool that leverages grid-computing resources for solving large bioinformatics problems. Biocompute divides large bioinformatics jobs into hundreds of smaller jobs that are sent to either a large collection of personal computers or an external cloud. This drastically reduces the time required to complete desired tasks. Further, each Biocompute user has a personal workspace where he or she can store and share files and results with others. Users can create custom databases to run jobs on or they can use public databases. Biocompute is maintained by the Cooperative Computing Lab and is supported by the Bioinformatics Core Facility at the University of Notre Dame.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/semrich">Emrich</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/dthain" target="_blank">Thain</a><br /><br /></p>
+<h3><a name="secure_computational_outsourcing"></a>Secure and Reliable Computation Outsourcing</h3>
+<p>This project allows resource-constrained devices (limited in their battery life or computational capabilities) to use external computing resources such as supercomputers or grids to carry out their extensive computational tasks in a secure and reliable way. Secure computation means that powerful helper machines do not learn any information about the data being processed yet help a weak device to compute its task; and reliable computation means that the device is able to verify that the computation was indeed performed correctly without the need to recompute the task itself. We develop cryptographic techniques to securely outsource different types of computation such as biometric and DNA comparisons and others. We also use the fact that helper servers do not obtain access to the data they are processing to allow the device to detect deviations from the prescribed computation more effectively.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/mblanton" target="_blank">Blanton</a><br /><br /></p>
+<h3><a name="sensor_networks"></a>Sensor Networks</h3>
+<p>The objective of this project is to develop techniques for the flexible and efficient collaboration among sensors in a wireless sensor network, including techniques for energy-efficient real-time routing of sensor data or resource-efficient in-network data aggregation and fusion.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla" target="_blank">Chawla</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer">Poellabauer</a><br /><br /></p>
+<h3><a name="software_scientific_software"></a><a class="external-link" href="http://www.cse.nd.edu/%7Eizaguirr/" target="_blank">Software Engineering of Scientific Software</a></h3>
+<p>We try to develop tools that simplify the design and implementation of high-performance software, utilizing object-oriented and generic programming in languages such as C++ and Eiffel. Examples are tools to automatically generate tests from semi-formal specifications of programs that are part of the code itself. We use Eiffel and design by contract. We also are trying to build self-adaptive programs that can choose the best algorithms and parameters for particular problems at run time.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/jizaguirre">Izaguirre</a><br /><br /></p>
+<h3><a name="spanids"></a><a class="external-link" href="http://www.cse.nd.edu/%7Espanids/index.php" target="_blank">Spanids</a></h3>
+<p>The SPANIDS project is developing a scalable architecture for real-time intrusion detection on high-speed networks. We are developing techniques that exploit concurrency in network traffic to distribute high-bandwidth network streams across several sensors to significantly improve the capabilities of existing NIDS systems. We implemented a prototype system built from scalable inexpensive hardware and open source software that demonstrates the scalability and flexbility of our approach.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/jfreeland" target="_blank">Freeland</a><br /><br /></p>
+<h3><a name="open_source_software"></a><a class="external-link" href="http://www.cse.nd.edu/%7Eoss/" target="_blank">Study of the Open Source Software Phenomenon</a></h3>
+<p>This research project seeks to understand the free/open source software (F/OSS) phenomenon and to predict the pattern of growth exhibited by F/OSS projects over time. The F/OSS community is a genuine behavioral and technical puzzle, one with significant, far-reaching impact on the world's economy. The F/OSS community has developed a substantial amount of the infrastructure of the Internet, and has several outstanding technical achievements, including the most popular web server (Apache), the most popular scripting language (PERL), and an operating system which successfully competes with Windows (Linux). These programs were written, developed, and debugged largely by part time contributors, who in most cases were not paid for their work, and without the benefit of any traditional project management techniques. We are developing a conceptual model to explain the motivations and key work processes underlying this extraordinary phenomenon. Our preliminary analyses indicate that the F/OSS community can be usefully modeled as a social network, one that has the characteristics of a self-organizing, emergent system. Drawing on the social psychological theories of motivation, self-managing teams, and communication, we are creating a model of the social and task characteristics that predict the emergent properties of the system.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/gmadey" target="_blank">Madey</a><br /><br /></p>
+<h3><a name="teamtrac"></a><a class="external-link" href="http://www.cse.nd.edu/%7Eteamtrak/">TeamTrak: Collaborative Mobile Computing</a></h3>
+<p>Mobile teams such as first responders and military units require the ability to communicate in sensor-rich environments using short-range links without the benefit of a communications infrastructure. We are constructing a mobile handheld system that allows for such teams to navigate and collaborate by forming ad-hoc wireless networks. Users carry handheld devices that report their location and situation to nearby peers, allowing participants as well as commanders a wide-area view of a situation. We are exploring the interaction of technology and sociology in these unreliable but data-rich environments.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla" target="_blank">Chawla</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer" target="_blank">Pollebauer</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/dthain" target="_blank">Thain</a><br /><br /></p>
+<h3><a name="tracking_wandering_mind"></a>Tracking the Wandering Mind</h3>
+<p>Mind wandering and zoning out are common phenomena that people experience while performing effortful cognitive activities. For example, it is estimated that people unintentionally mind wander approximately 1/3 of the time when reading text. Can we automatically identify the instant when a person starts to mind wander? To investigate this question, we are developing systems that diagnose when a person is mind wandering during reading by analyzing the dynamic integration of textual features with eye gaze patterns. A number of short and long-term projects that focus on eye tracking and other methods to detect mind wandering are available.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/sdmello" target="_blank">D'Mello</a><br /><br /></p>
+<h3><a name="vectorbase"></a><a class="external-link" href="http://www.vectorbase.org" target="_blank">VectorBase</a></h3>
+<p>VectorBase is a Bioinformatics Resource Center designed to store and augment genomes of all arthropod vectors of human pathogens that represent either potential agents of bioterrorism or that transmit important emerging infectious diseases. VectorBase currently contains the genomes and associated information for three mosquito species, the tick and the body louse. Twenty other organisms will soon be included, with hundreds more in the pipeline over the next 5 years of funding. VectorBase is a well-known bioinformatics resource in the arthropod research community and also interacts closely with a number of other bioinformatics efforts, most notably with EBI, GMOD, GO, RefSeq, UCSC and the other NIAID-supported BRCs. Further, VectorBase will be responsible for providing bioinformatics support of four included "Driving biological projects," which will generate cutting-edge experimental data for both graduate students and staff to contribute.<br /><strong>Faculty:</strong> <a class="external-link" href="http://engineering.nd.edu/profiles/fcollins" target="_blank">Collins</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/semrich">Emrich</a>, <a class="external-link" href="http://engineering.nd.edu/profiles/gmadey" target="_blank">Madey</a></p>
+            
+        </div>
+    
+    
+
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+
+            </td>
+            
+
+            
+                
+                
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+    <a href="http://www.nd.edu" class="mark" title="University of Notre Dame" target="_new"><img src="undlogo-31.png" alt="University of Notre Dame" /></a>
+    <p><a href="http://www.nd.edu/copyright/" title="Copyright" target="_new">Copyright</a> &copy; <span>2016</span><br />
+    The <a title="Home" href="http://cse.nd.edu">Department of Computer Science and Engineering</a> at the <a href="http://www.nd.edu" title="University of Notre Dame" target="_new">University of Notre Dame</a><br />
+    E-mail: <a href="mailto:cse@cse.nd.edu" title="College of Engineering E-mail">cse@cse.nd.edu</a></p>
+</div>
+
+<script type="text/javascript"
+src="/js/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://cse.nd.edu/spinner.gif" /></div>
+</body>
+</html>
+
+

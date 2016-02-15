@@ -1,0 +1,1771 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://cse.nd.edu/people/graduate-students" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://cse.nd.edu/people/graduate-students/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-cachekey5311.css" title="jQuery CSS" />
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery.select2uislider-cachekey4754.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/base-cachekey1847.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/dropdown-menu-cachekey4039.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneKss-cachekey1587.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.discussion.stylesheetsdiscussion-cachekey2492.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.jquerytools.dateinput-cachekey8245.css);</style>
+        <!--[if lte IE 7]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://cse.nd.edu/portal_css/ND%20Theme/IEFixes-cachekey9920.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0248.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.dexterity.overlays-cachekey3343.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey6679.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/visualeditor-cachekey5643.css" />
+    <style type="text/css">@import url(http://cse.nd.edu/portal_css/ND%20Theme/slideshow-cachekey0067.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8752.css);</style>
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/faceted_view-cachekey0307.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneCustom-cachekey9913.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/cseStyles-cachekey5695.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/leastCenterStyles-cachekey3180.css" />
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.js.chosenchosen-cachekey4409.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/labStyles-cachekey2020.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://cse.nd.edu/portal_css/ND%20Theme/print-cachekey0402.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/brandbarOverrideStyles-cachekey4132.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://cse.nd.edu/portal_kss/ND%20Theme/at-cachekey5249.kss" />
+  
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cachekey5527.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery.tagcloud-cachekey4878.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/table_sorter-cachekey4070.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcedropdown-menu-cachekey8189.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.app.discussion.javascriptscomments-cachekey7910.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/iefixes-cachekey9038.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey1034.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/basic-cachekey2230.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cycle-cachekey0203.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery-ui.min-cachekey8119.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery.jqEasyCharCounter.min-cachekey4265.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/cseAnalytics-cachekey7388.js"></script>
+
+
+<title>Graduate Students &mdash; Department of Computer Science and Engineering</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://cse.nd.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://cse.nd.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://cse.nd.edu" title="Front page" />
+
+    <link rel="contents" href="http://cse.nd.edu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://cse.nd.edu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-document_view portaltype-document section-people navroot-cse" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <div id="brandBar">
+		<p class="undBrand"><a href="http://www.nd.edu/" target="_blank" title="University of Notre Dame">UNIVERSITY of NOTRE DAME</a></p>
+		<p class="orgBrand"><a href="http://engineering.nd.edu/" title="College of Engineering">COLLEGE of ENGINEERING</a></p>
+                <p class="orgBrand provost"><a href="http://provost.nd.edu/" title="Office of the Provost">OFFICE of the PROVOST</a></p>
+	</div>
+	<p class="hiddenStructure">
+  <a accesskey="2" href="http://cse.nd.edu/people/graduate-students/#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://cse.nd.edu/people/graduate-students/#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+
+    <a id="portal-logo" title="Home" accesskey="1" href="http://cse.nd.edu">
+       <span>Department of Computer Science and Engineering</span>
+       
+    </a>
+    
+    
+
+
+
+<div id="portal-searchbox"> 
+                 
+     <form name="searchform" id="searchGadget_form" action="http://cse.nd.edu/search">
+       <div class="LSBox">
+           <label class="hiddenStructure" for="searchGadget">Search Site</label>
+        
+            <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+                   
+            <button type="submit" class="searchButton" id="search-button">Search</button>
+        
+            <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div>
+        </div>
+    </div></form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://cse.nd.edu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+	<!--<dt>
+		<a href="#">Contact</a>
+	<a href="#">Directory</a>
+	<a title="Home"
+	   accesskey="1"
+	   tal:attributes="href view/navigation_root_url"
+	   i18n:domain="plone"
+	   i18n:attributes="title">Home</a></dt>-->
+  <dt id="anon-personalbar">
+    
+        <a href="http://cse.nd.edu/login" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://cse.nd.edu" class="plain" title="">Home</a></li><li id="portaltab-academics" class="plain"><a href="http://cse.nd.edu/academics" class="plain" title="">ACADEMICS</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published" title="">
+            
+            Current Courses
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published" title="">
+            
+            Course Catalog
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published" title="">
+            
+            Course Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published" title="">
+            
+            Information for Undergraduates
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published" title="">
+            
+            Information for Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published" title="">
+            
+            Honor Code
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-research" class="plain"><a href="http://cse.nd.edu/research" class="plain" title="">RESEARCH</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published" title="">
+            
+            Research Labs
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published" title="">
+            
+            Research Areas
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published" title="">
+            
+            Current Projects
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published" title="">
+            
+            Tech Reports
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-people" class="selected"><a href="http://cse.nd.edu/people" class="plain" title="">PEOPLE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published" title="">
+            
+            Faculty
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published" title="">
+            
+            Staff
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published" title="">
+            
+            Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published" title="">
+            
+            PhD Alumni
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published" title="">
+            
+            Directory
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-resources" class="plain"><a href="http://cse.nd.edu/resources" class="plain" title="">RESOURCES</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/computer-facilities" class="state-published" title="">
+            
+            Computer Facilities
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/installed-software" class="state-published" title="">
+            
+            Installed Software
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/current-cse-newsletter" class="state-published" title="">
+            
+            Current CSE Newsletter
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/newsletter-archives" class="state-published" title="">
+            
+            Newsletter Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/university-resources" class="state-published" title="">
+            
+            University Resources
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-join-us" class="plain"><a href="http://cse.nd.edu/join-us" class="plain" title="">JOIN US</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/graduate" class="state-published" title="">
+            
+            Graduate Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/undergrad-admissions" class="state-published" title="">
+            
+            Undergrad Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/faculty-job-openings" class="state-published" title="">
+            
+            Faculty Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/staff-job-openings" class="state-published" title="">
+            
+            Staff Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/student-job-openings" class="state-published" title="">
+            
+            Student Job Openings
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-about" class="plain"><a href="http://cse.nd.edu/about" class="plain" title="">ABOUT</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/about/academic-mission" class="state-published" title="">
+            
+            Academic Mission
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/department-news" class="state-published" title="">
+            
+            Department News
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/careers-in-cse" class="state-published" title="">
+            
+            Careers in CSE
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li></ul>
+
+
+</div>
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                <td id="portal-column-one">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="http://cse.nd.edu/people/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode">
+                <div>
+                   <a href="http://cse.nd.edu/people" class="contenttype-plone-site " title="">
+                   
+                   PEOPLE
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker section-faculty">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published contenttype-document" title="">
+            
+            <span>Faculty</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-staff">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published contenttype-document" title="">
+            
+            <span>Staff</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode section-graduate-students">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published navTreeCurrentItem navTreeCurrentNode contenttype-document" title="">
+            
+            <span>Graduate Students</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-phd-alumni">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published contenttype-document" title="">
+            
+            <span>PhD Alumni</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-directory">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published contenttype-link" title="">
+            
+            <span>Directory</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <!--<span id="breadcrumbs-you-are-here" i18n:translate="you_are_here">You
+are here:</span>-->
+    <span id="breadcrumbs-home">
+        <a href="http://cse.nd.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            &gt;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://cse.nd.edu/people">PEOPLE</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Graduate Students</span>
+         
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Graduate Students
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+                            
+                                
+                                
+            
+                
+            
+            
+        
+                            
+
+                            
+
+
+                            <div id="content-core">
+                                
+    
+        
+        <div class="" id="parent-fieldname-text">
+            <p>Graduate Students</p>
+<p></p>
+<p></p>
+<table class="listing" style="width: 80%;">
+<tbody>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/salvador-aguinaga/@@images/a9bc7b3f-28a2-41ee-a96a-0d5590ba29ab.jpeg" alt="Salvador Aguinaga" class="image-inline" title="Salvador Aguinaga" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/saguinaga"><strong>Salvador Aguinaga</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/tweninger"><span class="external-link">Weninger</span></a><br />Office: 384 NSH<br />Phone: (574) 631-9447</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/Anastasopoulos8997.jpg/@@images/1e9dc4a9-357b-424b-86e6-5bcfcc4055b2.jpeg" alt="Antonios Anastasopoulos" class="image-inline" title="Antonios Anastasopoulos" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/aanastasopoulos"><strong>Antonios Anastasopoulos</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dchiang">Chiang</a><br /> Office: 244 Fitzpatrick<br /> Phone: (574) 631-7596</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/AmeerArmaly.jpg/@@images/5c190966-9cec-4d5b-a962-907e402780c1.jpeg" alt="Ameer Armaly" class="image-inline" title="Ameer Armaly" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/aarmaly"><strong>Ameer Armaly</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cmcmillan">McMillian</a><br />Office:  247 Fitzpatrick<br />Phone:  (574) 631-8123</p>
+</td>
+</tr>
+<tr>
+<td colspan="1">
+<p><img src="http://cse.nd.edu/people/graduate-student-images/Argueta9000.jpg/@@images/6b726f7f-ade3-4902-bb8f-2480e0ae6ef5.jpeg" alt="Arturo Argueta" class="image-inline" title="Arturo Argueta" /></p>
+</td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/aargueta"><strong>Arturo Argueta</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profile/dchiang">Chiang</a><br /> Office: 244 Fitzpatrick<br /> Phone: (574) 631-7596</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/lauren-assour/@@images/909d170f-33b0-41ef-b8cb-2c86385c7fee.jpeg" alt="Lauren Assour" class="image-inline" title="Lauren Assour" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/lassour"><strong>Lauren Assour</strong></a></p>
+<p>Degree: Ph.D. Advisor:<a class="external-link" href="http://engineering.nd.edu/profiles/semrich"> Emrich</a><br />Office: 247A Fitzpatrick<br />Phone: (574) 631-8123</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_SandipanBanerjee.jpg/@@images/99e19ec6-afb1-4180-8c7e-09340bc1133a.jpeg" alt="" class="image-inline" title="" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/sbanerjee">Sandipan Banerjee</a></strong></p>
+<p>Degree: Ph.D Advisor: Sweet/<a class="external-link" href="http://engineering.nd.edu/profiles/pflynn">Flynn</a><br />Office: 384L Nieuwland<br />Phone: (574) 631-2632</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/957fd153-4805-467d-9aba-75701dbf812a/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/sbannerjee"><span class="external-link"><strong><span class="external-link">Sreya Banerjee</span></strong></span></a></p>
+<p>Degree: Ph.D Advisor: <br />Office: 212 Cushing<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/FattenahBayatbobolhai.jpg/@@images/b62076bf-4637-42cf-ae5d-f652519af3b3.jpeg" alt="Fattaneh Bayatbabolghani" class="image-inline" title="Fattaneh Bayatbabolghani" /></td>
+<td>
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/fbayatbabolghani">Fattaneh Bayatbabolghani</a></strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/mblanton">Blanton</a><br />Office: 247B Fitzpatrick<br />Phone: n/a</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/bernhardweb.jpg/@@images/6c2a2bea-2add-4b3c-a96c-729cdd928bff.jpeg" alt="John Bernhard" class="image-inline" title="John Bernhard" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jbernhard"><b>John Bernhard   </b></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/kbowyer">Bowyer</a><br />Office: 307 Stinson Remick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/bixlerweb.jpg/@@images/091c88dc-9bc1-4102-8f80-0072aee20fd9.jpeg" alt="Robert Bixler" class="image-inline" title="Robert Bixler" /></td>
+<td>
+<p><b><a class="external-link" href="http://engineering.nd.edu/profiles/rbixler">Robert Bixler  </a> </b></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/sdmello">D'Mello</a><br />Office: 250 Hagger Hall<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/78b20a4a-0ec0-4b67-9083-af17aa66c6be/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="https://engineering.nd.edu/profiles/abharati">Aparna Bharati</a></strong></p>
+<p>Degree: Ph.D. Advisor:<a class="external-link" href="http://engineering.nd.edu/profiles/kbowyer"> Bowyer</a><br />Office: 307 Stinson Remick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy2_of_NathanielBlanchard.jpg/@@images/dabf1a85-801e-460a-b9c7-32983388172a.jpeg" alt="" class="image-inline" title="" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/nblanchard">Nathaniel Blanchard</a></strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cmcmillan">McMillian</a><br />Office:  254 Fitzpatrick<br />Phone: 574-631-4391</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1">
+<p><img src="http://cse.nd.edu/people/graduate-student-images/Bo9038.jpg/@@images/4191f10e-8f43-4b3c-bf46-7d2b77df3d0d.jpeg" alt="Xiao (Sean) Bo" class="image-inline" title="Xiao (Sean) Bo" /></p>
+</td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/sbo">Xiao (Sean) Bo</a><br /></strong></p>
+<p>Degree: Ph.D.  Advisor:<a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer"> Poellabauer</a><br />Office: 244 Fitzpatrick<br />Phone: (574) 631-7956</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/boschcropped.jpg/@@images/def7798a-6089-472c-a8ce-4bae124fffe5.jpeg" alt="Nigel Bosch" class="image-inline" title="Nigel Bosch" /></td>
+<td>
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/nbosch">Nigel Bosch</a></strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/sdmello">D'Mello</a><br />Office: 250 Hagger Hall<br />Phone: n/a</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_Brogan9019.jpg/@@images/28d46285-731f-4786-8afa-2fbedd48294b.jpeg" alt="Joel Brogan" class="image-inline" title="Joel Brogan" /></td>
+<td colspan="1">
+<p><b><a class="external-link" href="http://engineering.nd.edu/profiles/jbrogan">Joel Brogan</a><br /></b></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/kbowyer">Bowyer</a><br />Office: 307 Stinson Remick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/71e9b07c-c8c7-49f1-8895-59ea7d71978d/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/nbutcher">Neil Butcher</a></strong></p>
+<p>Degree: Ph.D, Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/lriek">Thain</a><br />Office: 385 Fitzpatrick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/72625acd-6974-4705-8e2e-80839cb05ba4/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/dchan"><span class="external-link"><span class="external-link"><strong>Darren Chan<br /></strong></span></span></a></p>
+<p>Degree: Ph.D, Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/lriek">Riek</a><br />Office: 355 Fitzpatrick<br />Phone: (574)631-4641</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/jianxu-chen/@@images/4f4260d4-4ed1-41f0-9b71-b7f2c796a242.jpeg" alt="Jianxu Chen" class="image-inline" title="Jianxu Chen" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jchen2"><strong>Jianxu Chen</strong></a></p>
+<p>Degree: Ph.D Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dchen">Chen</a><br />Office: 244 Fitzpatrick<br />Phone: (574) 631-7596</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/choudhurycropped.jpg/@@images/b3f08f18-84a2-42ba-a9f0-e57ecc74bd3b.jpeg" alt="Olivia Choudhury" class="image-inline" title="Olivia Choudhury" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/colivia"><strong>Olivia Choudhury</strong></a></p>
+<p>Degree: Ph.D. Advisor:<a class="external-link" href="http://engineering.nd.edu/profiles/semrich"> Emrich</a><br />Office: 247A Fitzpatrick<br />Phone: (574) 631-8123</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/JosephCrawford.jpg/@@images/1cac9803-8cd6-47d2-b1b5-e746864750f2.jpeg" alt="Joseph Crawford" class="image-inline" title="Joseph Crawford" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jcrawford"><strong>Joseph Crawford</strong></a></p>
+<p>Degree: Ph.D.  Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/tmilenkovic">Milenkovic</a><br />Office: 247A Fitzpatrick<br />Phone: (574) 631-8720</p>
+<p></p>
+<p><strong></strong> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/Cruz9006.jpg/@@images/0993fc33-4af7-4507-9808-351dc76ec1cb.jpeg" alt="Breno Dantas Cruz" class="image-inline" title="Breno Dantas Cruz" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/bdantascruz">Breno Dantas Cruz</a><br /></strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cmcmillan">McMillan</a><br />Office: 254 Fitzpatrick<br />Phone: (574) 631-4391</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/dipanwita-dasgupta/@@images/72dcb5c7-178f-4b2f-b76e-01b25e2fd53f.jpeg" alt="Dipanwita Dasgupta" class="image-inline" title="Dipanwita Dasgupta" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ddasgupta"><strong>Dipanwita Dasgupta</strong></a></p>
+<p>Degree: Ph.D.. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a><br />Office: 384 NSH<br />Phone: (574) 631-9447</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/LouisDaudet.jpg/@@images/176e2d61-b4ce-4ea8-a1fd-bde22e0c019e.jpeg" alt="Louis Daudet" class="image-inline" title="Louis Daudet" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ldaudet"><strong>Louis Daudet</strong></a></p>
+<p>Degree: Ph.D.  Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer">Poellabauer</a><br />Office: 244 Fitzpatrick<br />Phone: (574) 631-7956</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/dongcropped.jpg/@@images/c6372a95-5dda-4ef6-9709-b71c6c2fffec.jpeg" alt="Yuxiao Dong" class="image-inline" title="Yuxiao Dong" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ydong"><strong>Yuxiao Dong</strong></a></p>
+<p>Degree: Ph.D Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a><br />Office: 384 NSH<br />Phone: (574) 631-9447</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_JustinDeBeredetto0765.jpg/@@images/70b0e0e0-54ed-4505-8143-568f0e1a1ac7.jpeg" alt="Justin DeBenedetto" class="image-inline" title="Justin DeBenedetto" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/jdebenedetto">Justin DeBenedetto</a></strong></p>
+<p>Degree: Ph.D Advisor:<br />Office: 247B Fitzpatrick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/PatrickDonnelly2.jpg/@@images/fae46f3e-d2b3-4b19-a5a5-6b9d4d721eb3.jpeg" alt="Patrick Donnelly" class="image-inline" title="Patrick Donnelly" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/pdonnelly"><strong>Patrick Donnelly</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dthain">Thain</a><br />Office:385 Fitzpatrick<br />Phone: n/a</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/LouisFaust0761.jpg/@@images/028e6457-c13e-4d26-8ee9-7d37f0a00b98.jpeg" alt="Louis Faust" class="image-inline" title="Louis Faust" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/lfaust">Louis Faust</a></strong></p>
+<p>Degree: Ph.D. Advisor: <br />Office:247 Fitzpatrick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/fazle-faisal/@@images/ae637e2f-c63e-4f22-aa33-74646b45ce5e.png" alt="Fazle Faisal" class="image-inline" title="Fazle Faisal" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ffaisal"><strong>Fazle Faisal</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/tmilenkovic">Milenkovic</a><br />Office: 247A Fitzpatrick<br />Phone: (574) 631-8123</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/KeithFeldman.jpg/@@images/1dd9540d-5fb3-4deb-ae92-5391c56b3c0e.jpeg" alt="Keith Feldman" class="image-inline" title="Keith Feldman" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/kfeldman"><strong>Keith Feldman</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a><br />Office: 384 NSH<br />Phone: (574) 631-9447</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/HollyFerguson.jpg/@@images/66a68ffb-b5c8-4f31-91b0-afcde78aa7ac.jpeg" alt="Holly Ferguson" class="image-inline" title="Holly Ferguson" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/hferguson"><strong>Holly Ferguson</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/jnabrzyski">Nabrzyski</a><br />Office: 123 CRC<br />Phone: (574) 631-3656</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/CaseyFerris.jpg/@@images/bbfafd8a-4f83-4888-84cb-e45f5544882a.jpeg" alt="Casey Ferris" class="image-inline" title="Casey Ferris" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/cferris"><strong>Casey Ferris</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/gmadey"><span class="external-link">Madey</span></a><br />Office:  247 Fitzpatrick<br />Phone: n/a</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/Glenski9027.jpg/@@images/6320e6c8-4514-4ca3-b4ad-df612e3a5448.jpeg" alt="Maria Glenski" class="image-inline" title="Maria Glenski" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/mglenski"><strong>Maria Glenski<br /></strong></a></p>
+<p>Degree: Ph.D, Advisor: <a href="http://engineering.nd.edu/profile/tweninger">Weninger</a></p>
+<p>Office: 384 NSH<br /> Phone: (574) 631-9447</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/Golestanian9016.jpg/@@images/25409db1-5f2f-4a72-83f5-70e42bbe7ceb.jpeg" alt="Mehdi Golestanian" class="image-inline" title="Mehdi Golestanian" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/mgolestanian">Mehdi Golestanian</a></strong></p>
+<p>Degree: Ph.D.  Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer">Poellabauer</a><br />Office: 244 Fitzpatrick<br />Phone: (574) 631-7956</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/YuanGong0771.jpg/@@images/18701b17-6a94-46ab-a189-8ad6e33f26ce.jpeg" alt="Yuan Gong" class="image-inline" title="Yuan Gong" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ygong"><span class="external-link"><strong>Yuan Gong</strong></span></a></p>
+<p>Degree: Ph.D.  Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer">Poellabauer</a><br />Office: 247B Fitzpatrick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/michael-gonzales/@@images/eb0d6261-ac94-4b30-97f5-60c6c82e8d82.jpeg" alt="Michael Gonzales" class="image-inline" title="Michael Gonzales" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/mgonzales"><span class="external-link"><strong>Michael Gonzales</strong></span></a></p>
+<p>Degree: Ph.D, Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/lriek">Riek</a><br />Office: 355 Fitzpatrick<br />Phone: (574) 631-4641</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/jason-grant/@@images/c5b9dcd5-9b30-402a-9e71-0807dea9843c.jpeg" alt="Jason Grant" class="image-inline" title="Jason Grant" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jgrant"><strong>Jason Grant</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/pflynn">Flynn</a><br />Office: 307 Stinson Remick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/YiGu2.jpg/@@images/81342f22-a90b-4ce7-9993-ca6fe120beae.jpeg" alt="Yi Gu" class="image-inline" title="Yi Gu" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ygu"><strong>Yi Gu</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cwang">C. Wang</a><br />Office: 254 Fitzpatrick<br />Phone: (574) 631-4391</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/cory-hayes/@@images/38f1eff0-acae-4b36-b547-7dd9aef16ab1.jpeg" alt="Cory Hayes" class="image-inline" title="Cory Hayes" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/chayes"><strong>Cory Hayes</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/lriek">Riek</a><br />Office: 355 Fitzpatrick<br />Phone: (574) 631-4641</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/NicholasHazekamp.jpg/@@images/52e8d39d-db62-4d92-9fb1-ad23b96725b7.jpeg" alt="Nicholas Hazekamp" class="image-inline" title="Nicholas Hazekamp" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/nhazekamp"><strong>Nicholas Hazekamp</strong></a></p>
+<p>Degree: PhD. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dthain">Thain</a><br />Office: 385 Fitzpatrick<br />Phone: n/a</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/Hossain9003.jpg/@@images/bd03d219-743c-4888-93a8-4959d3f6b96d.jpeg" alt="Afzal Hossain" class="image-inline" title="Afzal Hossain" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ahossain"><strong>Afzal Hossain</strong></a></p>
+<p>Degree: Ph.D.  Advisor:<a href="http://engineering.nd.edu/profiles/cpoellabauer"> Poellabauer</a><br /> Office: 244 Fitzpatrick<br /> Phone: (574) 631-7956</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/xueheng-hu/@@images/edb7f967-e522-4279-8fe9-c0e3d1e54dc3.jpeg" alt="Xueheng Hu" class="image-inline" title="Xueheng Hu" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/xhu2"><strong>Xueheng Hu</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/astriegel">Striegel</a><br />Office: 247 Fitzpatrick<br />Phone: (574) 631-8720</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/31f64dac-8acc-47fa-922a-7ea5e7eeefc2/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/chuang"><strong>Chao Huang</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profile/dwang"> D. Wang</a><br /> Office: 254 Fitzpatrick<br /> Phone: (574) 631-4391</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_YuriyHulovatyy2.jpg/@@images/80f1aef9-f81c-4899-b56b-af11b78021b0.jpeg" alt="Yuriy Hulovatyy" class="image-inline" title="Yuriy Hulovatyy" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/yhulovat"><strong>Yuriy Hulovatyy</strong></a></p>
+<p>Degree: Ph.D.  Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/tmilenkovic">Milenkovic</a><br />Office: 247A Fitzpatrick<br />Phone: (574) 631-8720</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/DaHuo.jpg/@@images/22b4b5b7-a8f5-4caa-a6a3-b4abf69b2587.jpeg" alt="Da Huo" class="image-inline" title="Da Huo" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/dhuo"><strong>Da Huo</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/jnabrzyski"> Nabryzki</a><br />Office: 123 CRC<br />Phone: (574) 631-3656</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/1aff16c2-3b71-4718-8327-1c2cf3f629ee/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/shutt"><span class="external-link"><strong>Stephen Hutt</strong></span></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/jnabrzyski"> D'Mello</a><br />Office: 250 Haggar Hall<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/tiqbalweb.jpg/@@images/9ffa2f0f-eedf-4d61-aa63-6ee515c350ec.jpeg" alt="Tariq Iqbal" class="image-inline" title="Tariq Iqbal" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/tiqbal"><b>Tariq Iqbal   </b></a></p>
+<p>Degree: Ph.D.  Advisor: <a class="external" href="http://engineering.nd.edu/profiles/lriek">Riek</a><br />Office: 355 Fitzpatrick<br />Phone: (574) 631-4641</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_PeterIvie.jpg/@@images/e07f1e9b-b21d-4e16-aab5-a5f24889ceba.jpeg" alt="Peter Ivie" class="image-inline" title="Peter Ivie" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/pivie"><strong>Peter Ivie</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dthain">Thain</a><br />Office: 356B Fitzpatrick<br />Phone: n/a</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_jiangcropped.jpg/@@images/56e2accc-65cc-45c6-8731-eaa6a7bc9b12.jpeg" alt="Siyuan Jiang" class="image-inline" title="Siyuan Jiang" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/sjiang"><strong>Siyuan Jiang</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cmcmillan">McMillan</a><br />Office: 254 Fitzpatrick<br />Phone: (574) 631-4391</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/reid-johnson/@@images/273a2299-3a01-4be2-8664-24f90e2becfe.jpeg" alt="Reid Johnson" class="image-inline" title="Reid Johnson" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/rjohnson"><strong>Reid Johnson</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a><br />Office: 384 NSH<br />Phone: (574) 631-9447</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/kevin-kastner/@@images/42577e31-0b6e-4f0d-8a83-be8d9f51e253.jpeg" alt="Kevin Kastner" class="image-inline" title="Kevin Kastner" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/kkastner"><strong>Kevin Kastner</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/jizaguirre">Izaguirre</a><br />Office: Non-Resident<br />Phone: n/a</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/bc07573c-710b-4e00-873c-5545d9f2f1a5/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jkinnison"><span class="external-link"><strong>Jeffrey Kinnison</strong></span></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/jizaguirre">Izaguirre</a><br />Office: 244 Fitzpatrick<br />Phone: 574-631-7596</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/9a2adba9-885d-481d-bd34-14fa40d79d4a/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/nkremer-herman"><span class="external-link"><strong>Nathaniel Kremer-Herman</strong></span></a></p>
+<p>Degree: Ph.D, Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/lriek">Thain</a><br />Office: 385 Fitzpatrick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/Kuehlkamp9024.jpg/@@images/c06d5022-f91c-4544-b772-960d499f155c.jpeg" alt="Andrey Kuehlkamp" class="image-inline" title="Andrey Kuehlkamp" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/akeuhlkamp"><strong>Andrey Kuehlkamp</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/kbowyer">Bowyer</a><br /> Office: 307 Stinson Remick<br /> Phone: n/a</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/Levinboim9008.jpg/@@images/05e86a50-26b0-4c92-a5eb-2c267aa3a26b.jpeg" alt="Tomer Levinboim" class="image-inline" title="Tomer Levinboim" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/tlevinboim"><strong>Tomer Levinboim</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dchiang">Chiang</a><br /> Office: 244 Fitzpatrick<br /> Phone: (574) 631-7596</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/93fed948-49f0-4a31-8828-0d9f70c1f931/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/bli"><span class="external-link"><strong>Boyang Li</strong></span></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profile/yshi">Shi</a><br /> Office: 254 Fitzpatrick<br /> Phone: (574) 631-4391</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/Li9034.jpg/@@images/6f9f4f76-d18f-4501-80bf-2bce64f5f901.jpeg" alt="KangKang Li" class="image-inline" title="KangKang Li" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/kli"><strong>Ken Li</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/jnabrzyski">Nabrzyski</a><br /> Office: 123 CRC<br /> Phone: (574) 631-3656</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/a871abd2-b126-4091-8a65-24084ea1c0d9/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/pli2"><span class="external-link"><strong>Pei Li</strong></span></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profile/pflynn"> Flynn</a><br /> Office: 307 Stinson Remick<br /> Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/5d4f3c7f-4754-4590-b9c9-f63401ffa494/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/aliu"><span class="external-link"><strong>Anqing Liu</strong></span></a></p>
+<p>Degree: Ph.D. Advisor:<br /> Office: 213 Cushing<br /> Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/42615774-9c1c-4813-a029-7d4d523390bb/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jliu2"><span class="external-link"><strong>Jinglan Liu</strong></span></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profile/yshi">Shi</a><br /> Office: 254 Fitzpatrick<br /> Phone: 574-631-4391</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_QuiwenLou.jpg/@@images/ee1f59ce-5adb-45bb-8a69-e06f8a2b8ec7.jpeg" alt="Quiwen Lou" class="image-inline" title="Quiwen Lou" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/qlou"><strong>Qiuwen Lou</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/xhu">Hu</a>/<a class="external-link" href="http://engineering.nd.edu/profiles/mniemier">Niemier</a><br />Office: 222 Cushing<br />Phone: (574) 631-8854</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_YueMa.jpg/@@images/6f3b3cea-4639-4660-bf0c-e5b62c5c808f.jpeg" alt="Yue Ma" class="image-inline" title="Yue Ma" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/yma"><strong>Yue Ma</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/xhu">Hu</a>/<a class="external-link" href="http://engineering.nd.edu/profiles/mniemier">Niemier</a><br />Office: 222 Cushing<br />Phone: (574) 631-8854</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/a1f670f7-b3c1-4724-a450-f43f7670af3b/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="https://engineering.nd.edu/profiles/jmarshal"><strong><span class="external-link">Jermaine Marshall</span></strong></a></p>
+<p>Degree: Ph.D. Advisor: <br />Office: 222 Cushing<br />Phone: (574) 631-8854</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/mcburneycropped.jpg/@@images/3599eecc-6475-4f14-9ebf-7dde92f345d4.jpeg" alt="Will McBurney" class="image-inline" title="Will McBurney" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/wmcburney"><strong>Paul (Will) McBurney</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cmcmillan">McMillan</a><br />Office: 254 Fitzpatrick<br />Phone:574-631-4391</p>
+</td>
+</tr>
+<tr>
+<td><img class="image-inline" src="http://cse.nd.edu/resolveuid/aa60407c-bf5f-4340-9715-0c8e1c74003d/@@images/image/portrait_popup" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/rmccune"><strong>Ryan McCune</strong></a></p>
+<p>Degree: Ph.D.. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/gmadey"> Madey</a><br />Office: 244 Fitzpatrick<br />Phone: (574) 631-7596</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1">
+<p><img src="http://cse.nd.edu/people/graduate-student-images/HaiyunMeng.jpg/@@images/ae5cfb47-8497-476e-b028-b5c63d70fa54.jpeg" alt="Haiyun Meng" class="image-inline" title="Haiyun Meng" /></p>
+</td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/hmeng"><strong>Haiyan Meng</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dthain">Thain</a><br />Office: 385 Fitzpatrick<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/lei-meng/@@images/4df9009b-a3a0-4f6d-b137-17bdcb4e7325.jpeg" alt="Lei Meng" class="image-inline" title="Lei Meng" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/lmeng"><strong>Lei Meng</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/astriegel">Striegel</a><br />Office: 247 Fitzpatrick<br />Phone: (574) 631-8720</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_MaryamMoosaei.jpg/@@images/4760f1af-cf4d-4b16-acef-f564b3a5b16a.jpeg" alt="Maryam Moosaei" class="image-inline" title="Maryam Moosaei" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/mmoosaei"><strong>Maryam Moosaei</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/lriek">Riek</a><br />Office: 355 Fitzpatrick<br />Phone: (574) 631-4641</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/Murray8988.jpg/@@images/03c806cb-3bc6-42a4-96c0-aa652407d194.jpeg" alt="Kenton Murray" class="image-inline" title="Kenton Murray" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/kmurray"><strong>Kenton Murray</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dchiang">Chiang</a><br /> Office: 244 Fitzpatrick<br /> Phone: (574) 631-7596</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/nagrechacropped.jpg/@@images/e3d00a97-b752-4570-bdd3-8f1db1e34007.jpeg" alt="Saurabh Nagrecha" class="image-inline" title="Saurabh Nagrecha" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/snagrecha"><strong>Saurabh Nagrecha</strong></a></p>
+<p>Degree: Ph.D Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a> <br />Office: 384L Nieuwland<br />Phone: (574) 631-1092</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/AasthaNigram.jpg/@@images/84cd5949-01a6-4a66-a004-e6a889893030.jpeg" alt="Aastha Nigram" class="image-inline" title="Aastha Nigram" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/anigam"><strong>Aastha Nigram</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a><br />Office: 384 NSH<br />Phone: (574) 631-9447</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/ronald-nowling/@@images/ca86f0c5-a8ce-4b9d-9b1b-c955070f79ff.jpeg" alt="Ronald Nowling" class="image-inline" title="Ronald Nowling" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/rnowling"><strong>Ronald Nowling</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/semrich">Emrich</a><br />Office: 384K Nieuwland<br />Phone: (574) 631-1645</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_FredrickNwanganga.jpg/@@images/4cb11b66-11f0-4953-ae80-0079b8155c38.jpeg" alt="Fredrick Nwanganga" class="image-inline" title="Fredrick Nwanganga" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/fnwanganga"><strong>Fredrick Nwanganga</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a><br />Office: 303 ITC<br />Phone: (574) 631-0783</p>
+<p><br /><br /></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/37148c1c-8629-49ed-b4a6-51d60692bd7b/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="https://engineering.nd.edu/profiles/knewaz"><span class="external-link"><strong>Khalique Newaz</strong></span></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profile/tmilenkovic">Milenkovic</a><br />Office: 247A Fitzpatrick<br />Phone: (574) 631-8123</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/Estefan_Ortiz_6351.jpg/@@images/9a36074b-23b7-47f2-b636-dc8929a33500.jpeg" alt="Estefan Oritz" class="image-inline" title="Estefan Oritz" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/eortiz"><strong>Estefan Ortiz</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/kbowyer"> Bowyer</a><br />Office: 254 Fitzpatrick<br />Phone: (574) 631-4391</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/IndranilPalit.jpg/@@images/36f55a6a-2c15-4c61-912b-701abbb94fed.jpeg" alt="Indranil Palit" class="image-inline" title="Indranil Palit" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ipalit"><strong>Indranil Palit</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/xhu">Hu</a><br />Office: 222 Cushing<br />Phone: (574) 631-8854</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_CoreyPennycuff.jpg/@@images/5246712d-c51e-416b-9b42-a3ccf870d0c7.jpeg" alt="Corey Pennycuff" class="image-inline" title="Corey Pennycuff" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/cpennycuff"><strong>Corey Pennycuff</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/tweninger">Weninger</a><br />Office: 247B Fitzpatrick<br />Phone: n/a</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/RobertPerricone.jpg/@@images/c7731f47-606e-4bc0-aae1-f7938de11267.jpeg" alt="Robert Perricone" class="image-inline" title="Robert Perricone" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/rperricone/"><span class="external-link"><strong>Robert Perricone<br /></strong></span></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/xhu">Hu</a>/<a class="external-link" href="http://engineering.nd.edu/profiles/mniemier">Niemier</a><br />Office: 222 Cushing<br />Phone: (574) 631-8854</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/a634bea3-1a87-4d0b-a902-7887b112599d/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="https://engineering.nd.edu/profiles/brichardwebster"><span class="external-link">Brandon RichardWebster</span></a></strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/wscheire">Scheirer</a><br /> Office: 307 Stinson Remick<br /> Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/rodeghero.jpg/@@images/efeb7e52-8477-422c-b779-8779a8630025.jpeg" alt="Paige Rodeghero" class="image-inline" title="Paige Rodeghero" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/prodeghero"><strong>Paige Rodeghero</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cmcmillan">McMillian</a><br />Office:  247 Fitzpatrick<br />Phone: (574) 631-8720</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="https://cse.nd.edu/resolveuid/068e0e27-09dc-4ee5-97fd-34a05dca5831/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="https://engineering.nd.edu/profiles/tshaffer"><span class="external-link">Timothy Shaffer</span></a></strong></p>
+<p>Degree: Ph.D. Advisor: <br />Office:  247A Fitzpatrick<br />Phone: (574) 631-8123</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/AliShahbazi.jpg/@@images/faf1864d-7089-4e83-82ba-252b08a4cb50.jpeg" alt="Ali Shahbazi" class="image-inline" title="Ali Shahbazi" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ashahbazi"><strong>Ali Shahbazi</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/wscheire">Scheirer</a><br /> Office: 307 Stinson Remick<br /> Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/877e5d8d-4027-456f-9754-84b775131118/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/bshen">Bingyu Shen</a></strong></p>
+<p>Degree: Ph.D. Advisor:<br /> Office: 213 Cushing<br /> Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1" style="text-align: justify; "><img src="http://cse.nd.edu/people/graduate-student-images/YangShen.jpg/@@images/c4d42aa6-81d8-4af8-8566-62b04bcc2c09.jpeg" alt="Yang Shen" class="image-inline" title="Yang Shen" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/yshen"><strong>Yang Shen</strong></a></p>
+<p>Degree: Ph.D. Advisor: C. <a class="external-link" href="http://engineering.nd.edu/profiles/cwang">Wang</a><br /> Office: 254 Fitzpatrick<br /> Phone: (574) 631-4391</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/BaoxuShi.jpg/@@images/02f94e8a-1724-4c2c-a89b-d00664ba43c2.jpeg" title="" height="134" width="94" alt="" class="image-inline" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/bshi">Baoxu Shi</a></strong></p>
+<p>Degree: Ph.D.  Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/tweninger">Weninger</a><br />Office: 244 Fitzpatrick<br />Phone: (574) 631-7956</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/99f6c1d6-3900-416b-890a-ce4a50056114/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/lsong"><strong>Lixing Song</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/astriegel">Striegel</a><br />Office: 247 Fitzpatrick<br />Phone: (574) 631-8720</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/aaron-steele/@@images/799267ab-e83f-4507-9055-90351b6a830f.jpeg" alt="Aaron Steele" class="image-inline" title="Aaron Steele" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/asteele"><strong>Aaron Steele</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/semrich">Emrich</a><br />Office: 247B Fitzpatrick<br />Phone: (574)631-8123</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/61ee613b-3e24-4cab-996d-390cd49cd697/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/astewart">Angela Stewart</a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/sdmello">D'Mello</a><br />Office: 250 Haggar Hall<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/c74a492a-5525-45d6-b2b4-7b0589c15bfd/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/hsumerkan"><strong>Hakki Sumerkan</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/pflynn">Flynn</a><br /> Office: 247 Fitzpatrick<br /> Phone: (574) 631-8720</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/james-sweet/@@images/64b30586-4107-43d8-8449-2f9c3b8f9d94.jpeg" alt="James Sweet" class="image-inline" title="James Sweet" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jsweet"><strong>James Sweet</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/jizaguirre">Izaguirre</a><br />Office: 107 ITC<br />Phone: (574) 631-8215</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/efccb338-4dfd-4656-be49-32fdadb77b7d/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/msyed"><strong>Munira Syed</strong></a></p>
+<p>Degree: Ph.D. Advisor:<br />Office: 213 Cushing<br />Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/018227d6-990c-4bca-a3d1-5e6915a89951/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="https://engineering.nd.edu/profiles/ptalkadsukumar">Poorna Talkad Sukumar</a></strong></p>
+<p>Degree: Ph.D, Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/lriek">Riek</a><br />Office: 355 Fitzpatrick<br />Phone: <span class="notranslate skype_c2c skype_c2c_print_container">(574) 631-4641</span><span class="notranslate skype_c2c skype_c2c_container" dir="ltr" id="skype_c2c_container" data-numbertype="paid" data-ismobile="false" data-isrtl="false" data-isfreecall="false" data-numbertocall="+15746314641"><span class="skype_c2c_highlighting_inactive_common" dir="ltr"><span class="skype_c2c_textarea_span" id="non_free_num_ui"><span class="skype_c2c_text_span"></span><span class="skype_c2c_free_text_span"></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/li-tang/@@images/401f7638-bd0a-470a-b737-26ac896672af.jpeg" alt="Li Tang" class="image-inline" title="Li Tang" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/ltang"><strong>Li Tang</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/xhu">Hu</a><br />Office: 222 Cushing<br />Phone: (574) 631-8854</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/52270203-62ba-4da6-a4b3-90b91c824540/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/ptang">Pingjie Tang</a></strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a><br /> Office: 247A Fitzpatrick<br /> Phone: (574) 631-8123</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/57a6c6eb-aa37-4eca-b097-f347a3e76cd6/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/ataylor">Angelique Taylor</a></strong></p>
+<p>Degree: Ph.D, Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/lriek">Riek</a><br />Office: 355 Fitzpatrick<br />Phone: <span class="skype_c2c_print_container skype_c2c notranslate">(574) 631-4641</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/0b3e620d-763d-4e55-a7ea-822ada1825b7/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/kunda">Kassan Unda</a></strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profile/yshi">Shi</a><br /> Office: 254 Fitzpatrick<br /> Phone: <span class="notranslate skype_c2c skype_c2c_print_container">(574) 631-4391</span><span class="notranslate skype_c2c skype_c2c_container" dir="ltr" id="skype_c2c_container" data-numbertype="paid" data-ismobile="false" data-isrtl="false" data-isfreecall="false" data-numbertocall="+15746314391"><span class="skype_c2c_highlighting_inactive_common" dir="ltr"><span class="skype_c2c_textarea_span" id="non_free_num_ui"><span class="skype_c2c_text_span"></span><span class="skype_c2c_free_text_span"></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/SudipVhaduri2.jpg/@@images/b2d78bdc-d879-4632-8cdc-bf7451974189.jpeg" alt="Sudip Vhaduri" class="image-inline" title="Sudip Vhaduri" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/vvhaduri"><strong><span class="external-link"><span class="external-link"><span class="external-link">Sudip Vhaduri</span></span></span></strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer"><span class="external-link">Poellabauer</span></a><br /> Office: 247B Fitzpatrick<br /> Phone: n/a</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/vipin-vijayan/@@images/b895b588-b4a8-42a0-af10-cfba1a3244c1.jpeg" alt="Vipin Vijayan" class="image-inline" title="Vipin Vijayan" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/vvijayan"><strong>Vipin Vijayan</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/tmilenko">Milenkovic</a><br />Office: 247A Fitzpatrick<br />Phone: (574) 631-4391</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/jiazhuo-wang/@@images/78bb4d4f-6aee-4bca-a797-a5122b05ec55.jpeg" alt="Jiazhuo Wang" class="image-inline" title="Jiazhuo Wang" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jwang2"><strong>Jiazhuo Wang</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dchen">Chen</a><br />Office: 244 Fitzpatrick<br />Phone: (574) 631-7596</p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/1d41d5a5-c9f9-478d-a0a3-d6e215c03d06/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="https://engineering.nd.edu/profiles/twang"><strong>Tianchen Wang</strong></a></p>
+<p>Degree: Ph.D. Advisor: <strong><a class="external-link" href="https://engineering.nd.edu/profiles/yshi"><span class="external-link">Shi</span></a></strong><br /> Office: 254 Fitzpatrick<br /> Phone: <span class="notranslate skype_c2c skype_c2c_print_container">(574) 631-4391</span><span class="notranslate skype_c2c skype_c2c_container" dir="ltr" id="skype_c2c_container" data-numbertype="paid" data-ismobile="false" data-isrtl="false" data-isfreecall="false" data-numbertocall="+15746314391"><span class="skype_c2c_highlighting_inactive_common" dir="ltr"><span class="skype_c2c_textarea_span" id="non_free_num_ui"><span class="skype_c2c_text_span"></span><span class="skype_c2c_free_text_span"></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/f40d939f-431b-4cfe-accd-c478a1417377/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/swolters">Stephen Wolters</a></strong></p>
+<p>Degree: Ph.D. Advisor:<a class="external-link" href="http://engineering.nd.edu/profiles/semrich"> Emrich</a><br />Office: 247A Fitzpatrick<br />Phone: <span class="notranslate skype_c2c skype_c2c_print_container">(574) 631-8123</span><span class="notranslate skype_c2c skype_c2c_container" dir="ltr" id="skype_c2c_container" data-numbertype="paid" data-ismobile="false" data-isrtl="false" data-isfreecall="false" data-numbertocall="+15746318123"><span class="skype_c2c_highlighting_inactive_common" dir="ltr"><span class="skype_c2c_textarea_span" id="non_free_num_ui"><span class="skype_c2c_text_span"></span><span class="skype_c2c_free_text_span"></span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/ae4b75c6-e640-4b43-adde-3295369bd1f5/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="http://engineering.nd.edu/profiles/kwu">Kuang Wu</a></strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer"><span class="external-link">Poellabauer</span></a><br /> Office: 247B Fitzpatrick<br /> Phone: n/a</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/2d6e8379-17ff-46ed-aa07-73bb356c331b/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong><a class="external-link" href="https://engineering.nd.edu/profiles/xwu3">Xian Wu</a></strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/semrich"> Chawla</a><br />Office: 384 NSH<br />Phone: <span class="skype_c2c_print_container skype_c2c notranslate">(574) 631-9447</span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/xucropped.jpg/@@images/cc0934c6-fe47-4ab9-a25f-feca98a91a43.jpeg" alt="Jian Xu" class="image-inline" title="Jian Xu" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/jxu"><strong>Jian Xu</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a><br />Office: 384M Nieuwland<br />Phone: (574) 631-2632</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/AbdullahGirayYaglikci2.jpg/@@images/bf98b66e-e3bf-46e8-a320-5ac97d972769.jpeg" alt="Giray Yaglikci" class="image-inline" title="Giray Yaglikci" /></td>
+<td colspan="1">
+<p><strong>Abdullah Yaglikci</strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/xhu">Hu</a><a class="external-link" href="http://engineering.nd.edu/profiles/mniemier">/Niemier</a><br />Office: 222 Cushing<br />Phone: (574) 631-8854</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/855c3197-5dbd-48e9-9785-11597752c079/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><a class="external-link" href="https://engineering.nd.edu/profiles/jyang3"><strong>Jian Yang</strong></a></p>
+<p>Degree: Ph.D. Advisor: <br class="external-link" />Office: 222 Cushing<br />Phone: (574) 631-8854</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_LinYang.jpg/@@images/2c657c79-57b7-42f9-ba7f-3bd574cbaea2.jpeg" alt="Lin Yang" class="image-inline" title="Lin Yang" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/lyang"><strong>Lin Yang</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dchen">Chen</a><br />Office: 244 Fitzpatrick<br />Phone: (574) 631-7596</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/yang-yang/@@images/7311fd59-8f3e-475e-beb7-63c4cf215829.jpeg" alt="Yang Yang" class="image-inline" title="Yang Yang" /></td>
+<td>
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/yyang4"><strong>Yang Yang</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/nchawla">Chawla</a><br />Office: 384M Nieuwland<br />Phone: (574) 631-2632</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/Yatawatte8991.jpg/@@images/7f74db9b-23f7-4d6b-9966-084c0c50b82e.jpeg" alt="Hasini Yatawatte" class="image-inline" title="Hasini Yatawatte" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/hyatawatte"><strong>Hasini Yatawatte</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/cpoellabauer">Poellabauer</a><br /> Office: 247B Fitzpatrick<br /> Phone: (574) 631-8720</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_XunzhaoYin.jpg/@@images/cd6f5745-4230-4447-8e4e-e2f5fe12bba5.jpeg" alt="Xunzhao Yin" class="image-inline" title="Xunzhao Yin" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/xyin"><strong>Xunzhao Yin</strong></a></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/xhu">Hu</a>/<a class="external-link" href="http://engineering.nd.edu/profiles/mniemier">Niemier</a><br />Office: 222 Cushing<br />Phone: (574) 631-8854</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/copy_of_YizheZhang.jpg/@@images/91487698-6138-4b8a-a54c-c22abebaf5a7.jpeg" alt="Yizhe Zhang" class="image-inline" title="Yizhe Zhang" /></td>
+<td colspan="1">
+<p><strong>Yizhe Zhang</strong></p>
+<p>Degree: Ph.D. Advisor: <a class="external-link" href="http://engineering.nd.edu/profiles/dchen">Chen</a><br />Office: 244 Fitzpatrick<br />Phone: (574) 631-7596</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/copy10_of_Nopicture.jpeg" alt="" class="image-inline" title="" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/czheng"><strong>Chao Zheng</strong></a></p>
+<p>Degree: Ph.D. Advisor: Thain<br /> Office: 254 Fitzpatrick<br /> Phone: (574) 631-4391</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/ShenglongZhu55702.jpg/@@images/1275cc14-3328-457a-81b5-92221db21f89.jpeg" alt="Shenglong Zhu" class="image-inline" title="Shenglong Zhu" /></td>
+<td colspan="1">
+<p><a class="external-link" href="http://engineering.nd.edu/profiles/szhu"><strong>Shenglong Zhu</strong></a></p>
+<p>Degree: Ph.D.  Advisor:<a href="http://engineering.nd.edu/profiles/cpoellabauer">  </a>Chen/Emrich<br /> Office: 244 Fitzpatrick<br /> Phone: (574) 631-7956</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
+            
+        </div>
+    
+    
+
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+
+            </td>
+            
+
+            
+                
+                
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+    <a href="http://www.nd.edu" class="mark" title="University of Notre Dame" target="_new"><img src="undlogo-31.png" alt="University of Notre Dame" /></a>
+    <p><a href="http://www.nd.edu/copyright/" title="Copyright" target="_new">Copyright</a> &copy; <span>2016</span><br />
+    The <a title="Home" href="http://cse.nd.edu">Department of Computer Science and Engineering</a> at the <a href="http://www.nd.edu" title="University of Notre Dame" target="_new">University of Notre Dame</a><br />
+    E-mail: <a href="mailto:cse@cse.nd.edu" title="College of Engineering E-mail">cse@cse.nd.edu</a></p>
+</div>
+
+<script type="text/javascript"
+src="/js/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://cse.nd.edu/spinner.gif" /></div>
+</body>
+</html>
+
+

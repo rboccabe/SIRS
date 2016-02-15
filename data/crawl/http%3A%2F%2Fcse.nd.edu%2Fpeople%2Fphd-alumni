@@ -1,0 +1,1775 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://cse.nd.edu/people/phd-alumni" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://cse.nd.edu/people/phd-alumni/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-cachekey5311.css" title="jQuery CSS" />
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery.select2uislider-cachekey4754.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/base-cachekey1847.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/dropdown-menu-cachekey4039.css);</style>
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneKss-cachekey1587.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.discussion.stylesheetsdiscussion-cachekey2492.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.jquerytools.dateinput-cachekey8245.css);</style>
+        <!--[if lte IE 7]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://cse.nd.edu/portal_css/ND%20Theme/IEFixes-cachekey9920.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0248.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cse.nd.edu/portal_css/ND%20Theme/resourceplone.app.dexterity.overlays-cachekey3343.css" />
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.z3cform.datagridfielddatagridfield-cachekey6679.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/visualeditor-cachekey5643.css" />
+    <style type="text/css">@import url(http://cse.nd.edu/portal_css/ND%20Theme/slideshow-cachekey0067.css);</style>
+    <style type="text/css" media="screen">@import url(http://cse.nd.edu/portal_css/ND%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8752.css);</style>
+    <style type="text/css" media="all">@import url(http://cse.nd.edu/portal_css/ND%20Theme/faceted_view-cachekey0307.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/ploneCustom-cachekey9913.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/cseStyles-cachekey5695.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/leastCenterStyles-cachekey3180.css" />
+    <link rel="stylesheet" type="text/css" href="http://cse.nd.edu/portal_css/ND%20Theme/resourcecollective.js.chosenchosen-cachekey4409.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/labStyles-cachekey2020.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://cse.nd.edu/portal_css/ND%20Theme/print-cachekey0402.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://cse.nd.edu/portal_css/ND%20Theme/brandbarOverrideStyles-cachekey4132.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://cse.nd.edu/portal_kss/ND%20Theme/at-cachekey5249.kss" />
+  
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cachekey5527.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery.tagcloud-cachekey4878.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/table_sorter-cachekey4070.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcedropdown-menu-cachekey8189.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.app.discussion.javascriptscomments-cachekey7910.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/iefixes-cachekey9038.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete.min-cachekey1034.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/basic-cachekey2230.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery-cycle-cachekey0203.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/resourcejquery-ui.min-cachekey8119.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/jquery.jqEasyCharCounter.min-cachekey4265.js"></script>
+    <script type="text/javascript" src="http://cse.nd.edu/portal_javascripts/ND%20Theme/cseAnalytics-cachekey7388.js"></script>
+
+
+<title>PhD Alumni &mdash; Department of Computer Science and Engineering</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://cse.nd.edu/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://cse.nd.edu/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://cse.nd.edu" title="Front page" />
+
+    <link rel="contents" href="http://cse.nd.edu/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://cse.nd.edu/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-document_view portaltype-document section-people navroot-cse" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <div id="brandBar">
+		<p class="undBrand"><a href="http://www.nd.edu/" target="_blank" title="University of Notre Dame">UNIVERSITY of NOTRE DAME</a></p>
+		<p class="orgBrand"><a href="http://engineering.nd.edu/" title="College of Engineering">COLLEGE of ENGINEERING</a></p>
+                <p class="orgBrand provost"><a href="http://provost.nd.edu/" title="Office of the Provost">OFFICE of the PROVOST</a></p>
+	</div>
+	<p class="hiddenStructure">
+  <a accesskey="2" href="http://cse.nd.edu/people/phd-alumni#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://cse.nd.edu/people/phd-alumni#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+
+    <a id="portal-logo" title="Home" accesskey="1" href="http://cse.nd.edu">
+       <span>Department of Computer Science and Engineering</span>
+       
+    </a>
+    
+    
+
+
+
+<div id="portal-searchbox"> 
+                 
+     <form name="searchform" id="searchGadget_form" action="http://cse.nd.edu/search">
+       <div class="LSBox">
+           <label class="hiddenStructure" for="searchGadget">Search Site</label>
+        
+            <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+                   
+            <button type="submit" class="searchButton" id="search-button">Search</button>
+        
+            <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div>
+        </div>
+    </div></form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://cse.nd.edu/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+	<!--<dt>
+		<a href="#">Contact</a>
+	<a href="#">Directory</a>
+	<a title="Home"
+	   accesskey="1"
+	   tal:attributes="href view/navigation_root_url"
+	   i18n:domain="plone"
+	   i18n:attributes="title">Home</a></dt>-->
+  <dt id="anon-personalbar">
+    
+        <a href="http://cse.nd.edu/login" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://cse.nd.edu" class="plain" title="">Home</a></li><li id="portaltab-academics" class="plain"><a href="http://cse.nd.edu/academics" class="plain" title="">ACADEMICS</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/current-courses" class="state-published" title="">
+            
+            Current Courses
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-catalog" class="state-published" title="">
+            
+            Course Catalog
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/course-archives" class="state-published" title="">
+            
+            Course Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/info-for-undergrads" class="state-published" title="">
+            
+            Information for Undergraduates
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/grads" class="state-published" title="">
+            
+            Information for Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/academics/honor-code" class="state-published" title="">
+            
+            Honor Code
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-research" class="plain"><a href="http://cse.nd.edu/research" class="plain" title="">RESEARCH</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-labs" class="state-published" title="">
+            
+            Research Labs
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/research-areas" class="state-published" title="">
+            
+            Research Areas
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/current-projects" class="state-published" title="">
+            
+            Current Projects
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/tech-reports-1" class="state-published" title="">
+            
+            Tech Reports
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-people" class="selected"><a href="http://cse.nd.edu/people" class="plain" title="">PEOPLE</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published" title="">
+            
+            Faculty
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published" title="">
+            
+            Staff
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published" title="">
+            
+            Graduate Students
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published" title="">
+            
+            PhD Alumni
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published" title="">
+            
+            Directory
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-resources" class="plain"><a href="http://cse.nd.edu/resources" class="plain" title="">RESOURCES</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/computer-facilities" class="state-published" title="">
+            
+            Computer Facilities
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/installed-software" class="state-published" title="">
+            
+            Installed Software
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/current-cse-newsletter" class="state-published" title="">
+            
+            Current CSE Newsletter
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/newsletter-archives" class="state-published" title="">
+            
+            Newsletter Archives
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/resources/university-resources" class="state-published" title="">
+            
+            University Resources
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-join-us" class="plain"><a href="http://cse.nd.edu/join-us" class="plain" title="">JOIN US</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/graduate" class="state-published" title="">
+            
+            Graduate Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/undergrad-admissions" class="state-published" title="">
+            
+            Undergrad Admissions
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/faculty-job-openings" class="state-published" title="">
+            
+            Faculty Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/staff-job-openings" class="state-published" title="">
+            
+            Staff Job Openings
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/join-us/student-job-openings" class="state-published" title="">
+            
+            Student Job Openings
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-about" class="plain"><a href="http://cse.nd.edu/about" class="plain" title="">ABOUT</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="http://cse.nd.edu/about/academic-mission" class="state-published" title="">
+            
+            Academic Mission
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/department-news" class="state-published" title="">
+            
+            Department News
+        </a>
+        
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://cse.nd.edu/about/careers-in-cse" class="state-published" title="">
+            
+            Careers in CSE
+        </a>
+        
+        
+    
+</li>
+                </ul>
+            </li></ul>
+
+
+</div>
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                <td id="portal-column-one">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6e642f636f652f6465706172746d656e74732f6373650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="http://cse.nd.edu/people/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            <li class="navTreeItem navTreeTopNode">
+                <div>
+                   <a href="http://cse.nd.edu/people" class="contenttype-plone-site " title="">
+                   
+                   PEOPLE
+                   </a>
+                </div>
+            </li>
+            
+
+
+
+<li class="navTreeItem visualNoMarker section-faculty">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/faculty" class="state-published contenttype-document" title="">
+            
+            <span>Faculty</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-staff">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/staff" class="state-published contenttype-document" title="">
+            
+            <span>Staff</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-graduate-students">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/graduate-students" class="state-published contenttype-document" title="">
+            
+            <span>Graduate Students</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode section-phd-alumni">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/phd-alumni" class="state-published navTreeCurrentItem navTreeCurrentNode contenttype-document" title="">
+            
+            <span>PhD Alumni</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-directory">
+
+    
+
+
+        <a href="http://cse.nd.edu/people/directory" class="state-published contenttype-link" title="">
+            
+            <span>Directory</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <!--<span id="breadcrumbs-you-are-here" i18n:translate="you_are_here">You
+are here:</span>-->
+    <span id="breadcrumbs-home">
+        <a href="http://cse.nd.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            &gt;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://cse.nd.edu/people">PEOPLE</a>
+            <span class="breadcrumbSeparator">
+                &gt;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">PhD Alumni</span>
+         
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    PhD Alumni
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+                            
+                                
+                                
+            
+                
+            
+            
+        
+                            
+
+                            
+
+
+                            <div id="content-core">
+                                
+    
+        
+        <div class="" id="parent-fieldname-text">
+            <p></p>
+<table class="listing" style="width: 80%;">
+<tbody>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/badi.jpg/@@images/7c6aced3-2b44-4cd0-bb88-c0d9b0c1a5c2.jpeg" alt="" class="image-inline" title="" /></td>
+<td colspan="1">
+<p><strong>Dr. Christopher Badi Abdul-Wahid</strong><br />2015<br />Advisor: Dr. Jesus Izaguirre<br />Current Position: Visiting Research Assistant, IU Bloomington</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/WilliamAcostacropped.jpg/@@images/09e0800e-b68d-4795-83ad-2bec791c07da.jpeg" alt="Dr. William Acosta 2" class="image-inline" title="Dr. William Acosta 2" /></td>
+<td>
+<p class="title"><strong>Dr. William Acosta</strong><br />2008<br />Advisor: Dr. Surendar Chandra<br />Current Position: Big Data Architect - Hadoop Lead at Dish Network</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/EveraldoAguiar.jpg/@@images/2d3512a5-07e7-4bee-9f78-d6e3a6da6792.jpeg" alt="Dr. Everaldo Aguiar, PhD" class="image-inline" title="Dr. Everaldo Aguiar, PhD" /></td>
+<td colspan="1">
+<p><strong>Dr. Everaldo Aguiar</strong><br />2015<br />Advisors: Dr. Nitesh Chawla and Dr. Jay Brockman<br />Current Position: Data Scientist, Concur Technologies</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/MehrdadAliasgari.jpg/@@images/7910d950-a374-45bd-9aa1-ecc4ef43b9b6.jpeg" alt="Dr. Mehrdad Aliasgari" class="image-inline" title="Dr. Mehrdad Aliasgari" /></td>
+<td colspan="1">
+<p><strong>Dr. Mehrdad Aliasgari</strong><br />2013<br />Advisor: Dr. Marina Blanton<br />Current Position: Assistant Professor at California State University, Long Beach </p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/Virgil.jpg/@@images/6cbff16f-bfec-41f5-b253-37b95c461943.jpeg" alt="Dr. Virgil Andronache" class="image-inline" title="Dr. Virgil Andronache" /></td>
+<td>
+<p><strong>Fr.  Virgil Andronache</strong>,<strong> PhD</strong><br />2004<br />Advisor: Dr. Matthias Scheutz<br />Current Position: Parish Priest at St. John the Baptist Greek Orthodox Church in Cedar Rapids, Iowa</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/SmniazArifin.jpg/@@images/03fb8ccc-7015-4da9-80bf-6b869416f8fc.jpeg" alt="Niaz Arifin" class="image-inline" title="Niaz Arifin" /></td>
+<td colspan="1">
+<p><strong>Dr. S M Niaz Arifin</strong><br />2013<br />Advisor: Dr .Gregory Madey<br />Current Position: Research Assistant Professor, Notre Dame</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/ArindamBanerji2.jpg/@@images/26a66f3c-6cca-4a81-b27f-8c2841c2cbf8.jpeg" alt="Dr. Arindam Banerji" class="image-inline" title="Dr. Arindam Banerji" /></td>
+<td>
+<p><strong>Dr. Arindam Banerji</strong><br />1997<br />Advisor: Dr David Cohn<br />Current Position: Managing Director at Accenture Analytics</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/jerimiah-barr/@@images/e9bffb88-ef1e-4c53-9994-109d56c01ff8.jpeg" alt="Jerimiah Barr" class="image-inline" title="Jerimiah Barr" /></td>
+<td colspan="1">
+<p><strong>Dr. Jeremiah Barr</strong><br />2015<br />Advisors: Bowyer/Flynn<br />Current Position: Research Scientist at Noblis, Inc</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy_of_AndrewBlaich.jpg/@@images/0829a1e8-cd46-40c2-a986-28ab1e052080.jpeg" alt="" class="image-inline" title="" /></td>
+<td>
+<p><strong>Dr. Andrew Blaich</strong><br />2010<br />Advisor: Dr. Aaron Striegel<br />Current Position: Lead Security Analyst at Bluebox Security</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-christopher-boehnen" alt="Dr. Christopher Boehnen" class="image-inline" title="Dr. Christopher Boehnen" /></td>
+<td>
+<p><strong>Dr. Christopher Boehnen</strong><br />2009<br />Advisor: Dr. Patrick Flynn<br />Current Position: Program Manager at Intelligence Advanced Research Projects Activity, University of Tennesse</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-paul-brenner" alt="Dr. Paul Brenner" class="image-inline" title="Dr. Paul Brenner" /></td>
+<td>
+<p><strong>Dr. Paul Brenner</strong><br />2007<br />Advisor: Dr. Jesus Izaguirre<br />Current Position: Associate Director, High Performance Computing, ITC, Notre Dame<br /><a href="http://www.nd.edu/%7Epbrenne1">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/HoangBui.jpg/@@images/779a4ce5-ec66-461b-847e-0e1f5608f772.jpeg" alt="Hoang Bui" class="image-inline" title="Hoang Bui" /></td>
+<td>
+<p><strong>Dr. Hoang Bui</strong><br />2012<br />Advisor: Dr. Douglas Thain<br />Current Position: Assistant Professor at Western Illinois University</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/PeterBui.jpg/@@images/d26fe39f-c42c-4513-98cc-89270033fe6c.jpeg" alt="Dr. Peter Bui" class="image-inline" title="Dr. Peter Bui" /></td>
+<td>
+<p><strong>Dr. Peter Bui</strong><br />2012<br />Advisor: Dr. Douglas Thain<br />Current Position: Assistant Professional Specialist, Notre Dame</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/HaipengCai.jpg/@@images/262089cb-b00e-4565-a861-405db475edb8.jpeg" alt="Dr. Haipeng Cai, PhD" class="image-inline" title="Dr. Haipeng Cai, PhD" /></td>
+<td colspan="1">
+<p><strong>Dr. Haipeng Cai</strong><br />2015<br />Advisor: Dr. Douglas Thain<br />Current Position: Post Doctoral Associate, Virginia Tech</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/KyongChang.jpg/@@images/a74ea979-9be7-437e-93c5-689551df69b1.jpeg" alt="Drl Kyong Chang" class="image-inline" title="Drl Kyong Chang" /></td>
+<td>
+<p><strong>Dr. Kyong Chang</strong><br />2005<br />Advisors: Dr. Kevin Bowyer and Dr. Patrick Flynn<br />Current Position: Principal Engineer for the Ultrasound Division at Phillips Medical Systems</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/TamChantem2.jpg/@@images/47a99fd6-938c-48c8-a0a1-42bd88452207.jpeg" alt="Dr. Tam Chantem" class="image-inline" title="Dr. Tam Chantem" /></td>
+<td>
+<p><strong>Dr. Thidapat Chantem</strong><br />2011<br />Advisor: Dr. Sharon Hu<br />Current Position: Assistant Professor at Utah State University</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-chantana-chantrapornchai" alt="Dr. Chantana Chantrapornchai" class="image-inline" title="Dr. Chantana Chantrapornchai" /></td>
+<td>
+<p><strong>Dr. Chantana Chantrapornchai</strong><br />1999<br />Advisor: Dr. Edwin Sha<br />Current Position:  Associate Professor, Kasetsart University, Bangkok, Thailand</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/MikeChapple.jpg/@@images/9a9215bd-1b30-481b-94c8-23abe66b883f.jpeg" alt="Dr. Michael Chapple" class="image-inline" title="Dr. Michael Chapple" /></td>
+<td>
+<p><strong>Dr. Michael Chapple</strong><br />2009<br />Advisor: Dr. Aaron Striegel<br />Current Position: Senior Director, IT Service Delivery and Concurrent Assistant Professor at University of Notre Dame</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/SantanuChatterjee2.jpg/@@images/b51b456d-8554-404b-a307-280640e17101.jpeg" alt="Dr. Santanu Chatterjee" class="image-inline" title="Dr. Santanu Chatterjee" /></td>
+<td>
+<p><strong>Dr. Santanu Chatterjee</strong><br />2010<br />Advisor: Dr. Jesus Izaguirre<br />Current Position: Staff Software Engineer at MapR Technologies</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/xinchen.jpg/@@images/47e8f19c-3784-4969-880a-676566f003ca.jpeg" alt="Dr. Xin Chen" class="image-inline" title="Dr. Xin Chen" /></td>
+<td>
+<p><strong>Dr. Xin Chen</strong><br />2007<br />Advisors: Dr. Kevin Bowyer and Dr. Patrick Flynn<br />Current Position: Senior Research Scientist at NOKIA Corporation and Adjunct Professor at Illinois Institute of Technology and Adjunct Assistant Professor at Northwestern University<br /><a href="http://www.cs.iit.edu/%7Exchen/">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-scott-christley" alt="Dr. Scott Christley" class="image-inline" title="Dr. Scott Christley" /></td>
+<td>
+<p><strong>Dr. Scott Christley</strong><br />2008<br />Advisor: Dr. Gregory Madey<br />Current Position: Research Professional at the University of Chicago</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/TrevorCickovski2.jpg/@@images/9ad7aa8a-58ef-4c11-a95a-45271bcf289c.jpeg" alt="Dr. Trevor Cickovski" class="image-inline" title="Dr. Trevor Cickovski" /></td>
+<td>
+<p><strong>Dr. Trevor Cickovski</strong><br />2008<br />Advisor: Dr. Jesus Izaguirre<br />Current Position: Visting Professor of Computer Science, Florida International University</p>
+<h2></h2>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy_of_DavidCieslak.jpg/@@images/c16a2821-94aa-40cb-b7ca-b61a4dfb8a49.jpeg" alt="David Cieslak" class="image-inline" title="David Cieslak" /></td>
+<td>
+<p><strong>Dr. David Cieslak</strong><br />2009<br />Advisor: Dr. Nitesh Chawla<br />Current Position: Vice President of Predictive Modeling, Aunalytics</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/RyanConnaughton2.jpg/@@images/76603693-76a6-4e86-ae1c-55abc90d4549.jpeg" alt="Ryan Connaughton " class="image-inline" title="Ryan Connaughton " /></td>
+<td>
+<p><strong>Dr. Ryan Connaughton</strong><br />2012<br />Advisors: Dr. Kevin Bowyer Dr. Patrick Flynn<br />Current Position:  Software Engineer, Medstrat, Inc</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/MichaelCrocker2.jpg/@@images/ac1ffa63-9f43-4a63-953c-2a09e0470e98.jpeg" alt="Michael Crocker" class="image-inline" title="Michael Crocker" /></td>
+<td>
+<p><strong>Dr. Michael Crocker</strong><br />2011<br />Advisor: Dr. Sharon Hu<br />Current Position: Consultant at Pariveda Solutions</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/OvidiuDaescu2.jpg/@@images/1541cae5-e693-45b8-b823-c69129a6aae8.jpeg" alt="Dr. Ovidiu Daescu" class="image-inline" title="Dr. Ovidiu Daescu" /></td>
+<td>
+<p><strong>Dr. Ovidiu Daescu</strong><br />2000<br />Advisor: Dr. Danny Chen<br />Current Position: Professor and Associate Department Head at the University of Texas at Dallas<br /><a href="http://www.utdallas.edu/%7Edaescu">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/DarcyDavis.jpg/@@images/29fcb469-3ad9-4312-8d01-1a0ad282dd1f.jpeg" alt="Darcy Davis" class="image-inline" title="Darcy Davis" /></td>
+<td>
+<p><strong>Dr. Darcy Davis</strong><br />2012<br />Advisor: Dr. Nitesh Chawla<br />Current Position: Data Scientist at Advocate Healthcare, Elmhurst, IL</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/aaronDingler.jpg/@@images/9cece7ef-1446-4599-a56f-a49d4506fce3.jpeg" alt="Aaron Dingler" class="image-inline" title="Aaron Dingler" /></td>
+<td colspan="1">
+<p><strong>Dr. Aaron Dingler</strong><br />2013<br />Advisor: Dr. Michael Niemier<br />Current Position: Assistant Professor of Computer Engineering, Seattle Pacific University </p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/JayDoyle.jpg/@@images/35a9b32a-9436-4823-9e69-9a514606767b.jpeg" alt="Dr. Jay Doyle, PhD" class="image-inline" title="Dr. Jay Doyle, PhD" /></td>
+<td colspan="1">
+<p><strong>Dr. Jay Doyle</strong><br />2015<br />Advisor: Dr. Kevin Bowyer<br />Current Position: Lead Engineer, MITRE</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-timothy-dysart" alt="Dr. Timothy Dysart" class="image-inline" title="Dr. Timothy Dysart" /></td>
+<td>
+<p><strong>Dr. Timothy Dysart</strong><br />2009<br />Advisor: Dr. Peter Kogge<br />Current Position: Engineer at EMU Solutions</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-timothy-faltemier" alt="Dr. Timothy Faltemier" class="image-inline" title="Dr. Timothy Faltemier" /></td>
+<td>
+<p><strong>Dr. Timothy Faltemier</strong><br />2007<br />Advisors: Dr. Kevin Bowyer and Dr. Patrick Flynn<br />Current Position: Progeny Systems Corporation</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/haoyun.jpg/@@images/1099f5d9-20a7-488a-b3dc-c1284a3d6e25.jpeg" alt="Dr. Haoyun Feng" class="image-inline" title="Dr. Haoyun Feng" /></td>
+<td colspan="1">
+<p><strong>Dr. Haoyun Feng</strong><br />2015<br />Advisor: Dr. Jesus Izaguirre<br />Current Position: Software Engineer at Bloomberg, NYC</p>
+<p><span style="font-size: x-small; "><br /></span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-sarah-frost-murphy" alt="Dr. Sarah Frost-Murphy" class="image-inline" title="Dr. Sarah Frost-Murphy" /></td>
+<td>
+<p><strong>Dr. Sarah Frost-Murphy</strong><br />2009<br />Advisor: Dr. Peter Kogge</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-yongquin-gao" alt="Dr. Yongquin Gao" class="image-inline" title="Dr. Yongquin Gao" /></td>
+<td>
+<p><strong>Dr. Yongqin Gao</strong><br />2006<br />Advisor: Dr. Gregory Madey<br />Current Position: Vice President, Nomura Securities</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/james-gentile/@@images/78efa0f4-9501-430e-b678-877459d4d2db.jpeg" alt="James Gentile" class="image-inline" title="James Gentile" /></td>
+<td colspan="1">
+<p><strong>Dr. James Gentile</strong><br />2013<br />Advisor: Dr. Gregory Madey<br />Current Position:  Senior Research Engineer at Invincea Labs</p>
+<p><span class="/biz/miniprofile/4440?pathWildcard=4440 new-miniprofile-container" data-li-miniprofile-id="LI-8707263" data-tracking="mcp_profile_sum" data-li-url="/biz/miniprofile/4440?pathWildcard=4440" data-li-getjs="https://static.licdn.com/scds/concat/common/js?h=40vfeoewuurexnhvi1o2qiknu&amp;fc=2"><strong><br /></strong></span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/scott_hampton.jpg/@@images/d35fc9e5-9964-4ea2-a9c4-0a488b766e6f.jpeg" alt="Dr. Scott Hampton" class="image-inline" title="Dr. Scott Hampton" /></td>
+<td>
+<p><strong>Dr. Scott Hampton</strong><br />2007<br />Advisor: Dr. Jesus Izaguirre<br />Current Position: HPC User Support Manager, ITC, Notre Dame</p>
+<p><span style="font-size: x-small; "><br /></span></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/JeffreyHemmes.jpg/@@images/65498bd4-7ce5-48a8-92c4-cb6d5dfca006.jpeg" alt="Dr. Jeffrey Hemmes" class="image-inline" title="Dr. Jeffrey Hemmes" /></td>
+<td>
+<p><strong>Dr. Jeffrey Hemmes</strong><br />2009<br />Advisor: Dr. Douglas Thain<br />Current Position:  Professor of Aerospace Studies and Commander of the Air Force Reserve Officer Training Corps at Auburn University.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-ryan-hoens" alt="Dr. Ryan Hoens" class="image-inline" title="Dr. Ryan Hoens" /></td>
+<td>
+<p><strong>Dr. Ryan Hoens</strong><br />2012<br />Advisor: Dr. Nitesh Chawla<br />Current Position: Applied Researcher, Microsoft Research</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/KarenHollingsworth2.jpg/@@images/a7b093c7-4b92-4619-a609-6945c8fe919d.jpeg" alt="Dr. Karen Hollingsworth" class="image-inline" title="Dr. Karen Hollingsworth" /></td>
+<td>
+<p><strong>Dr. Karen Hollingsworth</strong><br />2010<br />Advisor: Dr. Kevin Bowyer, Dr. Patrick Flynn<br />Current Position: Self Employed Family Services Professional</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/shengyan-hong/@@images/2c7eae38-2b55-4aa3-8b13-45d3a3830811.jpeg" alt="Shengyan Hong" class="image-inline" title="Shengyan Hong" /></td>
+<td colspan="1">
+<p><strong>Dr. Shengyan Hong</strong><br />2015<br />Advisor: Dr. Sharon Hu<br />Current Position: Software Engineer at Cadence Design Systems</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/YingpingHuang2.jpg/@@images/4e53d527-ebef-4231-9b9e-c4070647a0fe.jpeg" alt="Dr. Yingping Huang" class="image-inline" title="Dr. Yingping Huang" /></td>
+<td>
+<p><strong>Dr. Yingping Huang</strong><br />2005<br />Advisor: Dr. Gregory Madey<br />Current Position: Quantitative Consultant Derivative Valuation Associates, LLC</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-yingxin-jiang" alt="Dr. Yingxin Jiang" class="image-inline" title="Dr. Yingxin Jiang" /></td>
+<td>
+<p><strong>Dr. Yingxin Jiang</strong><br />2010<br />Advisor: Dr. Aaron Striegel<br />Current Position: Software Engineer at Google Cloud Platform</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img class="image-inline" src="http://cse.nd.edu/resolveuid/59e2d595-54ec-457a-9744-e7f311022daf" /></td>
+<td>
+<p><strong>Dr. Eric Johnson</strong><br />1997<br />Advisor: Dr. Jay Brockman<br />Current Position: Dean of the College of Engineering and Professor of Electrical and Computer Engineering at Valparaiso University<br /><a class="external-link" href="http://www.valpo.edu/college-of-engineering-dev/faculty/eric-johnson/">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/RyanKennedy2.jpg/@@images/4bad6df1-2d06-499d-abe9-fc200d589713.jpeg" alt="Ryan Kennedy" class="image-inline" title="Ryan Kennedy" /></td>
+<td>
+<p><strong>Dr. Ryan Kennedy</strong><br />2011<br />Advisor: Dr. Gregory Madey<br />Current Position: Postdoctoral Researcher, University of California, San Francisco</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/kevinklenk2.jpg/@@images/eef9d0fc-595c-40b9-8e21-d020684f5953.jpeg" alt="Dr. Kevin Klenk" class="image-inline" title="Dr. Kevin Klenk" /></td>
+<td>
+<p><strong>Dr. Kevin Klenk</strong><br />1998<br />Advisor: Dr. Danny Chen<br />Current Position: IT Executive at The Aerospace Corporation</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/AlexeiKudriavtsev.jpg/@@images/a0da31f6-09dd-41a5-82e0-b3e2838101ee.jpeg" alt="" class="image-inline" title="" /></td>
+<td>
+<p class="title"><strong>Dr. Alexei Kudriavtsev</strong><br />2005<br />Advisor: Dr. Peter Kogge<br />Current Position: Software Engineer at Expedia, Inc</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-shannon-kuntz" alt="Dr. Shannon Kuntz" class="image-inline" title="Dr. Shannon Kuntz" /></td>
+<td>
+<p><strong>Dr. Shannon Kuntz</strong><br />2009<br />Advisor: Dr. Jay Brockman<br />Current Position: Consultant for EMU Solutions</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/steven-kurtz/@@images/a93e4a1d-ac1b-4b33-961f-d15e67be6ef0.jpeg" alt="Steven Kurtz" class="image-inline" title="Steven Kurtz" /></td>
+<td colspan="1">
+<p><strong>Dr. Steven Kurtz</strong><br />2013<br />Advisor: Dr. Michael Niemier<br />Current Position: Software Engineer, IBM, Austin</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-patrick-lafratta" alt="Dr. Patrick LaFratta" class="image-inline" title="Dr. Patrick LaFratta" /></td>
+<td>
+<p class="title"><strong>Dr. Patrick LaFratta</strong><br />2010<br />Advisor: Dr. Peter Kogge<br />Current Position: System Architect at Micron Technology</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/IrenaLanc.jpg/@@images/02508fd8-8a56-4ceb-8fb2-4c7f17cdd8ef.jpeg" alt="Dr. Irena Lanc" class="image-inline" title="Dr. Irena Lanc" /></td>
+<td colspan="1">
+<p><strong>Dr. Irena Lanc</strong><br />2014<br />Advisor: Dr. Scott Emrich<br />Current Position: Instructor at Washington University School of Medicine</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/LieQuanLee2.jpg/@@images/eb10a185-8563-480e-8b7e-1160b7e68937.jpeg" alt="Dr. Lie-Quan Lee" class="image-inline" title="Dr. Lie-Quan Lee" /></td>
+<td>
+<p class="title"><strong>Dr. Lie-Quan (Rich) Lee</strong><br />2003<br />Advisors: Dr. Sharon Hu and Dr. Andrew Lumsdaine<br />Current Position: Algorithm Manager at KLA-Tencor</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-ryan-lichtenwalter" alt="Dr. Ryan Lichtenwalter" class="image-inline" title="Dr. Ryan Lichtenwalter" /></td>
+<td>
+<p><strong>Dr. Ryan Lichtenwalter</strong><br />2012<br />Advisor: Dr. Nitesh Chawla<br />Current Position: Post -Doc, McGill University, Quebec</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/QiLiao2.jpg/@@images/c549d21c-8720-4daf-ba9f-e6456700844e.jpeg" alt="Dr. Qi Liao" class="image-inline" title="Dr. Qi Liao" /></td>
+<td>
+<p><strong>Dr. Qi Liao</strong><br />2011<br />Advisor: Dr. Aaron Striegel<br />Current Position: Assstant Professor at Central Michigan University</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/ShuLiu2.jpg/@@images/73f31131-a585-46e7-b860-0589807ed909.jpeg" alt="Dr. Shu Liu" class="image-inline" title="Dr. Shu Liu" /></td>
+<td colspan="1">
+<p><strong>Dr. Shu Liu</strong><br />2014<br />Advisor: Dr. Aaron Striegel<br />Current Position: Data Engineer at Yammer, Inc</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-xiaomei-liu" alt="Dr. Xiaomei Liu" class="image-inline" title="Dr. Xiaomei Liu" /></td>
+<td>
+<p><strong>Dr. Xiaomei Liu</strong><br />2007<br />Advisors: Dr. Kevin Bowyer and Dr. Patrick Flynn<br />Current Position: Senior Software Engineer at EMC Corporation, Boston</p>
+</td>
+</tr>
+<tr>
+<td><img class="image-inline" height="126" src="http://cse.nd.edu/resolveuid/4e2e6a58-a51f-4a0f-9740-88827f507a66" width="93" /></td>
+<td>
+<p><strong>Dr. Xiaomin Liu</strong><br />2011<br />Advisor: Dr. Danny Chen<br />Current Position: Senior Scientist at Hologic Inc.</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/shiliang-liu/@@images/6dfa4507-6c0f-4685-9c8a-d802a90d5f50.jpeg" alt="Shiliang Liu" class="image-inline" title="Shiliang Liu" /></td>
+<td colspan="1">
+<p><strong>Dr. Shiliang Liu</strong><br />2014<br />Advisor: Dr. Sharon Hu<br />Current Position: R&amp;D Engineer at IBM</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy7_of_no_photoND.jpeg/@@images/3c11f19b-1feb-4452-ba39-66877a3d9f06.jpeg" alt="" class="image-inline" title="" /></td>
+<td>
+<p><strong>Dr. Arun Lokanathan</strong><br />1998<br />Advisor: Dr. Jay Brockman<br />Current Position: Senior Member of Technical Staff, DRAM Design</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/ShuangLuan.jpg/@@images/a7a22620-8d96-4e50-8f30-2cb01ff74d97.jpeg" alt="Dr. Shuang Luan" class="image-inline" title="Dr. Shuang Luan" /></td>
+<td>
+<p><strong>Dr. Shuang Luan</strong><br />2004<br />Advisor: Dr. Danny Chen<br />Current Position: Associate Professor at the University of New Mexico<br /><a href="http://www.cs.unm.edu/%7Esluan">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy7_of_no_photoND.jpeg/@@images/3c11f19b-1feb-4452-ba39-66877a3d9f06.jpeg" alt="" class="image-inline" title="" /></td>
+<td>
+<p><strong>Dr. Qun (Marc) Ma</strong><br />2003<br />Advisor: Dr. Jesus Izaguirre</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/Chad2.jpg/@@images/bb2e12d1-e1a5-4573-8d1d-40ed0c4c4394.jpeg" alt="Dr. Chad Mano" class="image-inline" title="Dr. Chad Mano" /></td>
+<td>
+<p><strong>Dr. Chad Mano</strong><br />2006<br />Advisor: Dr. Aaron Striegel<br />Current Position: Assistant Professor at Utah State University</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-robert-mckeon" alt="Dr. Robert McKeon" class="image-inline" title="Dr. Robert McKeon" /></td>
+<td>
+<p><strong>Dr. Robert McKeon</strong><br />2010<br />Advisor: Dr. Patrick Flynn<br />Current Position: Next-Generation Sensor Algorithm Engineer, Apple</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/ChrisMiddendorff.jpg/@@images/2ec21edf-a887-4025-8c72-dcd58ff492c1.jpeg" alt="Dr. Christopher Middendorff" class="image-inline" title="Dr. Christopher Middendorff" /></td>
+<td>
+<p><strong>Dr. Christopher Middendorff</strong><br />2009<br />Advisor: Dr. Kevin Bowyer<br />Current Position: Software Development Engineer,  Amazon</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/ChrisMiller.jpg/@@images/5c89c077-affd-435f-b883-1424c61f9ad5.jpeg" alt="Christopher Miller" class="image-inline" title="Christopher Miller" /></td>
+<td colspan="1">
+<p><strong>Dr. Christopher Miller</strong><br />2013<br />Advisor: Dr. Christian Poellabauer<br />Current Position: Assistant Professor at Rose-Hulman Institute of Technology</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/EwaMisioleksm.jpg/@@images/e6ba258d-1523-442e-b535-e26c92146511.jpeg" title="Dr. Ewa Misiolek" height="105" width="95" alt="Dr. Ewa Misiolek" class="image-inline" /></td>
+<td>
+<p><strong>Dr. Ewa Misiolek</strong><br />2011<br />Advisor: Dr. Danny Chen<br />Current Position: Associate Professor at St. Mary's College</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/pramita-mitra/@@images/78e1c425-d4b7-42cd-8678-8b223bccb322.jpeg" alt="Pramita Mitra" class="image-inline" title="Pramita Mitra" /></td>
+<td colspan="1">
+<p><strong>Dr. Pramita Mitra</strong><br />2013<br />Advisor: Dr. Christian Poellabauer<br />Current Position: Senior Software Architect at Ford Motor Company</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/BrenMochoki.jpg/@@images/66cb8593-7bb0-47da-b124-5e13e162cb62.jpeg" alt="Dr. Bren Mochoki" class="image-inline" title="Dr. Bren Mochoki" /></td>
+<td>
+<p><strong>Dr. Bren Mochocki</strong><br />2007<br />Advisor: Dr. Sharon Hu<br />Current Position: Foundations Technical Trainer at Epic Systems Corporation</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/FaruckMorcos.jpg/@@images/12c67d04-ff31-48b2-9f69-59591247c13a.jpeg" alt="Dr. Faruck Morcos" class="image-inline" title="Dr. Faruck Morcos" /></td>
+<td>
+<p><strong>Dr. Alonso Faruck Morcos-Gonzalez</strong><br />2010<br />Advisor: Dr. Jesus Izaguirre<br />Current Position: Assistant Professor at UT Dallas</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/ChristopherMoretti.png/@@images/5b60acf4-d881-4cae-9df9-f6990c9fc0cd.png" alt="Christopher Morretti" class="image-inline" title="Christopher Morretti" /></td>
+<td>
+<p><strong>Dr. Christopher Moretti</strong><br />2010<br />Advisor: Dr. Douglas Thain<br />Current Position: Lecturer at Princeton University</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/JianMu.jpg/@@images/bcdbfb09-7dc3-460a-9c98-5b619e3f17dc.jpeg" alt="Dr. Jian Mu, PhD" class="image-inline" title="Dr. Jian Mu, PhD" /></td>
+<td colspan="1">
+<p><strong>Dr. Jian Mu</strong><br />2014<br />Advisor: Dr. Danny Chen<br />Current Position: Software Engineer at Apple</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/RichardMurphy.jpg/@@images/f5298a47-2aca-4996-a449-4c1a1005eb8c.jpeg" alt="Dr. Richard Murphy" class="image-inline" title="Dr. Richard Murphy" /></td>
+<td>
+<p><strong>Dr. Richard Murphy</strong><br />2006<br />Advisor: Dr. Peter Kogge<br />Current Position: Director of Advanced Memory Systems Pathfinding at Micron Technology</p>
+<p><br /><a href="http://www.sandia.gov/%7Ercmurph">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/copy4_of_Nopicture.jpeg/@@images/69789da3-1c42-4a57-bc4d-3fd89bc25085.jpeg" alt="" class="image-inline" title="" /></td>
+<td colspan="1">
+<p><strong>Dr. Cynthia Nikolai</strong><br />2015<br />Advisor: Dr. Gregory Madey<br />Current Position: Emergency Management Researcher,</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/MichaelNiemier2.jpg/@@images/ba790ca2-8cd6-4878-ac6c-55127ce70b71.jpeg" alt="Dr. Michael Niemier" class="image-inline" title="Dr. Michael Niemier" /></td>
+<td>
+<p><strong>Dr. Michael Niemier</strong><br />2004<br />Advisor: Dr. Peter Kogge<br />Current Position: Associate Professor at the University of Notre Dame<br /><a href="http://www.cse.nd.edu/%7Emniemier">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/graduate-student-images/ShawnONeil.jpg/@@images/af57b9ac-1f99-429c-96d1-a65350a3971c.jpeg" alt="Shawn O'Neil" class="image-inline" title="Shawn O'Neil" /></td>
+<td>
+<p><strong>Dr. Shawn O'Neil</strong><br />2012<br />Advisor: Dr. Scott Emrich<br />Current Position: Faculty Research Assistant and Bioinformatics Trainer at the Center for Genome Research and Biocomputing at Oregon State University</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-timothy-oneil" alt="Dr. Timothy O'Neil" class="image-inline" title="Dr. Timothy O'Neil" /></td>
+<td>
+<p><strong>Dr. Timothy O'Neil</strong><br />2002<br />Advisors: Dr. Peter Kogge and Dr. Edwin Sha<br />Current Position: Associate Professor at the University of Akron<br /><a href="http://www.cs.uakron.edu/%7Etoneil">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/VsevolodPanteleenko.jpg/@@images/71765403-568e-4d49-8337-3e95b99f686b.jpeg" alt="Dr. Vsevolod Panteleenk" class="image-inline" title="Dr. Vsevolod Panteleenk" /></td>
+<td>
+<p><strong>Dr. Vsevolod Panteleenko</strong><br />2002<br />Advisor: Dr. Vincent Freeh<br />Current Position: Research Scientist and Engineer,  Oracle</p>
+</td>
+</tr>
+<tr>
+<td colspan="1">
+<p><img src="http://cse.nd.edu/people/graduate-student-images/jeffrey-paone/@@images/40f0a004-cbab-4f88-9177-d2f4646a5832.jpeg" alt="Jeffrey Paone" class="image-inline" title="Jeffrey Paone" /></p>
+</td>
+<td colspan="1">
+<p><strong>Dr. Jeffrey Paone</strong><br />2013<br />Advisor: Dr. Patrick Flynn<br />Current Position: Teaching Associate Professor at Colorado School of Mines</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-nelson-passos" alt="Dr. Nelson Passos" class="image-inline" title="Dr. Nelson Passos" /></td>
+<td>
+<p><strong>Dr. Nelson Passos</strong><br />1996<br />Advisor: Dr. Edwin Sha<br />Current Position: Professor and Graduate Coordinator of Computer Science at Midwestern State University<br /><a href="http://cs.mwsu.edu/%7Epassos">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/AlecPawling.jpg/@@images/94bb5802-aad5-4431-b3c7-ac659ba0b913.jpeg" title="Alec Pawling" height="109" width="95" alt="Alec Pawling" class="image-inline" /></td>
+<td>
+<p><strong>Dr. Alec Pawling</strong><br />2011<br />Advisor: Dr. Gregory Madey<br />Current Position: Scientific Computing Specialist, Rowland Institute at Harvard University</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><img src="http://cse.nd.edu/people/GangQuan.jpg/@@images/8ce4ae57-5f46-4acf-bb83-843864f8b205.jpeg" alt="Dr. Gang Quan" class="image-inline" title="Dr. Gang Quan" /></p>
+</td>
+<td>
+<p><strong>Dr. Gang Quan</strong><br />2002<br />Advisor: Dr. Sharon Hu<br />Current Position: Associate Professor, Florida International University</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/TroyRaedercropped.jpg/@@images/f8a73514-cd29-4342-bd1d-cddf19f73073.jpeg" alt="Dr. Troy Raeder 2" class="image-inline" title="Dr. Troy Raeder 2" /></td>
+<td colspan="1">
+<p><strong>Dr. Troy Raeder</strong><br />2012<br />Advisor: Dr. Nitesh Chawla<br />Current Position: Principal Data Scientist at Distillery</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/DineshRajan2.jpg/@@images/03f564b1-3633-4f04-85a4-526fe49d8b60.jpeg" alt="Dr. Dinesh Rajan" class="image-inline" title="Dr. Dinesh Rajan" /></td>
+<td colspan="1">
+<p><strong>Dr. Dinesh Rajan</strong><br />2015<br />Advisor: Dr. Douglas Thain<br />Current Position: Software Development Engineer at Amazon Web Services</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/AllisonRegier.jpg/@@images/572cc72f-60d4-4437-bdda-3b12d6d25762.jpeg" title="Dr. Allison Regier 2" height="119" width="95" alt="Dr. Allison Regier 2" class="image-inline" /></td>
+<td>
+<p><strong>Dr. Alison Regier</strong><br />2011<br />Advisor: Dr. Scott Emrich<br />Current Position: Senior Scientist at The Genome Institute, Washington University in St Louis</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/nathanregola.jpg/@@images/7bed023f-2bd2-4913-92b4-573b725ca8a4.jpeg" title="" height="107" width="95" alt="" class="image-inline" /></td>
+<td>
+<p><strong>Dr. Nathan Regola</strong><br />2012<br />Advisor: Dr. Nitesh Chawla<br />Current Position: Big Data and Cloud Computing,  Contract Consultant, Metro Systems, Inc</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/andrew_rider.jpg/@@images/7ecc4617-5f71-4f4c-bdbe-fc9e340ecb7d.jpeg" alt="Dr. Andrew Rider" class="image-inline" title="Dr. Andrew Rider" /></td>
+<td colspan="1">
+<p class="title"><strong>Dr. Andrew Rider</strong><br />2013<br />Advisor: Dr. Nitesh Chawla<br />Current Position: Data Scientist at Postmates</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/copy_of_ArunRodrigues.jpg/@@images/e2969f3c-bb21-4c57-a099-a12c1e8c5a3d.jpeg" alt="Dr. Arun Rodrigues" class="image-inline" title="Dr. Arun Rodrigues" /></td>
+<td>
+<p><strong>Dr. Arun Rodrigues</strong><br />2006<br />Advisor: Dr. Peter Kogge<br />Current Position: Senior Member of the Technical Staff at Sandia National Laboratories</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy7_of_no_photoND.jpeg/@@images/3c11f19b-1feb-4452-ba39-66877a3d9f06.jpeg" alt="" class="image-inline" title="" /></td>
+<td>
+<p><strong>Dr. John Saldanha</strong><br />1997</p>
+<p>Advisor: Dr. David Cohn<br />Current Position: Software Engineer, Comcast</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/DavidSalyers.jpg/@@images/25cc461e-fec3-479c-aa12-5ff33026a4fe.jpeg" alt="" class="image-inline" title="" /></td>
+<td>
+<p><strong>Dr. David Salyers</strong><br />2008<br />Advisor: Dr. Aaron Striegel<br />Current Position: Consulting Member of Technical Staff at Oracle</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-paul-schermerhorn" alt="Dr. Paul Schermerhorn" class="image-inline" title="Dr. Paul Schermerhorn" /></td>
+<td>
+<p><strong>Dr. Paul Schermerhorn</strong><br />2006<br />Advisor: Dr. Matthias Scheutz<br />Current Position: Post-Doctoral Research Associate at Indiana University<br /><a href="http://hri.cogs.indiana.edu/%7Epscherme">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/copy_of_TimSchoenharl.jpg/@@images/04821c04-ef84-4975-bb78-6250bd9e567b.jpeg" alt="Dr. Timothy Schoenharl" class="image-inline" title="Dr. Timothy Schoenharl" /></td>
+<td>
+<p class="title"><strong>Dr. Timothy Schoenharl</strong><br />2007<br />Advisor: Dr. Gregory Madey<br />Current Position:  Software Development Manager - IPC Lab at Amazon</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/AmandaSgroi2.jpg/@@images/e3713564-b2d3-49a2-ba4c-acdff17c125a.jpeg" alt="Dr. Amanda Sgroi" class="image-inline" title="Dr. Amanda Sgroi" /></td>
+<td colspan="1">
+<p><strong>Dr. Amanda Sgroi</strong><br />2015<br />Advisor: Dr. Patrick Flynn<br />Current Position:  Computer Vision Scientist, ChemImage Corp.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-michael-sheliga" alt="Dr. Michael Sheliga" class="image-inline" title="Dr. Michael Sheliga" /></td>
+<td>
+<p><strong>Dr. Michael Sheliga</strong><br />1997<br />Advisor: Dr. Edwin Sha<br />Current Position: Assistant Professor at Eastern Kentucky University</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/FengTomShencropped.jpg/@@images/140b87a9-4a78-4e17-9b4e-2aa0181e6513.jpeg" title="Dr. Feng Shen" height="135" width="95" alt="Dr. Feng Shen" class="image-inline" /></td>
+<td colspan="1">
+<p><strong>Dr. Feng (Tom) Shen</strong><br />2015<br />Advisor: Dr. Patrick Flynn<br />Current Position: Software Engineer, Google</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/NadineShillingfordnew.jpg/@@images/a4049b95-4483-4716-8fa1-ecfe3bbdb8aa.jpeg" title="Dr. Nadine Shillingford" height="122" width="94" alt="Dr. Nadine Shillingford" class="image-inline" /></td>
+<td>
+<p><strong>Dr. Nadine Shillingford-Wondem</strong><br />2010<br />Advisor: Dr. Christian Poellabauer<br />Current Position: Consultant - Splunk Engineer at GE</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/JeffSquyres.jpg/@@images/5b0f6fdc-48f7-41ac-84f2-cbe89de9ac5f.jpeg" alt="Dr. Jeffrey Squyres" class="image-inline" title="Dr. Jeffrey Squyres" /></td>
+<td>
+<p class="title"><strong>Dr. Jeff Squyres</strong><br />2004<br />Advisor: Dr. Andrew Lumsdaine<br />Current Position: MPI Architect at Cisco Systems, Inc.</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/SrinivasSridharan.jpg/@@images/806d50a9-89d1-41e5-b9c5-df5238dc216b.jpeg" alt="Dr. Srinivas Sridharan" class="image-inline" title="Dr. Srinivas Sridharan" /></td>
+<td>
+<p><strong>Dr. Srinivas Sridharan</strong><br />2010<br />Advisor: Dr. Peter Kogge<br />Current Position: Research Scientist, Intel Labs, India</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/NishaSrinivas2.jpg/@@images/96b2c5ca-5ccd-49bf-927a-8647d358b6cc.jpeg" alt="Dr. Nisha Srinivas" class="image-inline" title="Dr. Nisha Srinivas" /></td>
+<td colspan="1">
+<p><strong>Dr. Nisha Srinivas</strong><br />2015<br />Advisor: Dr. Patrick Flynn<br />Current Position: Post-Doc, Oak Ridge Laboratories</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-karsten-steinhaeuser" alt="Dr. Karsten Steinhaeuser" class="image-inline" title="Dr. Karsten Steinhaeuser" /></td>
+<td>
+<p><strong>Dr. Karsten Steinhaeuser</strong><br />2011<br />Advisor: Dr. Nitesh Chawla and Dr. Auroop Ganguly<br />Current Position: Research Associate, Progeny Systems, University of Minnesota</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy_of_DavidSurma.jpg/@@images/15065eb7-413e-456f-a69f-b13ffdc3fddc.jpeg" alt="Dr. David Surma" class="image-inline" title="Dr. David Surma" /></td>
+<td>
+<p><strong>Dr. David Surma</strong><br />1998<br />Advisor: Dr. Edwin Sha<br />Current Position: Chairman and Associate Professor at Indiana University - South Bend<br /><a href="http://mypage.iusb.edu/%7Edsurma">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/Szczerbacropped.jpg/@@images/8dc6e21c-602c-40ec-a4c8-47eb61bf1cfe.jpeg" alt="Dr. Robert Szczerba" class="image-inline" title="Dr. Robert Szczerba" /></td>
+<td>
+<p><strong>Dr. Robert Szczerba</strong><br />1996<br />Advisors: Dr. Danny Chen and Dr. John Uhran<br />Current Position: CEO X Tech Ventures; Rocket Scientist Re-Engineering Healthcare; Forbes &amp; HuffPost Contributor</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-deborah-thomas" alt="Dr. Deborah Thomas" class="image-inline" title="Dr. Deborah Thomas" /></td>
+<td>
+<p><strong>Dr. Deborah Thomas</strong><br />2010<br />Advisor: Dr. Kevin Bowyer and Dr. Patrick Flynn<br />Current Position: Assistant Professor Bethel University</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/jim-thomas/@@images/da34e582-fadc-4ef2-97c3-cfc41a4afc5e.jpeg" alt="Jim Thomas" class="image-inline" title="Jim Thomas" /></td>
+<td colspan="1">
+<p><strong>Dr. Jim Thomas</strong><br />2013<br />Advisors: Dr. Kevin Bowyer /Dr. Ashan Kareem<br />Current Position: Research Scientist, Amazon</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/copy_of_ShyamThoziyoor.jpg/@@images/b2005c04-92b1-4c8a-adf5-4b2e12aaffc7.jpeg" alt="Dr. Shyam Thoziyoor" class="image-inline" title="Dr. Shyam Thoziyoor" /></td>
+<td>
+<p class="title"><strong>Dr. Shyamkumar Thoziyoor</strong><br />2008<br />Advisor: Dr. Jay Brockman<br />Current Position: Staff Engineer at Qualcomm</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/JoeThompson.jpg/@@images/347ce85f-9512-482b-a4a1-c16106200699.jpeg" alt="Dr. Joseph Thompson" class="image-inline" title="Dr. Joseph Thompson" /></td>
+<td colspan="1">
+<p><strong>Dr. Joseph Thompson</strong><br />2014<br />Advisor: Dr. Patrick Flynn<br />Current Position: Software Engineer, Google - Pittsburgh</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/copy_of_AndrewThrasher.jpg/@@images/3a405cf4-4de5-4749-bc78-956620b6fa46.jpeg" alt="Dr. Andrew Thrasher" class="image-inline" title="Dr. Andrew Thrasher" /></td>
+<td colspan="1">
+<p><strong>Dr. Andrew Thrasher</strong><br />2013<br />Advisor: Dr. Scott Emrich<br />Current Position: Senior Software Engineer, St. Jude Children's Research Hospital</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/SissadesTongsima.jpg/@@images/f7eb89ac-e33b-48fb-a6ec-c8d9b51ab7ca.jpeg" alt="Dr. Sissades Tongsima" class="image-inline" title="Dr. Sissades Tongsima" /></td>
+<td>
+<p><strong>Dr. Sissades Tongsima</strong><br />1999<br />Advisor: Dr. Edwin Sha<br />Current Position:  Principal Researcher, National Center for Genetic Engineering and Biotechnology<strong>, </strong>Thailand</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/MatthewVanAntwerp.jpg/@@images/ce6ba289-486b-4d99-a708-3d777ad81a75.jpeg" alt="Dr. Matthew VanAntwerp" class="image-inline" title="Dr. Matthew VanAntwerp" /></td>
+<td colspan="1">
+<p class="title"><strong>Dr. Matthew VanAntwerp</strong><br />2013<br />Advisor: Dr. Gregory Madey<br />Current Position:  Web Engineer at Sciences Po - Department of Economics</p>
+</td>
+</tr>
+<tr>
+<td colspan="1">
+<p><img src="http://cse.nd.edu/people/graduate-student-images/dirk-vanbruggen/@@images/6281a685-d4b2-4d8d-9f2f-02f95140e8a7.jpeg" alt="Dirk VanBruggen" class="image-inline" title="Dirk VanBruggen" /></p>
+</td>
+<td colspan="1">
+<p><strong>Dr. Dirk VanBruggen</strong><br />2014<br />Advisor: Dr.Aaron Striegel<br />Current Position: Computer Systems Researcher, DoD</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/copy_of_MeganVance.jpg/@@images/5095863f-63a5-4416-84e3-c40481385b6f.jpeg" alt="Dr. Megan Vance" class="image-inline" title="Dr. Megan Vance" /></td>
+<td>
+<p><strong>Dr. Megan (Vance) Grodowitz<br /></strong></p>
+<p>2010<br />Advisor: Dr. Peter Kogge<br />Current Position:  Computer Scientist at Oak Ridge National Laboratory</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-chao-wang" alt="Dr. Chao Wang" class="image-inline" title="Dr. Chao Wang" /></td>
+<td>
+<p><strong>Dr. Chao Wang</strong><br />2007<br />Advisor: Dr. Danny Chen<br />Current Position: Senior Software Engineer, OPNET Technologies, Inc</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/HaitaoWang.jpg/@@images/51fba752-ebfc-44e7-8361-e490216e91f2.jpeg" alt="Dr. Haitao Wang" class="image-inline" title="Dr. Haitao Wang" /></td>
+<td>
+<p><strong>Dr. Haitao Wang</strong><br />2010<br />Advisor: Dr. Danny Chen<br />Current Position:  Assistant Professor at Utah State University</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-zhong-wang" alt="Dr. Zhong Wang" class="image-inline" title="Dr. Zhong Wang" /></td>
+<td>
+<p><strong>Dr. Zhong Wang</strong><br />2007<br />Advisor: Dr. Sharon Hu<br />Current Position: Senior software developer at Bloomberg LP</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/KyleWheeler.jpg/@@images/8b18a001-c952-4826-bddd-f8db2259ac6d.jpeg" alt="Dr. Kyle Wheeler" class="image-inline" title="Dr. Kyle Wheeler" /></td>
+<td>
+<p class="title"><strong>Dr. Kyle Wheeler</strong><br />2009<br />Advisor: Dr. Douglas Thain<br />Current Position: Senior Advanced Memory Software Architect at Micron Technology</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/yi-wei/@@images/e640178d-0918-455e-80f7-62f656189932.jpeg" alt="Yi Wei" class="image-inline" title="Yi Wei" /></td>
+<td colspan="1">
+<p><strong>Dr. Yi (David) Wei</strong><br />2013<br />Advisor: Dr. Brian Blake<br />Current Position: Software Development Engineer, Microsoft Corporation</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/DamonWoodard.jpg/@@images/6d04a88e-3253-49b3-a0b0-6476246ee4b4.jpeg" alt="Dr. Damon Woodard" class="image-inline" title="Dr. Damon Woodard" /></td>
+<td>
+<p><strong>Dr. Damon Woodard</strong><br />2005<br />Advisor: Dr. Patrick Flynn<br />Current Position: Associate Professor, Department of Electrical and Computer Engineering at University of Florida</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-justin-wozniak" alt="Dr. Justin Wozniak" class="image-inline" title="Dr. Justin Wozniak" /></td>
+<td>
+<p><strong>Dr. Justin Wozniak</strong><br />2008<br />Advisor: Dr. Aaron Striegel<br />Current Position: Assistant Computer Scientist at Argonne National Laboratory</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/wright.jpg/@@images/320d887e-3e73-4be6-8a7a-2142d3de950e.jpeg" alt="Dr. Timothy Wright" class="image-inline" title="Dr. Timothy Wright" /></td>
+<td>
+<p><strong>Dr. Timothy Wright</strong><br />2009<br />Advisor: Dr. Gregory Madey<br />Current Position: Assistant Director, Information Systems Security and Compliance, ITC, Notre Dame</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-xiadong-wu" alt="Dr. Xiadong Wu" class="image-inline" title="Dr. Xiadong Wu" /></td>
+<td>
+<p><strong>Dr. Xiaodong Wu</strong><br />2002<br />Advisor: Dr. Danny Chen<br />Current Position: Associate Professor at the University of Iowa<br /><a href="http://www.engineering.uiowa.edu/%7Exwu3">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" src="http://cse.nd.edu/resolveuid/830c0d45-0537-492f-b032-ae2d5b476c62/@@images/image/portrait_popup" /></td>
+<td colspan="1">
+<p><strong>Dr. Kai Xiao</strong><br />2015<br />Advisor: Dr. Sharon Hu/Dr. Danny Chen<br />Current Position: Graphics Research Scientist, Intel Corp</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-xiaorong-xiang" alt="Dr. Xiaorong Xiang" class="image-inline" title="Dr. Xiaorong Xiang" /></td>
+<td>
+<p class="title"><strong>Dr. Xiaorong Xiang</strong><br />2007<br />Advisor: Dr. Gregory Madey<br />Current Position: Principle Software Engineer at Broad Institute of MIT and Harvard, The Center for the Science of Therapeutics</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy7_of_no_photoND.jpeg/@@images/3c11f19b-1feb-4452-ba39-66877a3d9f06.jpeg" alt="" class="image-inline" title="" /></td>
+<td>
+<p><strong>Dr. Bin Xu</strong><br />2008<br />Advisor: Dr. Danny Chen<br />Current Position: Sears Holdings Corporation</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-jin-xu" alt="Dr. Jin Xu" class="image-inline" title="Dr. Jin Xu" /></td>
+<td>
+<p class="title"><strong>Dr. Jin Xu</strong><br />2007<br />Advisor: Dr. Gregory Madey<br />Current Position: Quantitative Analyst at Lord Abbett</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-jinhui-xu" alt="Dr. Jinhui Xu" class="image-inline" title="Dr. Jinhui Xu" /></td>
+<td>
+<p><strong>Dr. Jinhui Xu</strong><br />2000<br />Advisor: Dr. Danny Chen<br />Current Position: Professor at SUNY - Buffalo<br /><a href="http://www.cse.buffalo.edu/%7Ejinhui">Homepage</a></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/nikhil-yadav/@@images/b86dc74e-0c62-4048-a7af-24294b98906b.jpeg" alt="Nikhil Yadav" class="image-inline" title="Nikhil Yadav" /></td>
+<td colspan="1">
+<p><strong>Dr. Nikhil Yadav</strong><br />2015<br />Advisor: Dr. Christian Poellabauer<br />Current Position: Assistant Professor, St. John's University</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-ping-yan" alt="Dr. Ping Yan" class="image-inline" title="Dr. Ping Yan" /></td>
+<td>
+<p><strong>Dr. Ping Yan</strong><br />2006<br />Advisor: Dr. Kevin Bowyer<br />Current Position: Senior Software Engineer for Swift Biometrics, Inc.</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/yang-yang/@@images/7311fd59-8f3e-475e-beb7-63c4cf215829.jpeg" alt="Yang Yang" class="image-inline" title="Yang Yang" /></td>
+<td colspan="1">
+<p><strong>Dr. Yang Yang</strong><br />2015<br />Advisor: Dr. Nitesh Chawla<br />Current Position: Research Assistant at Northwestern University</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/JunYi.jpg/@@images/02122549-0d7e-40e3-a444-a9a017c22e05.jpeg" alt="Dr. Jun Yi" class="image-inline" title="Dr. Jun Yi" /></td>
+<td>
+<p><strong>Dr. Jun Yi</strong><br />2012<br />Advisor: Dr. Christian Poellabauer<br />Current Position: Computer Software Professional, Amazon</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/AlanYoder.jpg/@@images/1a91404b-7529-409f-81d7-652d6de85585.jpeg" alt="Dr. Alan Yoder" class="image-inline" title="Dr. Alan Yoder" /></td>
+<td>
+<p class="title"><strong>Dr. Alan Yoder</strong><br />1998<br />Advisor: Dr. David Cohn<br />Current Position: Chair, SMI Governing Board at SNIA</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-stanley-yoder" alt="Dr. Stanley Yoder" class="image-inline" title="Dr. Stanley Yoder" /></td>
+<td>
+<p><strong>Dr. Stanley Yoder</strong><br />1998<br />Advisor: Dr. Jay Brockman<br />Current Position: Business Owner, Yoder Construction, LLC</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/LiYu.jpg/@@images/72cbe205-bfc3-4c3d-a1ed-ce896a9dee79.jpeg" alt="Dr. Li Yu" class="image-inline" title="Dr. Li Yu" /></td>
+<td colspan="1">
+<p><strong>Dr. Li Yu</strong><br />2013<br />Advisor: Dr. Douglas Thain<br />Current Position: Financial Software Developer, Bloomberg</p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-xuwen-yu" alt="Dr. Xuwen Yu" class="image-inline" title="Dr. Xuwen Yu" /></td>
+<td>
+<p><strong>Dr. Xuwen Yu</strong><br />2009<br />Advisor: Dr. Surendar Chandra<br />Current Position: Staff Engineer at VMware, Inc.</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/AlexZavodnycropped.jpg/@@images/ecdf8a0c-df01-48a4-bafc-7aaf94796ad8.jpeg" alt="Dr. Alex Zavodny 2" class="image-inline" title="Dr. Alex Zavodny 2" /></td>
+<td colspan="1">
+<p><strong>Dr. Alex Zavodny</strong><br />2013<br />Advisor: Dr. Patrick Flynn<br />Current Position: Senior Engineer at HERE</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/graduate-student-images/zz_portrait.png/@@images/3bf26cbe-018b-4c41-81de-075677e328b1.png" title="Zhai Zhi" height="125" width="95" alt="Zhai Zhi" class="image-inline" /></td>
+<td colspan="1">
+<p><strong>Dr. Zhi Zhai</strong><br />2013<br />Advisor: Dr. Gregory Madey<br />Current Position: Software Engineer at the Advisory Board Co.</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img class="image-inline" height="131" src="http://cse.nd.edu/resolveuid/234055c0-aa83-4cff-b194-dc3b49fe6bee/@@images/image/portrait_popup" width="97" /></td>
+<td colspan="1">
+<p><strong>Dr. Yihua Zhang</strong><br />2015<br />Advisor: Dr. Marina Blanton<br />Current Position: Post Doctoral Research, Notre Dame</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/WeiZhang.jpg/@@images/f1f2faf3-f130-4bac-a214-f0e98bfe0551.jpeg" title="Dr. Wei Zhang" height="119" width="95" alt="Dr. Wei Zhang" class="image-inline" /></td>
+<td colspan="1">
+<p class="title"><strong>Dr. Wei Zhang</strong><br />2014<br />Advisor: Dr. Scott Emrich<br />Current Position: Data Scientist / Software Engineer at WalmartLabs</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/copy7_of_no_photoND.jpeg/@@images/3c11f19b-1feb-4452-ba39-66877a3d9f06.jpeg" alt="" class="image-inline" title="" /></td>
+<td>
+<p><strong>Dr. Yumin Zhang</strong><br />2002<br />Advisor: Dr. Sharon Hu<br />Current Position: Engineering Manager at Google</p>
+</td>
+</tr>
+<tr>
+<td colspan="1"><img src="http://cse.nd.edu/people/alumni-pictures/YingZhou.jpg/@@images/1702f08f-6c14-477e-89f4-a89d02f00c69.jpeg" alt="Dr. Ying Zhou" class="image-inline" title="Dr. Ying Zhou" /></td>
+<td colspan="1">
+<p class="title"><strong>Dr. Ying Zhou</strong><br />2014<br />Advisor: Dr. Gregory Madey<br />Current Position:  Software Engineer at ArcSight, HP Enterprise Security</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td><img src="http://cse.nd.edu/people/alumni-pictures/dr.-victor-zyuban" alt="Dr. Victor Zyuban" class="image-inline" title="Dr. Victor Zyuban" /></td>
+<td>
+<p><strong>Dr. Victor Zyuban</strong><br />2000<br />Advisor: Dr. Peter Kogge<br />Current Position:  SoC Design at Apple</p>
+</td>
+</tr>
+</tbody>
+</table>
+            
+        </div>
+    
+    
+
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+
+            </td>
+            
+
+            
+                
+                
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <div id="portal-footer">
+    <a href="http://www.nd.edu" class="mark" title="University of Notre Dame" target="_new"><img src="undlogo-31.png" alt="University of Notre Dame" /></a>
+    <p><a href="http://www.nd.edu/copyright/" title="Copyright" target="_new">Copyright</a> &copy; <span>2016</span><br />
+    The <a title="Home" href="http://cse.nd.edu">Department of Computer Science and Engineering</a> at the <a href="http://www.nd.edu" title="University of Notre Dame" target="_new">University of Notre Dame</a><br />
+    E-mail: <a href="mailto:cse@cse.nd.edu" title="College of Engineering E-mail">cse@cse.nd.edu</a></p>
+</div>
+
+<script type="text/javascript"
+src="/js/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://cse.nd.edu/spinner.gif" /></div>
+</body>
+</html>
+
+
