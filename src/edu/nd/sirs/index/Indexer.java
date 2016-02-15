@@ -28,12 +28,12 @@ public class Indexer {
 
 	private static Logger logger = LoggerFactory.getLogger(Indexer.class);
 
-	private static final String DOCIDX = "./data/doc_idx.txt";
-	private static final String DOCIDXOFFSET = "./data/doc_idx_offset.txt";
-	private static final String LEXICON = "./data/lex.txt";
-	private static final String RUNSPREFIX = "./data/runs/run";
-	private static final String IDX = "./data/idx.txt";
-	private static final String IDXTERMOFFSET = "./data/idx_term_offset.txt";
+	private static final String DOCIDX = "/home/ryan/data/doc_idx.txt";
+	private static final String DOCIDXOFFSET = "/home/ryan/data/doc_idx_offset.txt";
+	private static final String LEXICON = "/home/ryan/data/lex.txt";
+	private static final String RUNSPREFIX = "/home/ryan/data/runs/run";
+	private static final String IDX = "/home/ryan/data/idx.txt";
+	private static final String IDXTERMOFFSET = "/home/ryan/data/idx_term_offset.txt";
 
 	private static final Integer RUN_SIZE = 1000000;
 	private static final Boolean COMPRESS = false;
@@ -328,7 +328,7 @@ public class Indexer {
 		});
 	}
 
-	private static final String CRL = "./data/crawl";
+	private static final String CRL = "/home/ryan/data/crawl";
 
 	public static void main(String[] args) {
 		File crawl = null;
