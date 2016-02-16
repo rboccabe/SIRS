@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 public class Lexicon {
 	private static Logger logger = LoggerFactory.getLogger(Lexicon.class);
 
-	private static final String LEXICON = "./data/lex.txt";
+	private static final String LEXICON = "/home/ryan/data/lex.txt";
 
 	private static Lexicon me = null;
 	private RandomAccessFile lex;

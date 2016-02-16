@@ -20,8 +20,8 @@ import org.slf4j.LoggerFactory;
 public class InvertedIndex {
 	private static Logger logger = LoggerFactory.getLogger(InvertedIndex.class);
 
-	private static final String IDX = "./data/idx.txt";
-	private static final String IDXTERMOFFSET = "./data/idx_term_offset.txt";
+	private static final String IDX = "/home/ryan/data/idx.txt";
+	private static final String IDXTERMOFFSET = "/home/ryan/data/idx_term_offset.txt";
 
 	private static InvertedIndex me = null;
 	private long[] offsets;
@@ -106,6 +106,9 @@ public class InvertedIndex {
 	public static void main(String[] args) {
 		InvertedIndex idx = InvertedIndex.getInstance();
 		PostingList x = idx.getPostings(100);
+		for(Posting p : x.getPostings()) {
+			System.out.println(p.getFrequency());
+		}
 		System.out.println(x);
 	}
 

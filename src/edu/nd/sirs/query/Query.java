@@ -3,6 +3,7 @@ package edu.nd.sirs.query;
 import java.util.ArrayList;
 import java.util.List;
 
+import edu.nd.sirs.parser.CaseFoldingNormalizer;
 import edu.nd.sirs.parser.ITokenizer;
 import edu.nd.sirs.parser.WhitespaceTextTokenizer;
 
@@ -53,7 +54,8 @@ public class Query {
 	 * @return list of tokens
 	 */
 	private Iterable<String> parse() {
-		return tokenizer.tokenize(queryString);
+		//CaseFoldingNormalizer cfn = new CaseFoldingNormalizer();
+		return /*cfn.normalize(*/tokenizer.tokenize(queryString)/*)*/;
 	}
 
 }

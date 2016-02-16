@@ -25,8 +25,8 @@ import edu.nd.sirs.docs.TextDocument;
 public class DirectIndex {
 	private static Logger logger = LoggerFactory.getLogger(DirectIndex.class);
 
-	private static final String DOCIDX = "./data/doc_idx.txt";
-	private static final String DOCIDXOFFSET = "./data/doc_idx_offset.txt";
+	private static final String DOCIDX = "/home/ryan/data/doc_idx.txt";
+	private static final String DOCIDXOFFSET = "/home/ryan/data/doc_idx_offset.txt";
 
 	private static DirectIndex me = null;
 	private List<Long> offsets;

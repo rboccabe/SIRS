@@ -65,9 +65,6 @@ public class Matching {
 			int termId = queryTermsToMatchList.get(terms);
 
 			postingListArray.add(index.getPostings(termId));
-
-			// long docid = postingListArray(i).getId();
-			// postingHeap.enqueue((docid << 32) + i);
 		}
 		boolean targetResultSetSizeReached = false;
 		final HashMap<Integer, Hit> accumulators = new HashMap<Integer, Hit>();

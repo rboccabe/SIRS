@@ -91,8 +91,8 @@ public class CrawlerProcess {
 
 	}
 
-	private static final String TMP = "./data/crawl/tmp";
-	private static final String CRL = "./data/crawl";
+	private static final String TMP = "/home/ryan/data/crawl/tmp";
+	private static final String CRL = "/home/ryan/data/crawl";
 	private static final String URL = "http://www.nd.edu/";
 	private static final Integer DPT = 4;
 

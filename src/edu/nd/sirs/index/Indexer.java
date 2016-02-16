@@ -16,6 +16,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import edu.nd.sirs.docs.Document;
+import edu.nd.sirs.docs.HTMLDocument;
 import edu.nd.sirs.docs.TextDocument;
 
 /**
@@ -76,7 +77,7 @@ public class Indexer {
 			int written = 0;
 			for (File file : filesToIndex) {
 				logger.info("Indexing document " + file.getName());
-				Document doc = new TextDocument(docId, file);
+				Document doc = new HTMLDocument(docId, file);
 				List<String> tokens = doc.parse(docId, file);
 				index(tokens);
 				docWriterOffset.write(written + "\n");
