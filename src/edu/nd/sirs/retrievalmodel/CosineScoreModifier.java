@@ -1,8 +1,10 @@
 package edu.nd.sirs.retrievalmodel;
 
 import edu.nd.sirs.index.InvertedIndex;
+import edu.nd.sirs.index.DirectIndex;
 import edu.nd.sirs.query.Query;
 import edu.nd.sirs.query.ResultSet;
+import edu.nd.sirs.docs.HTMLDocument;
 
 /**
  * Cosine Score Modifier that performs Cosine Distance with Document Length Normalization on all results.
@@ -21,28 +23,22 @@ public class CosineScoreModifier implements ScoreModifier {
 		float[] scores = resultSet.getScores();
 		int size = resultSet.getResultSize();
 		int start = 0;
-		int end = size;
+		int end = occurrences.length;
 		int numOfModifiedDocumentScores = 0;
-		short queryLengthMask = 0;
-		
-		for (int i = 0; i < query.getTerms().size(); i++) {
-			queryLengthMask = (short) ((queryLengthMask << 1) + 1);
-		}
+		int docIDs[] = resultSet.getDocids();
 
+		
 		// modify the scores
 		for (int i = start; i < end; i++) {
-			if ((occurrences[i] & queryLengthMask) != queryLengthMask) {
-				if (scores[i] > Float.NEGATIVE_INFINITY)
-					numOfModifiedDocumentScores++;
-				scores[i] = Float.NEGATIVE_INFINITY;
-			}
+			numOfModifiedDocumentScores++;
+			scores[i] /= DirectIndex.getInstance().getDoc(docIDs[i], HTMLDocument.class).getNumTokens();
 		}
-		if (numOfModifiedDocumentScores == 0) {
-			return false;
-		}
-		resultSet.setResultSize(size - numOfModifiedDocumentScores);
+
+		int numUnmodifiedDocumentScores = scores.length - numOfModifiedDocumentScores;
+		resultSet.setResultSize(size - numUnmodifiedDocumentScores);
 		resultSet.setExactResultSize(resultSet.getExactResultSize()
-				- numOfModifiedDocumentScores);
+				- numUnmodifiedDocumentScores);
+		resultSet.sort(numOfModifiedDocumentScores);
 		return true;
 	}
 
