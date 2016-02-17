@@ -2,11 +2,15 @@ package edu.nd.sirs.docs;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 
 /**
  * Abstract class that represents a general Document.
@@ -17,8 +21,8 @@ import java.util.Map;
 public abstract class Document {
 	protected String name;
 	protected int docId;
-	protected int numTokens;
-	protected Map<String, String> resources;
+	protected Map<Field, Integer> numTokens;
+	protected Map<String, Object> resources;
 
 	/**
 	 * Constructor from indexer
@@ -28,11 +32,11 @@ public abstract class Document {
 	 * @param file
 	 *            File to parse
 	 */
-	public Document(Integer docId, File file) {
+	public Document(Integer docId, String name) {
 		this.docId = docId;
-		this.name = file.getName();
-		this.numTokens = 0;
-		resources = new HashMap<String, String>();
+		this.name = name;
+		this.numTokens = new HashMap<Field, Integer>();
+		resources = new HashMap<String, Object>();
 	}
 
 	/**
@@ -42,12 +46,15 @@ public abstract class Document {
 	 *            document ID
 	 * @param line
 	 *            Text tokens to read
+	 * @param d
+	 *            Parameter Needed to differentiate between readbyline and read
+	 *            by InputStream
 	 */
-	public Document(Integer docId, String line) {
+	public Document(Integer docId, String line, Boolean d) {
 		this.docId = docId;
 		this.name = "";
-		this.numTokens = 0;
-		resources = new HashMap<String, String>();
+		this.numTokens = new HashMap<Field, Integer>();
+		resources = new HashMap<String, Object>();
 		readFromIndex(line);
 	}
 
@@ -59,8 +66,12 @@ public abstract class Document {
 		return docId;
 	}
 
-	public int getNumTokens() {
-		return numTokens;
+	public int getNumTokens(Field f) {
+		return numTokens.get(f);
+	}
+
+	public Map<String, Object> getResources() {
+		return resources;
 	}
 
 	/**
@@ -74,13 +85,21 @@ public abstract class Document {
 	public String writeToIndex() {
 		StringBuffer sb = new StringBuffer();
 
-		sb.append(getDocId() + "\t" + getName() + "\t" + getNumTokens());
-		for (Map.Entry<String, String> e : resources.entrySet()) {
-			sb.append("\t" + e.getKey() + ":" + e.getValue());
+		sb.append(getDocId() + "\t" + getName() + "\t" + printNumTokens());
+		for (Map.Entry<String, Object> e : resources.entrySet()) {
+			sb.append("\t" + e.getKey() + "-#-" + e.getValue());
 		}
 		sb.append("\n");
 
 		return sb.toString();
+	}
+
+	private String printNumTokens() {
+		StringBuffer sb = new StringBuffer();
+		for (Entry<Field, Integer> e : numTokens.entrySet()) {
+			sb.append(e.getKey().field + ":" + e.getValue() + ",");
+		}
+		return sb.toString().substring(0, sb.length() - 1);
 	}
 
 	/**
@@ -95,10 +114,19 @@ public abstract class Document {
 		String[] s = line.split("\t");
 		docId = Integer.parseInt(s[0]);
 		name = s[1];
-		numTokens = Integer.parseInt(s[2]);
+		String[] numtoksStr = s[2].split(",");
+		for (int i = 0; i < numtoksStr.length; i++) {
+			String[] r = numtoksStr[i].split(":");
+			Field f = new Field(Integer.parseInt(r[0]));
+			numTokens.put(f, Integer.parseInt(r[1]));
+		}
+
 		for (int i = 3; i < s.length; i++) {
-			String[] r = s[i].split(":");
-			resources.put(r[0], r[1]);
+			String[] r = s[i].split("-#-");
+			if (r.length == 2) {
+				r[1].replaceAll("\"", "");
+				resources.put(r[0], r[1]);
+			}
 		}
 	}
 
@@ -112,13 +140,13 @@ public abstract class Document {
 	 *            File to parse
 	 * @return Collection of Text Tokens
 	 */
-	public abstract List<String> parse(Integer docId, File file);
+	public abstract List<Token> parse(Integer docId, InputStream is);
 
-	protected String readFile(File file) {
+	protected String readFile(InputStream is) {
 		StringBuffer contentBuffer = new StringBuffer();
 		try {
-			FileReader fr = new FileReader(file);
-			BufferedReader br = new BufferedReader(fr);
+			BufferedReader br = new BufferedReader(new InputStreamReader(is,
+					"UTF-8"));
 			String line = "";
 
 			while ((line = br.readLine()) != null) {

@@ -3,6 +3,7 @@ package edu.nd.sirs.docs;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -30,8 +31,8 @@ public class TextDocument extends Document {
 	 * @param file
 	 *            File to parse
 	 */
-	public TextDocument(Integer docId, File file) {
-		super(docId, file);
+	public TextDocument(Integer docId, String name) {
+		super(docId, name);
 	}
 
 	/**
@@ -42,18 +43,23 @@ public class TextDocument extends Document {
 	 * @param line
 	 *            Text tokens to read
 	 */
-	public TextDocument(Integer docId, String line) {
-		super(docId, line);
+	public TextDocument(Integer docId, String line, Boolean b) {
+		super(docId, line, b);
 	}
 
 	@Override
-	public List<String> parse(Integer docId, File f) {
+	public List<Token> parse(Integer docId, InputStream is) {
+		Fields.getInstance().addField("body");
+		List<Token> tokens = new ArrayList<Token>();
 		ITokenizer tokenizer = new WhitespaceTextTokenizer();
-		List<String> toks = tokenizer.tokenize(this.readFile(f));
+		List<String> toks = tokenizer.tokenize(this.readFile(is));
+		for(String t: toks){
+			tokens.add(new Token(t, Fields.getInstance().getFieldId("body")));
+		}
+		
+		numTokens.put(Fields.getInstance().getFieldId("body"), toks.size());
 
-		numTokens = toks.size();
-
-		return toks;
+		return tokens;
 	}
 
 }

@@ -1,9 +1,13 @@
 package edu.nd.sirs.docs;
 
 import java.io.File;
+import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.List;
 
 import org.jsoup.Jsoup;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -17,7 +21,7 @@ import edu.nd.sirs.parser.WhitespaceTextTokenizer;
  *
  */
 public class HTMLDocument extends Document {
-	
+
 	private static Logger logger = LoggerFactory.getLogger(HTMLDocument.class);
 
 	/**
@@ -28,8 +32,8 @@ public class HTMLDocument extends Document {
 	 * @param file
 	 *            File to parse
 	 */
-	public HTMLDocument(Integer docId, File file) {
-		super(docId, file);
+	public HTMLDocument(Integer docId, String name) {
+		super(docId, name);
 	}
 
 	/**
@@ -40,25 +44,66 @@ public class HTMLDocument extends Document {
 	 * @param line
 	 *            Text tokens to read
 	 */
-	public HTMLDocument(Integer docId, String line) {
-		super(docId, line);
+	public HTMLDocument(Integer docId, String line, Boolean b) {
+		super(docId, line, b);
 	}
 
 	@Override
-	public List<String> parse(Integer docId, File f) {
+	public List<Token> parse(Integer docId, InputStream is) {
 		logger.info("HTML Parsing invoked");
-		String content = this.readFile(f);
-		
-		org.jsoup.nodes.Document doc = Jsoup.parse(content);
-		String text = doc.text();
+		Fields.getInstance().addField("body");
+		Fields.getInstance().addField("link");
+		Fields.getInstance().addField("title");
+
+		String html = this.readFile(is);
+		List<Token> tokens = new ArrayList<Token>();
+
 		WhitespaceTextTokenizer tokenizer = new WhitespaceTextTokenizer();
-		List<String> tokens = tokenizer.tokenize(text);
 		CaseFoldingNormalizer normalizer = new CaseFoldingNormalizer();
-		List<String> normTokens = normalizer.normalize(tokens);
-		
-		numTokens = normTokens.size();
-		
-		return normTokens;
+
+		org.jsoup.nodes.Document doc = Jsoup.parse(html);
+		Elements h = doc.getElementsByTag("head");
+		int numtitletokens = 0;
+		if (h.size() >= 1) {
+			Elements x = h.get(0).getElementsByTag("title");
+			if (x.size() >= 1) {
+				this.resources.put("title", x.get(0).text().replaceAll("\n", " "));
+				List<String> title = tokenizer.tokenize(x.get(0).text());
+				title = normalizer.normalize(title);
+				for (String s : title) {
+					tokens.add(new Token(s, Fields.getInstance().getFieldId(
+							"title")));
+					numtitletokens++;
+				}
+			}
+		}
+		numTokens.put(Fields.getInstance().getFieldId("title"), numtitletokens);
+
+		String text = doc.getElementsByTag("body").text();
+
+		List<String> content = tokenizer.tokenize(text);
+		content = normalizer.normalize(content);
+		int contenttoks = 0;
+		for (String s : content) {
+			tokens.add(new Token(s, Fields.getInstance().getFieldId("body")));
+			contenttoks++;
+		}
+		numTokens.put(Fields.getInstance().getFieldId("body"), contenttoks);
+
+		Elements as = doc.getElementsByTag("a");
+		for (Element a : as) {
+			String url = a.absUrl("href");
+			List<Token> anchorToks = new ArrayList<Token>();
+			List<String> anchor = tokenizer.tokenize(a.text());
+			anchor = normalizer.normalize(anchor);
+			for (String s : anchor) {
+				anchorToks.add(new Token(s, Fields.getInstance().getFieldId(
+						"link")));
+			}
+			this.resources.put("l" + url, anchorToks);
+		}
+
+		return tokens;
 	}
 
 }

@@ -1,0 +1,9 @@
+query: data mining
+3690 0
+8372 0
+query: engineering
+1 0
+query: football schedule
+1 0
+query: what is dorm life like
+1 0

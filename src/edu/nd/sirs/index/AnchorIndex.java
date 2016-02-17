@@ -22,22 +22,22 @@ import edu.nd.sirs.docs.TextDocument;
  * @author tweninge
  *
  */
-public class DirectIndex {
-	private static Logger logger = LoggerFactory.getLogger(DirectIndex.class);
+public class AnchorIndex {
+	private static Logger logger = LoggerFactory.getLogger(AnchorIndex.class);
 
-	private static final String DOCIDX = "./data/doc_idx.txt";
-	private static final String DOCIDXOFFSET = "./data/doc_idx_offset.txt";
+	private static final String ANCIDX = "./data/anc_idx.txt";
+	private static final String ANCIDXOFFSET = "./data/anc_idx_offset.txt";
 
-	private static DirectIndex me = null;
+	private static AnchorIndex me = null;
 	private List<Long> offsets;
 	private RandomAccessFile idx;
 
 	/**
 	 * Singleton constructor, use getInstance()
 	 */
-	private DirectIndex() {
+	private AnchorIndex() {
 		try {
-			idx = new RandomAccessFile(DOCIDX, "r");
+			idx = new RandomAccessFile(ANCIDX, "r");
 			loadOffsets();
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -51,7 +51,7 @@ public class DirectIndex {
 	 * @throws IOException
 	 */
 	private void loadOffsets() throws IOException {
-		BufferedReader br = new BufferedReader(new FileReader(DOCIDXOFFSET));
+		BufferedReader br = new BufferedReader(new FileReader(ANCIDXOFFSET));
 		String line = br.readLine(); // number of terms
 		offsets = new ArrayList<Long>();
 
@@ -67,9 +67,9 @@ public class DirectIndex {
 	 * 
 	 * @return InvertedIndex object
 	 */
-	public static DirectIndex getInstance() {
+	public static AnchorIndex getInstance() {
 		if (me == null) {
-			me = new DirectIndex();
+			me = new AnchorIndex();
 		}
 
 		return me;
@@ -99,8 +99,8 @@ public class DirectIndex {
 			String line = idx.readLine();
 			Constructor<? extends Document> c = d
 					.getDeclaredConstructor(new Class[] { Integer.class,
-							String.class, Boolean.class });
-			return d.cast(c.newInstance(new Object[] { docid, line, false }));
+							String.class });
+			return d.cast(c.newInstance(new Object[] { docid, line }));
 		} catch (InstantiationException e) {
 			logger.error("Cannot instantiate class", e);
 		} catch (IllegalAccessException e) {
@@ -126,7 +126,7 @@ public class DirectIndex {
 	 *            none needed
 	 */
 	public static void main(String[] args) {
-		DirectIndex idx = DirectIndex.getInstance();
+		AnchorIndex idx = AnchorIndex.getInstance();
 		idx.getDoc(85, TextDocument.class);
 	}
 
