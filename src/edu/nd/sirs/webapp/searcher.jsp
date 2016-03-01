@@ -34,28 +34,31 @@
 	Matching m = null;
 %>
 <%
+    Integer file_to_use = 0;
 	switch (model) {
 	case "Boolean":
 		m = new Matching(new BooleanRM());
 		Fields.getInstance().assignWeights(wgts);
 		m.addScoreModifier(new BooleanScoreModifier());
 		rs = m.match(new Query(query));
+		file_to_use = 1;
 		break;
 	case "Cosine":
 		m = new Matching(new CosineRM());
 		Fields.getInstance().assignWeights(wgts);
 		m.addScoreModifier(new CosineScoreModifier());
 		rs = m.match(new Query(query));
+		file_to_use = 2;
 		break;
 	}
 
 	StringBuffer json_r = new StringBuffer();
 
-	Evaluate g = new Evaluate();
+	Evaluate g = new Evaluate(file_to_use);
 	EvaluationResults er = g.evaluate(rs, query, 10);
 
 	for (int i = 0; i < rs.getResultSize(); i++) {
-		int docid = rs.getDocids()[i];
+		Integer docid = rs.getDocids()[i];
 		HTMLDocument doc = (HTMLDocument) DirectIndex.getInstance()
 				.getDoc(docid, HTMLDocument.class);
 		Object title = doc.getResources().get("title");

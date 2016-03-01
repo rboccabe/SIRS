@@ -60,13 +60,46 @@ public class Evaluate {
 		this(new File(QRELS_FLDR));
 	}
 
+	public Evaluate(Integer qrels_file_switch) {
+		this(new File(QRELS_FLDR), qrels_file_switch);
+	}
+
 	public Evaluate(File qrels) {
+		this(qrels, new Integer(0));
+	}
+
+	public Evaluate(File qrels, Integer mode) {
 		rels = new HashMap<String, Map<Integer, Integer>>();
 
 		File[] files = getFiles(qrels);
-		parse(files);
+		File[] files_to_use = {null};
+		switch(mode) {
+		case 0:
+			files_to_use = files;
+			break;  //use all files as it was before
+		case 1:
+			for(File f : files) {
+				if(f.getName().equals("boolean_qrels.txt")) {
+					files_to_use[0] = f;
+				}
+			}
+			if(files_to_use[0] == null) {
+				files_to_use = files;
+			}
+			break;
+		case 2:
+			for(File f : files) {
+				if(f.getName().equals("cosine_qrels.txt")) {
+					files_to_use[0] = f;
+				}
+			}
+			if(files_to_use[0] == null) {
+				files_to_use = files;
+			}
+			break;
+		}
+		parse(files_to_use);
 	}
-
 	private void selfassess(File[] qrels) {
 
 		try {
@@ -233,8 +266,21 @@ public class Evaluate {
 			return 0;
 		}
 
-		//TODO: Add code to calculate the mean reciprocal rank
-		return 0;
+		Map<Integer, Integer> query_map = rels.get(q);
+		int doc_id;
+		for(int i = 0; i < tbl.size(); i++) {
+			doc_id = tbl.get(i);
+			if(query_map.containsKey(doc_id) && 
+			   query_map.get(doc_id) > REL_THRESH) {
+				//Assume 3 and up are relevant, 2, 1 and 0 are not
+				//Add 1 / place in relevance list to sumMRR, which
+				//will later be divided by number of queries to get
+				//MRR.
+				return ((float) 1) / (i + 1);  //i+1 for 0 indexing
+			}
+		}
+
+		return 0;   // Essentially 1 / +inf
 	}
 
 	private float calcAvgPrec(List<Integer> tbl, String q) {
@@ -243,8 +289,23 @@ public class Evaluate {
 			return 0;
 		}
 
-		//TODO: Add code to calculate the average precisions. Super hint: use the precision function!
-		return 0;
+		int recall_points = 0;
+		float precision_sum = 0;
+		Map<Integer, Integer> query_map = rels.get(q);
+		int doc_id;
+		for(int i = 0; i < tbl.size(); i++) {
+			doc_id = tbl.get(i);
+			if(query_map.containsKey(doc_id) && 
+			   query_map.get(doc_id) > REL_THRESH) {
+				//Assume 3 and up are relevant, 2, 1 and 0 are not
+				//Add precision at k (i) to precision_sum, which
+				//will later be divided by recall_points to get AvgPrecision
+				precision_sum += calcPrecision(tbl, q, i);
+				recall_points++;
+			}
+		}
+
+		return recall_points > 0 ? precision_sum / recall_points : 0;
 	}
 
 	private float calcF(float precision, float recall, int beta) {
@@ -374,6 +435,7 @@ public class Evaluate {
 			logger.error(dir + " not a directory of files.");
 			System.exit(1);
 		}
+
 		return dir.listFiles(new FilenameFilter() {
 			/**
 			 * Only accept files within the directory... do not recur into
